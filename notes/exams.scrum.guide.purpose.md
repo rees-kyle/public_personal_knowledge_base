@@ -1,8 +1,8 @@
 ---
 id: eo4mbvnru5xyrrz5o0ledjm
-title: Purpose
+title: Purpose of the Scrum Guide
 desc: ''
-updated: 1687875757277
+updated: 1687891006264
 created: 1687442911916
 ---
 
