@@ -1,8 +1,8 @@
 ---
 id: puf4so9ufupf8p4q4c5q19y
-title: Guide
+title: The 2020 Scrum Guide
 desc: ''
-updated: 1687871898893
+updated: 1687891106706
 created: 1687442731888
 ---
 
