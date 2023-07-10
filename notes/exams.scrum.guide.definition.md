@@ -1,8 +1,8 @@
 ---
 id: kvw87wdwbcn57eb2cce01ln
-title: Definition
+title: Scrum Definition
 desc: ''
-updated: 1687880657506
+updated: 1687890967467
 created: 1687443417115
 ---
 
