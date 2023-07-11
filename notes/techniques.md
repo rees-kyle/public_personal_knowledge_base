@@ -1,6 +1,6 @@
 ---
 id: j64wpr5ienwhttu9hc4t23w
-title: Study Techniques
+title: Techniques
 desc: ''
 updated: 1687162622444
 created: 1687162549069
