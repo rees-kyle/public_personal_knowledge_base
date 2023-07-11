@@ -1,6 +1,6 @@
 ---
 id: 3g0tg3vjt1kcb99dl9bjdgs
-title: Continuous Learning
+title: Temporary
 desc: ''
 updated: 1687160735188
 created: 1687160651160
