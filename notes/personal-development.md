@@ -2,7 +2,7 @@
 id: jbtceolcilk6k3whpwymypg
 title: Personal Development
 desc: ''
-updated: 1687160244977
+updated: 1689097017058
 created: 1687159944135
 ---
 
@@ -16,7 +16,7 @@ Key areas to focus on for personal development:
 
 - Goal setting: Set clear, specific, and achievable goals that align with your values and aspirations. Break them down into smaller, actionable steps to track your progress and stay motivated.
 
-- Continuous learning: Engage in lifelong learning by reading books, attending seminars, taking courses, or acquiring new skills. Stay curious and open-minded to expand your knowledge and broaden your perspectives.
+- Continuous learning: Engage in lifelong learning by reading books, attending seminars, taking courses, or acquiring new skills. Stay curious and open-minded to expand your knowledge and broaden your perspectives. Here are some [[study techniques|study-techniques]].
 
 - Time management: Learn to prioritize tasks, set boundaries, and manage your time effectively. Identify and eliminate time-wasting activities to create more space for activities that contribute to your personal growth.
 
