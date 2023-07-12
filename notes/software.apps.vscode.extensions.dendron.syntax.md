@@ -2,7 +2,7 @@
 id: h31x9h42tj5ck0sgimjqklo
 title: Syntax
 desc: ''
-updated: 1687159481509
+updated: 1689183380877
 created: 1687159115071
 ---
 
@@ -16,7 +16,7 @@ You are now viewing the folded section.
 </details>
 
 
-## Spacing 
+## White space
 
 From here
 # 
