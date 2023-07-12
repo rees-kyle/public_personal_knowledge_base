@@ -2,7 +2,7 @@
 id: llufwg7vdg2lccib5wkaouo
 title: Highlighting and Underlining
 desc: ''
-updated: 1689126994022
+updated: 1689127850229
 created: 1689119978789
 ---
 
@@ -14,7 +14,7 @@ Here are some `techniques`:
 
 - **Avoid** `overuse` of *highlighting* and *underlining*. Instead, choose only the most essential information to mark. Highlighting or underlining everything may dilute the effectiveness and make it harder to distinguish key points.
 
-- **Develop** a *consistent* `system` of highlighting or underlining that works for you. For example, you might choose to underline key ideas and use different colors for supporting details or examples. Consistency will help you easily interpret your markings during later review sessions.
+- **Develop** a *consistent* [[system|english.word-classes]] of highlighting or underlining that works for you. For example, you might choose to underline key ideas and use different colors for supporting details or examples. Consistency will help you easily interpret your markings during later review sessions.
 
 - **Balance** between *highlighted* `text` and `white space`. Avoid excessive highlighting, which can make the page cluttered and harder to read. Leave some space to make your markings stand out and allow for easy visual scanning. 
 
