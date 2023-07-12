@@ -2,11 +2,9 @@
 id: xpsratpg6815ecdfyqfpp44
 title: Examples
 desc: ''
-updated: 1689117563650
+updated: 1689120509247
 created: 1689117439169
 ---
-
-Here are some specific examples of continuous learning:
 
 - Reading: Set a goal to read a certain number of books within a specific timeframe. Choose books from various genres, including fiction, non-fiction, self-help, or biographies, to expand your knowledge and perspective.
 
