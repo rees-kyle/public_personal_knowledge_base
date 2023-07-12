@@ -1,6 +1,6 @@
 ---
 id: h31x9h42tj5ck0sgimjqklo
-title: Syntax
+title: Guide
 desc: ''
 updated: 1689183380877
 created: 1687159115071
