@@ -2,11 +2,15 @@
 id: j64wpr5ienwhttu9hc4t23w
 title: Techniques
 desc: ''
-updated: 1687162622444
+updated: 1689120560403
 created: 1687162549069
 ---
 
-Effective study techniques can greatly enhance your learning and retention of information. Here are some proven study techniques:
+Effective study techniques can greatly enhance your learning and retention of information. 
+
+---
+
+Here are some proven study techniques:
 
 - Active Reading: Instead of passively reading, actively engage with the material. Highlight important points, make notes, and ask questions as you go along. This helps improve comprehension and retention.
 
