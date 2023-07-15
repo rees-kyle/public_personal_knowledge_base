@@ -2,14 +2,12 @@
 id: tmbx7v8kz0hx4w6cey2ht6p
 title: Dendron
 desc: ''
-updated: 1689032981615
+updated: 1689458128661
 created: 1689017115236
 ---
 
-<details>
-    <summary>Hierarchy Structure</summary>
+## Hierarchy Structure
 
-#
 **heading 1** = `parent/child note`
 
 **heading 2** = `child note`
@@ -20,16 +18,9 @@ created: 1689017115236
 - `Work backwards` **when** `copying documentation` **into** `PKB`.
 
 ---
-</details>
 
+## Naming Notes
 
-<details>
-    <summary>Naming Notes</summary>
-
-#
 - Keep as `short` as possible.
 - Use `lowercase`.
 - Replace spaces with `hyphens` for better **readability** with dot delimiter files.
-
----
-</details>
