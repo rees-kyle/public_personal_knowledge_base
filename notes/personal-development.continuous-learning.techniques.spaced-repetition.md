@@ -8,7 +8,7 @@ created: 1689022618208
 
 Spaced repetition is a learning technique that involves reviewing information at gradually increasing intervals over time. It is designed to optimize the process of memorization and long-term retention. Here are some techniques commonly used in spaced repetition:
 
-- Create [[flashcards|software.apps.save-all]]: Create flashcards for the information you want to learn. On one side, write a question or a cue, and on the other side, write the corresponding answer or information. You can use physical flashcards or digital flashcard platforms like Anki or Quizlet.
+- Create [[flashcards|software.packages.apps.save-all]]: Create flashcards for the information you want to learn. On one side, write a question or a cue, and on the other side, write the corresponding answer or information. You can use physical flashcards or digital flashcard platforms like Anki or Quizlet.
 
 - Determine intervals: Assign initial intervals for reviewing the flashcards. Start with shorter intervals, such as reviewing a flashcard after one day, and gradually increase the intervals as you become more familiar with the material.
 
