@@ -2,7 +2,7 @@
 id: hoh6101m3mg1un77h6ussjg
 title: Anaconda
 desc: ''
-updated: 1689461132182
+updated: 1689474183810
 created: 1689459844435
 ---
 
@@ -16,7 +16,7 @@ Anaconda Distribution includes the following key components:
 
 - Anaconda Navigator: Anaconda Navigator is a graphical user interface (GUI) that simplifies the management of Anaconda environments, packages, and tools. It provides an easy-to-use interface for installing packages, launching applications (such as Jupyter Notebook), and managing environments.
 
-- Jupyter Notebook: Anaconda Distribution includes Jupyter Notebook, which is a web-based interactive computing environment. Jupyter Notebook allows you to create and share documents that contain live code, visualizations, and narrative text. It is widely used in data science for exploratory data analysis, prototyping machine learning models, and presenting research findings.
+- [[Jupyter Notebook|software.packages.apps.jupyter.notebook]]: Anaconda Distribution includes Jupyter Notebook, which is a web-based interactive computing environment. Jupyter Notebook allows you to create and share documents that contain live code, visualizations, and narrative text. It is widely used in data science for exploratory data analysis, prototyping machine learning models, and presenting research findings.
 
 - Libraries and Tools: Anaconda comes pre-packaged with a vast collection of commonly used libraries and tools for data analysis, scientific computing, and machine learning. Some of the popular libraries included in Anaconda Distribution are NumPy, Pandas, Matplotlib, SciPy, Scikit-learn, TensorFlow, and PyTorch. These libraries provide powerful capabilities for tasks such as data manipulation, numerical computing, visualization, and machine learning.
 
