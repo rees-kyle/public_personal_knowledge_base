@@ -2,7 +2,7 @@
 id: l9ihv2vhzhi79xcnje7n8u1
 title: Jupyter
 desc: ''
-updated: 1689472760599
+updated: 1689474218500
 created: 1689472202504
 ---
 
@@ -14,15 +14,15 @@ Jupyter Notebooks, formerly known as IPython Notebooks, allow users to combine l
 
 Key features and components of Jupyter include:
 
-1. Jupyter Notebook: Jupyter Notebook is the main component of the Jupyter project. It allows users to create and edit notebooks containing code cells, text cells, and other elements. Code cells can be executed individually or as a sequence, providing immediate feedback and results.
+- [[Jupyter Notebook|software.packages.apps.jupyter.notebook]]: Jupyter Notebook is the main component of the Jupyter project. It allows users to create and edit notebooks containing code cells, text cells, and other elements. Code cells can be executed individually or as a sequence, providing immediate feedback and results.
 
-2. Interactive Computing: Jupyter provides an interactive computing environment, allowing users to write and execute code in different programming languages, including Python, R, Julia, and more. It supports multiple programming kernels, which are responsible for executing code in specific languages.
+- Interactive Computing: Jupyter provides an interactive computing environment, allowing users to write and execute code in different programming languages, including Python, R, Julia, and more. It supports multiple programming kernels, which are responsible for executing code in specific languages.
 
-3. Markdown and Rich Text Support: Jupyter Notebooks support Markdown syntax, which allows users to include formatted text, equations, headers, lists, and other elements in their notebooks. This makes it easy to add explanations, documentation, and narrative text alongside code cells.
+- Markdown and Rich Text Support: Jupyter Notebooks support Markdown syntax, which allows users to include formatted text, equations, headers, lists, and other elements in their notebooks. This makes it easy to add explanations, documentation, and narrative text alongside code cells.
 
-4. Visualization Capabilities: Jupyter integrates with various visualization libraries, such as Matplotlib, Seaborn, Plotly, and Bokeh, enabling users to create interactive plots, charts, and visualizations within notebooks. Visualizations can be embedded directly in the notebook or displayed in separate interactive windows.
+- Visualization Capabilities: Jupyter integrates with various visualization libraries, such as Matplotlib, Seaborn, Plotly, and Bokeh, enabling users to create interactive plots, charts, and visualizations within notebooks. Visualizations can be embedded directly in the notebook or displayed in separate interactive windows.
 
-5. Collaboration and Sharing: Jupyter Notebooks can be easily shared with others, promoting collaboration and knowledge sharing. Notebooks can be exported to different formats (such as HTML, PDF, or Markdown) or shared via platforms like JupyterHub, JupyterLab, or cloud-based services.
+- Collaboration and Sharing: Jupyter Notebooks can be easily shared with others, promoting collaboration and knowledge sharing. Notebooks can be exported to different formats (such as HTML, PDF, or Markdown) or shared via platforms like JupyterHub, JupyterLab, or cloud-based services.
 
 ---
 
