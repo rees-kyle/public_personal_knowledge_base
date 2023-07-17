@@ -2,7 +2,7 @@
 id: tmbx7v8kz0hx4w6cey2ht6p
 title: Dendron
 desc: ''
-updated: 1689458128661
+updated: 1689558581817
 created: 1689017115236
 ---
 
@@ -24,3 +24,24 @@ created: 1689017115236
 - Keep as `short` as possible.
 - Use `lowercase`.
 - Replace spaces with `hyphens` for better **readability** with dot delimiter files.
+
+---
+
+## Guides 
+<details>
+    <summary>section</summary>
+
+#
+description
+
+### Input
+>
+input
+
+
+### Output
+>
+output
+
+---
+</details>
