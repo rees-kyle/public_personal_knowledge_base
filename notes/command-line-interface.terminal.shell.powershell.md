@@ -1,8 +1,8 @@
 ---
 id: 2cnxixlixyjp5wrqk5o00sd
-title: Powershell
+title: PowerShell
 desc: ''
-updated: 1689631819383
+updated: 1689639653470
 created: 1689626442429
 ---
 
