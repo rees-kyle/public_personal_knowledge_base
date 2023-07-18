@@ -2,11 +2,13 @@
 id: 5vv4egvb2jbboent8uckhgt
 title: Git Bash
 desc: ''
-updated: 1689208970786
+updated: 1689639269924
 created: 1689208729317
 ---
 
-Git Bash is a software application that provides a Unix-like command-line interface (CLI) environment on Windows systems. It combines the functionality of Git, a popular version control system, with the power of the Bash shell.
+Git Bash is a `software application` that provides a Unix-like [[terminal|command-line-interface.terminal]] on Windows systems. It combines the functionality of Git, a popular version control system, with the power of the Bash shell.
+
+---
 
 Here are a few key points about Git Bash:
 
@@ -17,5 +19,7 @@ Here are a few key points about Git Bash:
 3. Terminal emulator: Git Bash includes a terminal emulator, which is a text-based interface for running commands and interacting with the operating system. It provides features like command history, tab completion, customizable settings, and allows users to execute Git and Bash commands.
 
 4. Cross-platform compatibility: Although Git Bash is primarily developed for Windows systems, it is also available for macOS and Linux. This allows users to have a consistent command-line experience across different operating systems.
+
+---
 
 Git Bash is commonly used by developers on Windows who want to leverage the power of Git and work in a Unix-like command-line environment. It provides a familiar and powerful CLI for executing Git commands, running scripts, and performing various command-line tasks on Windows machines.
