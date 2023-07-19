@@ -1,6 +1,6 @@
 ---
 id: 0qyisfvwlmspz6az74g1qi4
-title: Models
+title: Graphs
 desc: ''
 updated: 1689731178708
 created: 1689708993565
