@@ -2,13 +2,13 @@
 id: 85l3tpglowzz10pl3ai64t4
 title: Types
 desc: ''
-updated: 1690482128795
+updated: 1690490536122
 created: 1690481893766
 ---
 
 There are several types of network models, each serving a specific purpose:
 
-1. `Graph Theory Models`: In graph theory, networks are represented as mathematical structures called graphs. A graph consists of nodes (vertices) and edges (connections) that link the nodes. Graph theory models are used to study the properties and relationships within a network, allowing for the analysis of connectivity, paths, and other structural characteristics. 
+1. [[study.fields.mathematics.theories.graph.theory-models]] : In graph theory, networks are represented as mathematical structures called graphs. A graph consists of nodes (vertices) and edges (connections) that link the nodes. Graph theory models are used to study the properties and relationships within a network, allowing for the analysis of connectivity, paths, and other structural characteristics. 
 
 2. Communication Network Models: These models focus on how information flows between nodes in a network. Examples include the `OSI` (Open Systems Interconnection) model, which is a conceptual framework used to understand how different protocols and network layers work together to enable communication over a network.
 
