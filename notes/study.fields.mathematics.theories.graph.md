@@ -1,12 +1,12 @@
 ---
 id: qdp35sg5lnkxhfwb999hqr7
-title: Graph
+title: Graph Theory
 desc: ''
-updated: 1689724082844
+updated: 1690429851173
 created: 1689708983626
 ---
 
-Graph theory is a branch of mathematics that deals with the study of graphs, which are mathematical structures representing relationships between objects. A graph consists of a set of vertices (also known as nodes) connected by edges (also known as links or arcs).
+**Graph theory** is a branch of mathematics that deals with the `study of graphs`, which are mathematical structures representing relationships between objects. A graph consists of a set of vertices (also known as nodes) connected by edges (also known as links or arcs).
 
 In graph theory, the vertices represent individual entities or objects, and the edges represent the connections or relationships between these entities. Graphs can be used to model a wide range of real-world scenarios, such as social networks, computer networks, transportation systems, communication networks, and more.
 
