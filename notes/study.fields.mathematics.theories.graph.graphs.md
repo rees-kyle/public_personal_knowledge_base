@@ -2,11 +2,11 @@
 id: 0qyisfvwlmspz6az74g1qi4
 title: Graphs
 desc: ''
-updated: 1690427679441
+updated: 1690483265719
 created: 1689708993565
 ---
 
-In mathematics, graphs are a visual representation of a set of objects and the connections or relationships between them. These objects are called vertices or nodes, and the connections between them are represented by edges or arcs. Graph theory is the branch of mathematics that deals with the study of graphs and their properties.
+In mathematics, **graphs** are the `mathematical structures` used to represent the relationships between entities in [[network models|study.fields.mathematics.theories.graph.network-models]] and provide a formal way to analyze and understand complex systems.
 
 ---
 
