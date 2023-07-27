@@ -2,34 +2,36 @@
 id: 0qyisfvwlmspz6az74g1qi4
 title: Graphs
 desc: ''
-updated: 1689731178708
+updated: 1690427679441
 created: 1689708993565
 ---
 
-Graph models, also known as graph data models, are mathematical `structures` used to represent and analyze relationships between entities in a network. They are based on graph theory, which is a branch of mathematics that deals with graphs, consisting of nodes (also called vertices) connected by edges (also called links or arcs). Graph models are widely used in various fields, including computer science, data analysis, social network analysis, and transportation planning, among others.
+In mathematics, graphs are a visual representation of a set of objects and the connections or relationships between them. These objects are called vertices or nodes, and the connections between them are represented by edges or arcs. Graph theory is the branch of mathematics that deals with the study of graphs and their properties.
 
 ---
 
-In a graph model:
+Mathematical graphs can be used to model a wide range of situations and problems. They have applications in various areas, including computer science, operations research, social sciences, biology, physics, and many others. Here are some key concepts related to graphs in mathematics:
 
-1. Nodes: Nodes represent individual entities in the system being modeled. These entities can be anything, such as people, places, objects, or concepts.
+1. **Simple Graph**: A simple graph is an undirected graph with no self-loops or multiple edges between the same pair of vertices. Each edge connects two distinct vertices, and there is at most one edge between any two vertices.
 
-2. Edges: Edges represent the connections or relationships between the nodes. They can be directed (with an arrow indicating the direction) or undirected (bidirectional, with no arrow). The edges may also have associated attributes or properties to represent the strength, weight, or other characteristics of the relationships.
+2. **Directed Graph (Digraph)**: As mentioned earlier, a directed graph is a graph where each edge has a direction, indicating that it connects one vertex to another in a specific order.
+
+3. **Weighted Graph**: In a weighted graph, each edge is assigned a numerical value or weight, representing some kind of measurement or cost associated with the connection between two vertices.
+
+4. **Degree of a Vertex**: In an undirected graph, the degree of a vertex is the number of edges incident to that vertex (i.e., the number of edges connected to it). In a directed graph, the in-degree of a vertex is the number of incoming edges, and the out-degree is the number of outgoing edges.
+
+5. **Path**: A path in a graph is a sequence of vertices connected by edges, where each vertex in the sequence is adjacent to the next one. The length of a path is the number of edges in the path.
+
+6. **Cycle**: A cycle is a path in a graph that starts and ends at the same vertex, with no other repetitions of vertices along the way.
+
+7. **Connected Graph**: An undirected graph is said to be connected if there is a path between every pair of vertices in the graph.
+
+8. **Tree**: A tree is an undirected graph with no cycles. It is a connected acyclic graph.
+
+9. **Directed Acyclic Graph (DAG)**: A directed graph with no cycles is called a directed acyclic graph. DAGs have important applications in representing dependencies and processes with no feedback loops.
+
+10. **Isomorphism**: Two graphs are said to be isomorphic if they have the same structure, although their vertex and edge labels may differ.
 
 ---
 
-Graph models are highly flexible and can represent complex relationships that are not easily captured by other data structures. They are particularly useful for modeling scenarios where connectivity, dependencies, or interactions among entities are essential. Some common types of graph models include:
-
-1. Social Networks: Used to model relationships between individuals in social settings, such as friendships on social media platforms.
-
-2. Knowledge Graphs: Representing structured knowledge, where nodes are concepts or entities, and edges represent semantic relationships between them.
-
-3. Transportation Networks: Modeling road networks or public transportation systems, with nodes as intersections or stops and edges as roads or routes.
-
-4. Recommendation Systems: Utilizing user-item interactions, with nodes as users and items, and edges indicating user-item relationships.
-
-5. Dependency Graphs: Representing dependencies between tasks or components in software or project management.
-
-Graph models enable powerful algorithms and analyses that can provide insights into network structure, connectivity, shortest paths, community detection, centrality measures, and much more.
-
-Various programming libraries and tools, such as NetworkX (Python), Neo4j (graph database), and Apache Giraph (distributed graph processing), are available to work with graph models and perform graph-related computations efficiently.
+Graph theory provides a rich framework for analyzing the properties and behaviors of various systems and networks. Mathematicians and researchers use graph theory to solve problems related to optimization, network flows, graph coloring, graph embeddings, and much more. Additionally, the study of graph algorithms and properties is essential in solving computational problems efficiently and understanding complex relationships in various domains.
