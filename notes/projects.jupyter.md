@@ -14,7 +14,7 @@ Jupyter Notebooks, formerly known as IPython Notebooks, allow users to combine l
 
 Key features and components of Jupyter include:
 
-- [[Jupyter Notebook|software.packages.apps.jupyter.notebook]]: Jupyter Notebook is the main component of the Jupyter project. It allows users to create and edit notebooks containing code cells, text cells, and other elements. Code cells can be executed individually or as a sequence, providing immediate feedback and results.
+- [[Jupyter Notebook|computing.software.packages.apps.jupyter.notebook]]: Jupyter Notebook is the main component of the Jupyter project. It allows users to create and edit notebooks containing code cells, text cells, and other elements. Code cells can be executed individually or as a sequence, providing immediate feedback and results.
 
 - Interactive Computing: Jupyter provides an interactive computing environment, allowing users to write and execute code in different programming languages, including Python, R, Julia, and more. It supports multiple programming kernels, which are responsible for executing code in specific languages.
 
