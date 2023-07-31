@@ -6,7 +6,7 @@ updated: 1689639269924
 created: 1689208729317
 ---
 
-Git Bash is a `software application` that provides a Unix-like [[terminal|command-line-interface.terminal]] on Windows systems. It combines the functionality of Git, a popular version control system, with the power of the Bash shell.
+Git Bash is a `software application` that provides a Unix-like [[terminal|computing.command-line-interface.terminal]] on Windows systems. It combines the functionality of Git, a popular version control system, with the power of the Bash shell.
 
 ---
 
