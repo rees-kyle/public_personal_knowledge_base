@@ -1,8 +1,8 @@
 ---
 id: 85l3tpglowzz10pl3ai64t4
-title: Types
+title: Types of Network Models
 desc: ''
-updated: 1690490536122
+updated: 1690770037154
 created: 1690481893766
 ---
 
