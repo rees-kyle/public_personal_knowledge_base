@@ -12,6 +12,6 @@ In mathematics, a network model refers to a general concept based on a [[graph|s
 
 2. Representation: In mathematical network models, nodes and edges typically represent abstract elements and their connections, and the relationships can be of various types, not limited to physical connections.
 
-3. Layers and Protocols: Mathematical network models do not have layers or protocols, as they are more general and abstract representations of networks. Layers and protocols can be found in [[computer network models|networking.models]].
+3. Layers and Protocols: Mathematical network models do not have layers or protocols, as they are more general and abstract representations of networks. Layers and protocols can be found in [[computer network models|computing.networking.models]].
 
-4. Emphasis on Practical Implementation: Mathematical network models are focused on theoretical aspects and are not concerned with the practical implementation of network technologies. [[Computer network models|networking.models]] are focused on practical implementation.
+4. Emphasis on Practical Implementation: Mathematical network models are focused on theoretical aspects and are not concerned with the practical implementation of network technologies. [[Computer network models|computing.networking.models]] are focused on practical implementation.
