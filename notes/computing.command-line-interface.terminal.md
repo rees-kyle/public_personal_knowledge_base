@@ -2,7 +2,7 @@
 id: 1jlxeeftynr4ys3eq36e96d
 title: Terminal
 desc: ''
-updated: 1689627477297
+updated: 1690869383912
 created: 1689626243499
 ---
 
@@ -26,7 +26,7 @@ Here are some key features and functionalities of a terminal in a CLI:
 
 6. **Command History**: The terminal keeps a history of previously executed commands, allowing users to navigate through it and re-run commands easily.
 
-7. **Remote Access**: Terminals can be used to connect to remote servers through SSH (Secure Shell) and execute commands on those servers.
+7. **Remote Access**: Terminals can be used to connect to remote servers through [[computing.networking.protocols.ssh]] (Secure Shell) and execute commands on those servers.
 
 ---
 
