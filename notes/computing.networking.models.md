@@ -2,11 +2,11 @@
 id: r8rk0gs40t2wa4uqxm9yxji
 title: Network Models
 desc: ''
-updated: 1690482673713
+updated: 1690868249455
 created: 1689640964064
 ---
 
-A network model refers to a general concept based on a [[graph]]. It is an application of graph theory. In computer networking, network models have a specific layered structure and are designed to facilitate the practical implementation of computer networks.
+A network model refers to a general concept based on a [[graph|study.fields.mathematics.theories.graph.graphs]]. It is an application of [[graph theory|study.fields.mathematics.theories.graph]]. In computer networking, network models have a specific layered structure and are designed to facilitate the practical implementation of computer networks.
 
 1. Purpose and Application: In computer networking, network models are used to design and describe the layered structure of computer networks. These models provide a conceptual framework to understand how data is transmitted, processed, and communicated across different network layers. The purpose is to facilitate interoperability and standardization in networking protocols and technologies.
 
