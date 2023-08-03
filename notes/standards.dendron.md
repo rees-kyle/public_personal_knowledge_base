@@ -2,8 +2,21 @@
 id: tmbx7v8kz0hx4w6cey2ht6p
 title: Dendron
 desc: ''
-updated: 1689558581817
+updated: 1691017524960
 created: 1689017115236
+---
+
+## Git Commit Messages
+
+Action | Message
+---|---
+**Adding** a file | `Add fileName.ext`
+**Renaming** a file | `Rename fileName.ext`
+**Modifying** a file | `Modify fileName.ext`
+**Deleteing** a file | `Delete fileName.ext`
+**Refactoring** hierarchy | `Refactor parent-note.child-note.md`
+**Refactoring** hierarchy (**from root**) | `Refactor note.md`
+
 ---
 
 ## Hierarchy Structure
