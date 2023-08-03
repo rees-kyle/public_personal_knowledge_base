@@ -2,8 +2,42 @@
 id: rv2ftfuf2sd24ygyklz5410
 title: Guide
 desc: ''
-updated: 1689609788939
+updated: 1691041351325
 created: 1689609111479
 ---
 
-[Jupyter Notebook](assets/notebooks/git-bash/git-bash.ipynb)
+<details>
+    <summary>section</summary>
+
+#
+description
+
+### Input
+>
+input
+
+
+### Output
+>
+output
+
+---
+</details>
+
+<details>
+    <summary>section</summary>
+
+#
+description
+
+### Input
+>
+input
+
+
+### Output
+>
+output
+
+---
+</details>
