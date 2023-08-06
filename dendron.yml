@@ -25,7 +25,7 @@ workspace:
         -
             fsPath: .
             selfContained: true
-            name: public_personal_knowledge_base
+            name: public
     journal:
         dailyDomain: daily
         name: journal
