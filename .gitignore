@@ -4,7 +4,6 @@ build
 seeds
 .next
 pods/service-connections
-notes/scratch.md
 /notes/assets/certificates/scrum_developer_training.pdf
 .dendron-pc.port
 .dendron-pc.ws
