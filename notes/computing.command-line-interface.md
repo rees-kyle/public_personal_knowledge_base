@@ -2,11 +2,11 @@
 id: 5abacmqclnoo8op9ehw45nh
 title: Command-Line Interface
 desc: ''
-updated: 1689627206070
+updated: 1692098815004
 created: 1689626119393
 ---
 
-A command-line interface (CLI) is a `text-based method` of interacting with a computer's operating system or software applications through typed commands in a terminal or command prompt. In a CLI, users enter specific commands, each consisting of a command keyword and optional parameters or arguments, followed by pressing the "Enter" or "Return" key to execute the command.
+A command-line interface (CLI) is a `text-based method` **of** `interacting` **with a computer's** `operating system` **or** `software applications` through typed commands in a terminal or command prompt. In a CLI, users enter specific commands, each consisting of a command keyword and optional parameters or arguments, followed by pressing the "Enter" or "Return" key to execute the command.
 
 ---
 
