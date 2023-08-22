@@ -1,8 +1,8 @@
 ---
 id: rm55mj9zcqn7z0lipg0z0rk
-title: Guide
+title: PowerShell Guide
 desc: ''
-updated: 1692110067065
+updated: 1692457522967
 created: 1691041687541
 ---
 
@@ -11,7 +11,7 @@ created: 1691041687541
     <summary>Syntax</summary>
 
 #
-Powershell is `case insensitive`.
+Powershell is mostly `singular` **and** `case insensitive`. You can use `TAB` **to** `autocomplete` commands.
 
 ### Input
 >![](assets/guides/powershell/input_syntax.jpg)
@@ -25,16 +25,24 @@ Powershell is `case insensitive`.
 
 
 
-<!-- top of 'list directory' section -->
+<!-- top of 'show directory' section -->
 <details>
-    <summary>List Directory</summary>
+    <summary>Show Directory</summary>
 
 #
 In PowerShell, the Get-ChildItem cmdlet is used to `retrieve` a `list` **of** `child items` **within** a specified `directory`. Child items **can include** `files`, `directories`, and other `objects` within the specified directory.
 
 ### Input
->
-`Get-ChildItem`
+
+#### Cmdlet
+> `Get-ChildItem`
+
+#### Aliases
+> `ls`
+
+> `dir`
+
+> `gci`
 
 ### Output
 >
@@ -42,16 +50,16 @@ In PowerShell, the Get-ChildItem cmdlet is used to `retrieve` a `list` **of** `c
 
 ---
 </details>
-<!-- end of 'list directory' section -->
+<!-- end of 'show directory' section -->
 
 
 
 <!-- start of 'example' section -->
 <details>
-    <summary>example</summary>
+    <summary>Example</summary>
 
 #
-description
+Description
 
 ### Input
 >
