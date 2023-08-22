@@ -2,8 +2,54 @@
 id: 2va8o0n91la1bq8z3ex012m
 title: Scratch
 desc: ''
-updated: 1692111942965
+updated: 1692456603153
 created: 1689109981982
+---
+
+# notes:
+
+## pipe operator:
+- output from one command becomes input for the next.
+- capable of stringing together multiple commands.
+
+### input:
+> |
+
+#### example:
+> get-service | out-file c:\services.txt 
+
+Output from Get-Service is piped to Out-File, which will create a list of services in a text file.
+
+---
+
+## help:
+In PowerShell, the Get-Help cmdlet is used to retrieve `information` **about** `cmdlets`, `functions`, `modules`, `scripts`, **and** other PowerShell `topics`. It provides you with detailed `documentation` **and** usage `examples` to help you understand how to use various PowerShell commands and features.
+
+### input:
+> get-help 
+
+#### output:
+screenshot
+
+---
+
+## commands:
+desc
+
+### input:
+
+#### cmdlet:
+
+> get-command
+
+---
+
+## aliases
+dec
+
+### input
+> about_Aliases
+
 ---
 
 1. [ ] guide method
@@ -12,11 +58,6 @@ created: 1689109981982
         1. [ ] rename
         1. [ ] move to assets\guides\powershell
         1. [ ] link image to note
-
-1. [ ] html.guide.md
-    1. [ ] add
-    1. [ ] modify
-        1. [ ] html comment
 
 1. [ ] make bash guide readable with html comments
 
