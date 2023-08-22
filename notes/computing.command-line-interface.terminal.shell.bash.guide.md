@@ -2,96 +2,98 @@
 id: ipe4fyh7bfcta4x3sxxjtjg
 title: Guide
 desc: ''
-updated: 1691594693146
+updated: 1692457827059
 created: 1691041461139
 ---
 
+<!-- start of 'sudo' section -->
 <details>
     <summary>sudo</summary>
 
 #
 The sudo command is used to execute a command as a superuser or another user, typically with `admin`istrative privileges. It stands for "`superuser do`" and is commonly used to perform tasks that require elevated permissions.
 
-### Syntax
+### syntax
 >
 `sudo option command`
 
 ---
 </details>
+<!-- end of 'sudo' section -->
 
 
+
+<!-- start of 'reboot' section -->
 <details>
     <summary>reboot</summary>
 
 #
-To reboot your `system` using Bash, you can use the `reboot` command. However, keep in mind that rebooting your system requires administrative privileges, so you'll typically need to use sudo to execute the command. 
+to reboot your `system` using Bash, you can use the `reboot` command. However, keep in mind that rebooting your system requires administrative privileges, so you'll typically need to use sudo to execute the command. 
 
-### Input
+### input
 >
 `sudo reboot`
 
 ---
 </details>
+<!-- end of 'reboot' section -->
 
 
+
+<!-- start of 'efibootmgr' section -->
 <details>
     <summary>efibootmgr</summary>
 
 #
 efibootmgr is a command-line `tool` in Linux that is used `to manage UEFI boot entries`. It allows you to interact with the UEFI firmware on your system, particularly when dealing with boot-related settings. UEFI (Unified Extensible Firmware Interface) is the modern replacement for the traditional BIOS firmware found in computers.
 
-### Input
+### input
 >
 `sudo efibootmgr`
 
-### Output
+### output
 >
-1. BootCurrent: 0000
-2. Timeout: 1 seconds
-3. BootOrder: 0002,0000,0003,0001
-4. Boot0000* ubuntu
-5. Boot0001* UEFI:CD/DVD Drive
-6. Boot0002* UEFI:Removable Device
-7. Boot0003* UEFI:Network Device
+screenshot
 
 ---
 </details>
+<!-- end of 'efibootmgr' section -->
 
 
+
+<!-- start of 'change boot order' section -->
 <details>
     <summary>change boot order</summary>
 
-### Input
+### input
 >
 `sudo efibootmgr -o` 0002,0000,0003,0001
 
-### Output
+### output
 >
-1. BootCurrent: 0000
-2. Timeout: 1 seconds
-3. BootOrder: 0000,0001,0002,0003
-4. Boot0000* ubuntu
-5. Boot0001* UEFI:CD/DVD Drive
-6. Boot0002* UEFI:Removable Device
-7. Boot0003* UEFI:Network Device
+screenshot
 
 ---
 </details>
+<!-- end of 'change boot order' section -->
 
 
+
+<!-- start of 'example' section -->
 <details>
-    <summary>summary</summary>
+    <summary>example</summary>
 
 #
 description
 
-### Input
+### input
 >
 input
 
-### Output
+### output
 >
 output
 
 ---
 </details>
+<!-- end of 'example' section -->
