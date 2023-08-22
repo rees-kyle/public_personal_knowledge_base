@@ -2,7 +2,7 @@
 id: tmbx7v8kz0hx4w6cey2ht6p
 title: Dendron
 desc: ''
-updated: 1692110088716
+updated: 1692457549240
 created: 1689017115236
 ---
 
@@ -44,10 +44,10 @@ Action | Message
 
 <!-- start of 'example' section -->
 <details>
-    <summary>example</summary>
+    <summary>Example</summary>
 
 #
-description
+Description
 
 ### Input
 >
