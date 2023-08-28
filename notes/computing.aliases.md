@@ -2,9 +2,10 @@
 id: zrovmk83czq5zkl8crjebfp
 title: Aliases
 desc: ''
-updated: 1692098723759
+updated: 1692824903458
 created: 1692097932664
 ---
+
 In computing, an alias typically refers to a `shortcut` **or** `alternative name` that is used to reference a file, command, or directory. Aliases are commonly used **to make** `complex` **or** `frequent`ly used `commands` **more** `convenient` **to** `type` **and** `execute`. They are especially popular in command-line interfaces, where typing long commands can become cumbersome.
 
 ---
