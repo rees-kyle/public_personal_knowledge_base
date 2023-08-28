@@ -2,7 +2,7 @@
 id: 2va8o0n91la1bq8z3ex012m
 title: Scratch
 desc: ''
-updated: 1692456603153
+updated: 1693266963307
 created: 1689109981982
 ---
 
@@ -52,14 +52,21 @@ dec
 
 ---
 
+1. [ ] create new vault for computing
+    1. [ ] move notes (record modified notes)
+    1. [ ] check links are working in modified notes
+
+1. [ ] create a vault map to record hierarchal structure
+    1. [ ] vaults.md
+        1. [ ] add
+        1. [ ] modify
+
 1. [ ] guide method
     1. [ ] insert command
     1. [ ] screenshot output
         1. [ ] rename
         1. [ ] move to assets\guides\powershell
         1. [ ] link image to note
-
-1. [ ] make bash guide readable with html comments
 
 1. [ ] learn (prioritise linkedin learning)
     1. [ ] powershell
