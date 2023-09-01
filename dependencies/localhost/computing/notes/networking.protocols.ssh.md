@@ -6,7 +6,7 @@ updated: 1690870419468
 created: 1689641345561
 ---
 
-> Secure [[computing.command-line-interface.terminal.shell]]
+> Secure [[command-line-interface.terminal.shell]]
 
 Is a cryptographic `network protocol` that provides secure communication over a potentially unsecured network. It is widely used for securely accessing and managing remote systems, as well as transferring files between hosts. SSH was designed to replace older, less secure remote login protocols such as Telnet and rlogin.
 

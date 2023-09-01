@@ -6,7 +6,7 @@ updated: 1689639809263
 created: 1689632806266
 ---
 
-The Command Prompt is a `software application` available in various Windows operating systems. It provides a [[terminal|computing.command-line-interface.terminal]] where users can interact with the operating system by typing commands to execute various tasks, perform system operations, and manage files and directories.
+The Command Prompt is a `software application` available in various Windows operating systems. It provides a [[terminal|command-line-interface.terminal]] where users can interact with the operating system by typing commands to execute various tasks, perform system operations, and manage files and directories.
 
 The Command Prompt is sometimes referred to as the "Windows Command Prompt," "CMD," or simply "Command Line." It is an essential tool for system administrators, developers, and advanced users who prefer working with the command-line interface over the graphical user interface (GUI).
 
@@ -34,4 +34,4 @@ Here are some key features and aspects of the Command Prompt:
 
 The Command Prompt is often used for troubleshooting, system administration, executing scripts, and performing tasks that are more efficiently accomplished using the command-line interface.
 
-In recent versions of Windows (Windows 10 and later), Microsoft introduced [[computing.command-line-interface.terminal.shell.powershell]] as an alternative and more powerful command-line tool. PowerShell provides more advanced features, object-oriented capabilities, and better integration with the .NET Framework, making it a preferred choice for many administrators and developers. However, the Command Prompt remains available and functional for users who prefer its simplicity and are accustomed to its commands and syntax.
+In recent versions of Windows (Windows 10 and later), Microsoft introduced [[command-line-interface.terminal.shell.powershell]] as an alternative and more powerful command-line tool. PowerShell provides more advanced features, object-oriented capabilities, and better integration with the .NET Framework, making it a preferred choice for many administrators and developers. However, the Command Prompt remains available and functional for users who prefer its simplicity and are accustomed to its commands and syntax.

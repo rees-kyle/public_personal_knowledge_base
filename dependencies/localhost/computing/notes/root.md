@@ -1,8 +1,8 @@
 ---
 id: wmlz75fkscln29p1t0wpeia
-title: Root
+title: Computing
 desc: ''
-updated: 1693591558443
+updated: 1693595231935
 created: 1693591558443
 ---
 # Welcome to Dendron
