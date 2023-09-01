@@ -23,13 +23,9 @@ commands:
 workspace:
     vaults:
         -
-            fsPath: dependencies/localhost/computing
-            selfContained: true
-            name: computing
-        -
             fsPath: .
             selfContained: true
-            name: public
+            name: computing
     journal:
         dailyDomain: daily
         name: journal
@@ -110,8 +106,3 @@ publishing:
     enableTaskNotes: true
     enablePrettyLinks: true
     searchMode: search
-    duplicateNoteBehavior:
-        action: useVault
-        payload:
-            - computing
-            - public
