@@ -1,12 +1,12 @@
 {
     "folders": [
         {
-            "path": "dependencies/localhost/computing/notes",
-            "name": "computing"
+            "path": "dependencies/localhost/Computing/notes",
+            "name": "Computing"
         },
         {
             "path": "notes",
-            "name": "public"
+            "name": "Public"
         }
     ],
     "settings": {

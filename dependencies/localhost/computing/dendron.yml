@@ -25,7 +25,7 @@ workspace:
         -
             fsPath: .
             selfContained: true
-            name: computing
+            name: Computing
     journal:
         dailyDomain: daily
         name: journal
