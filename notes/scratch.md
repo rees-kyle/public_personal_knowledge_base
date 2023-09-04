@@ -2,11 +2,13 @@
 id: 2va8o0n91la1bq8z3ex012m
 title: Scratch
 desc: ''
-updated: 1693266963307
+updated: 1693596863478
 created: 1689109981982
 ---
 
-# notes:
+<!-- start of 'notes' section -->
+<details>
+    <summary>Notes</summary>
 
 ## pipe operator:
 - output from one command becomes input for the next.
@@ -51,10 +53,45 @@ dec
 > about_Aliases
 
 ---
+</details>
+<!-- end of 'notes' section -->
 
-1. [ ] create new vault for computing
-    1. [ ] move notes (record modified notes)
-    1. [ ] check links are working in modified notes
+
+
+<!-- start of 'todo' section -->
+<details>
+    <summary>Todo</summary>
+
+#
+1. [x] create new vault for computing
+    1. [x] create vault with command
+    1. [x] ensure new vault is not on .gitignore by default
+    1. [x] move computing notes to new vault
+    1. [x] refactor computing.
+        1. [x] aliases
+        1. [x] artificial-intelligence
+        1. [x] command-line-interface
+        1. [x] networking
+        1. [x] programming
+        1. [x] software
+        1. [x] version-control-system
+
+1. [ ] redo git repositories (capitalize vault names)
+
+1. [ ] create new vaults
+
+1. [ ] link connected vaults
+    1. [ ] from study to 
+        1. [ ] computing
+        1. [ ] mathematics
+        1. [ ] english
+
+
+1. [ ] create new vault for personal development
+    1. [ ] create vault with command
+    1. [ ] ensure new vault is not on .gitignore by default
+    1. [ ] move personal development notes to new vault
+    1. [ ] refactor
 
 1. [ ] create a vault map to record hierarchal structure
     1. [ ] vaults.md
@@ -82,3 +119,7 @@ dec
 
 ## backlog
 1. [ ] Research .NET objects in powershell for automation and system administration
+
+---
+</details>
+<!-- end of 'todo' section -->
