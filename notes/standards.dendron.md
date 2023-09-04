@@ -2,7 +2,7 @@
 id: tmbx7v8kz0hx4w6cey2ht6p
 title: Dendron
 desc: ''
-updated: 1692457549240
+updated: 1693596734945
 created: 1689017115236
 ---
 
@@ -61,4 +61,8 @@ output
 </details>
 <!-- end of 'example' section -->
 
+---
 
+## Vaults
+
+- `Capitalize` vault names for tree view.
