@@ -19,4 +19,4 @@ The use of theory.
 #
 While a **graph theory model** is specifically `based` **on the** `concepts` **of** `graph theory` **and** `represents` **a** `system` **using** `graphs`, a **network model** is a `broader term` that **encompasses** `various types` **of** `representations`, and **one** of those types **could be** a graph-based representation also known as **a** `graph theory model`. Essentially, all graph theory models can be seen as network models, but not all network models are graph theory models.
 
-Graph theory models encompass various [[types of graphs|study.fields.mathematics.theories.graph.graphs.types]] and their associated properties, algorithms, and applications.
+Graph theory models encompass various [[types of graphs|theories.graph.graphs.types]] and their associated properties, algorithms, and applications.

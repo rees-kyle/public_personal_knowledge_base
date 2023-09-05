@@ -6,7 +6,7 @@ updated: 1693944722266
 created: 1690478099429
 ---
 
-In mathematics, a network model refers to a general concept based on a [[graph|study.fields.mathematics.theories.graph.graphs]]. It is an `application of graph theory` and is used for theoretical analysis of various systems.
+In mathematics, a network model refers to a general concept based on a [[graph|theories.graph.graphs]]. It is an `application of graph theory` and is used for theoretical analysis of various systems.
 
 1. Purpose and Application: In mathematics, network models are primarily used to represent and study the relationships and connections between different elements in various real-world systems. They are employed in graph theory to analyze properties of networks, understand connectivity, paths, cycles, and other graph-related concepts. The focus is on theoretical analysis and understanding the structure and properties of networks.
 
