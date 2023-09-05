@@ -23,17 +23,9 @@ commands:
 workspace:
     vaults:
         -
-            fsPath: dependencies/localhost/Backlog
-            selfContained: true
-            name: Backlog
-        -
-            fsPath: dependencies/localhost/Computing
-            selfContained: true
-            name: Computing
-        -
             fsPath: .
             selfContained: true
-            name: Public
+            name: Backlog
     journal:
         dailyDomain: daily
         name: journal
@@ -114,9 +106,3 @@ publishing:
     enableTaskNotes: true
     enablePrettyLinks: true
     searchMode: search
-    duplicateNoteBehavior:
-        action: useVault
-        payload:
-            - Computing
-            - Public
-            - Backlog
