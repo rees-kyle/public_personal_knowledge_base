@@ -2,7 +2,7 @@
 id: 1mhx43yn8b4c77uzu7i80ri
 title: Fields of Study
 desc: ''
-updated: 1693938632472
+updated: 1693951920647
 created: 1693932923631
 ---
 
@@ -12,9 +12,9 @@ Fields of study, also known as academic disciplines or academic fields, are dist
 
 ## Examples
 
-- `link to computing vault`
-- `link to english vault`
-- `link to mathematics vault`
+- [[dendron://Computing/root]]
+- [[dendron://English/root]]
+- [[dendron://Mathematics/root]]
 
 ---
 
