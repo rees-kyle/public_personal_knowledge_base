@@ -1,20 +1,15 @@
 ---
 id: u8xbzek5z7km6994j81d16j
-title: Root
+title: Backlog
 desc: ''
-updated: 1693923433085
+updated: 1693928110507
 created: 1693923433085
 ---
-# Welcome to Dendron
 
-This is the root of your dendron vault. If you decide to publish your entire vault, this will be your landing page. You are free to customize any part of this page except the frontmatter on top.
+In a general context, a backlog refers to a collection or list of tasks, activities, or items that need to be completed or addressed. It typically represents work that has been requested, planned, or prioritized but has not yet been completed. Backlogs are commonly used in various fields and industries, including software development, project management, product development, customer support, and manufacturing.
 
-## Lookup
+In software development, for example, a backlog is a prioritized list of user stories, bug reports, and feature requests that need to be implemented in a software product. The backlog serves as a repository for these items until they are planned, scheduled, and worked on by the development team.
 
-This section contains useful links to related resources.
+Backlogs are often organized using techniques such as prioritization, estimation, and categorization to facilitate effective planning and execution of the work. The items in a backlog can be sorted based on factors such as urgency, importance, complexity, dependencies, or customer/user requirements.
 
-- [Getting Started Guide](https://link.dendron.so/6b25)
-- [Discord](https://link.dendron.so/6b23)
-- [Home Page](https://wiki.dendron.so/)
-- [Github](https://link.dendron.so/6b24)
-- [Developer Docs](https://docs.dendron.so/)
+Teams or individuals responsible for managing backlogs regularly review and update them as new items are added, completed, or reprioritized. This iterative process ensures that the backlog reflects the current state of the work to be done and helps in maintaining a steady flow of progress toward the desired goals.
