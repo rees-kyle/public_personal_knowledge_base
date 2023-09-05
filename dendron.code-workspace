@@ -1,6 +1,10 @@
 {
     "folders": [
         {
+            "path": "dependencies/localhost/Mathematics/notes",
+            "name": "Mathematics"
+        },
+        {
             "path": "dependencies/localhost/English/notes",
             "name": "English"
         },
