@@ -2,7 +2,7 @@
 id: rm55mj9zcqn7z0lipg0z0rk
 title: PowerShell Guide
 desc: ''
-updated: 1692457522967
+updated: 1693950952139
 created: 1691041687541
 ---
 
@@ -14,10 +14,10 @@ created: 1691041687541
 Powershell is mostly `singular` **and** `case insensitive`. You can use `TAB` **to** `autocomplete` commands.
 
 ### Input
->![](assets/guides/powershell/input_syntax.jpg)
+> ![](assets/guides/powershell/input_syntax.jpg)
 
 ### Output
->![](assets/guides/powershell/output_syntax.jpg)
+> ![](assets/guides/powershell/output_syntax.jpg)
 
 ---
 </details>
@@ -45,8 +45,7 @@ In PowerShell, the Get-ChildItem cmdlet is used to `retrieve` a `list` **of** `c
 > `gci`
 
 ### Output
->
-![](assets/guides/powershell/get-childitem.jpg)
+> ![](assets/guides/powershell/get-childitem.jpg)
 
 ---
 </details>

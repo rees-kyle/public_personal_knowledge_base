@@ -2,7 +2,7 @@
 id: zrovmk83czq5zkl8crjebfp
 title: Aliases
 desc: ''
-updated: 1692824903458
+updated: 1693949805771
 created: 1692097932664
 ---
 
@@ -12,7 +12,7 @@ In computing, an alias typically refers to a `shortcut` **or** `alternative name
 
 Here are a few common types of aliases in computing:
 
-1. **Command Aliases:** In [[command-line|computing.command-line-interface]] interfaces, you can create aliases for commonly used commands. For example, you could create an alias "ls" for the "ls -l" command to list files and directories in long format.
+1. **Command Aliases:** In [[command-line|command-line-interface]] interfaces, you can create aliases for commonly used commands. For example, you could create an alias "ls" for the "ls -l" command to list files and directories in long format.
 
 2. **File and Directory Aliases:** You can create aliases for file paths or directory locations. This can be useful when you need to reference a long path frequently.
 
