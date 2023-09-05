@@ -2,7 +2,7 @@
 id: y3p5rqaki3ejpi2b2ynxmvc
 title: Network Flow Models
 desc: ''
-updated: 1690867667106
+updated: 1693945077775
 created: 1690478289489
 ---
 
@@ -26,7 +26,7 @@ The main types of network flow optimization models include:
 
 4. **Dynamic Flow Problems:**
    - Dynamic flow models consider time-varying flows in a network.
-   - They are suitable for situations where the flow changes over time, such as dynamic traffic flow in [[transportation|computing.networking.models.types.transport]] networks or data flow in computer networks.
+   - They are suitable for situations where the flow changes over time, such as dynamic traffic flow in [transportation](../../Computing/notes/networking.models.types.transport.md) networks or data flow in computer networks.
 
 5. **Transshipment Problem:**
    - Transshipment models deal with intermediate nodes (transshipment points) where goods or resources can be transferred between different paths.
@@ -36,4 +36,4 @@ The main types of network flow optimization models include:
    - Stochastic flow models take into account uncertain or probabilistic parameters in the network, such as uncertain demands or capacities.
    - These models help optimize flow decisions under uncertainty.
 
-Network flow optimization models are crucial in various applications, including transportation and logistics, supply chain management, [[telecommunications|computing.networking.models.types.communication.tele]] , computer networks, and traffic engineering. Solving these models often involves using linear programming, integer programming, network flow algorithms, or other advanced optimization techniques to find the most efficient flow through the network and make resource allocation decisions.
+Network flow optimization models are crucial in various applications, including transportation and logistics, supply chain management, [telecommunications](../../Computing/notes/networking.models.types.communication.tele.md), computer networks, and traffic engineering. Solving these models often involves using linear programming, integer programming, network flow algorithms, or other advanced optimization techniques to find the most efficient flow through the network and make resource allocation decisions.
