@@ -2,7 +2,7 @@
 id: tmbx7v8kz0hx4w6cey2ht6p
 title: Dendron
 desc: ''
-updated: 1693596734945
+updated: 1693935425195
 created: 1689017115236
 ---
 
@@ -16,6 +16,8 @@ Action | Message
 **Deleteing** a file | `Delete fileName.ext`
 **Refactoring** hierarchy | `Refactor parent-note.child-note.md`
 **Refactoring** hierarchy (**from root**) | `Refactor note.md`
+**Moving Notes to** a **new vault** | `Move _ notes to new vault`
+**Refactoring** after moving notes to a **new vault** | `Refactor _ notes`
 
 ---
 
@@ -66,3 +68,9 @@ output
 ## Vaults
 
 - `Capitalize` vault names for tree view.
+
+---
+
+## Linking Vaults
+
+- Use `Markdown: Insert Link to File in Workspace` for linking to root.md of a different vault.
