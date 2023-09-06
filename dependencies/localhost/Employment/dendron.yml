@@ -23,53 +23,9 @@ commands:
 workspace:
     vaults:
         -
-            fsPath: dependencies/localhost/Employment
-            selfContained: true
-            name: Employment
-        -
-            fsPath: dependencies/localhost/Standards
-            selfContained: true
-            name: Standards
-        -
-            fsPath: dependencies/localhost/Scratch
-            selfContained: true
-            name: Scratch
-        -
-            fsPath: dependencies/localhost/Projects
-            selfContained: true
-            name: Projects
-        -
-            fsPath: dependencies/localhost/Personal Development
-            selfContained: true
-            name: Personal Development
-        -
-            fsPath: dependencies/localhost/Exams
-            selfContained: true
-            name: Exams
-        -
-            fsPath: dependencies/localhost/Study
-            selfContained: true
-            name: Study
-        -
-            fsPath: dependencies/localhost/Mathematics
-            selfContained: true
-            name: Mathematics
-        -
-            fsPath: dependencies/localhost/English
-            selfContained: true
-            name: English
-        -
-            fsPath: dependencies/localhost/Backlog
-            selfContained: true
-            name: Backlog
-        -
-            fsPath: dependencies/localhost/Computing
-            selfContained: true
-            name: Computing
-        -
             fsPath: .
             selfContained: true
-            name: Public
+            name: Employment
     journal:
         dailyDomain: daily
         name: journal
@@ -150,18 +106,3 @@ publishing:
     enableTaskNotes: true
     enablePrettyLinks: true
     searchMode: search
-    duplicateNoteBehavior:
-        action: useVault
-        payload:
-            - Computing
-            - Public
-            - Backlog
-            - English
-            - Mathematics
-            - Study
-            - Exams
-            - Personal Development
-            - Projects
-            - Scratch
-            - Standards
-            - Employment
