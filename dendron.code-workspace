@@ -1,6 +1,10 @@
 {
     "folders": [
         {
+            "path": "dependencies/localhost/Standards/notes",
+            "name": "Standards"
+        },
+        {
             "path": "dependencies/localhost/Scratch/notes",
             "name": "Scratch"
         },
