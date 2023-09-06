@@ -10,7 +10,7 @@ Scrum is **founded** on `empiricism` and `lean thinking`. Empiricism asserts tha
 
 Scrum employs an `iterative`, `incremental` **approach** to **optimize** `predictability` and to **control** `risk`. Scrum engages groups of people who collectively have all the skills and expertise to do the work and share or acquire such skills as needed.
 
-Scrum combines `four` formal **events** for inspection and adaptation *within* a **containing event**, the [[Sprint|exams.scrum.guide.events.sprint]]. These events work because they implement the empirical **Scrum pillars** of `transparency`, `inspection`, and `adaptation`.
+Scrum combines `four` formal **events** for inspection and adaptation *within* a **containing event**, the [[Sprint|scrum.guide.events.sprint]]. These events work because they implement the empirical **Scrum pillars** of `transparency`, `inspection`, and `adaptation`.
 
 
 <details>
