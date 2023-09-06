@@ -2,7 +2,7 @@
 id: hmf2wxnv1jw8vdxly1ik077
 title: Scrum Team
 desc: ''
-updated: 1687968983602
+updated: 1694012931183
 created: 1687519048659
 ---
 
@@ -14,7 +14,7 @@ The **Scrum Team** is `small` enough to remain nimble and large enough to comple
 
 The Scrum Team is **responsible** for `all product-related activities` **from** `stakeholder collaboration`, `verification`, `maintenance`, `operation`, `experimentation`, `research` and `development`, and anything else that might be required. They are structured and empowered by the organization to manage their own work. Working in Sprints at a sustainable pace improves the Scrum Team’s focus and consistency.
 
-The entire Scrum Team is **accountable** for creating a valuable, useful `Increment` **every** [[Sprint|exams.scrum.guide.events.sprint]]. Scrum defines `three` **specific accountabilities** within the Scrum Team: the `Developers`, the `Product Owner`, and the `Scrum Master`.
+The entire Scrum Team is **accountable** for creating a valuable, useful `Increment` **every** [[scrum.guide.events.sprint]]. Scrum defines `three` **specific accountabilities** within the Scrum Team: the `Developers`, the `Product Owner`, and the `Scrum Master`.
 
 
 <details>
