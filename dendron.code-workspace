@@ -1,6 +1,10 @@
 {
     "folders": [
         {
+            "path": "dependencies/localhost/DataCamp/notes",
+            "name": "DataCamp"
+        },
+        {
             "path": "dependencies/localhost/Philosophy/notes",
             "name": "Philosophy"
         },
