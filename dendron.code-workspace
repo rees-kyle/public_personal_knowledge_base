@@ -1,6 +1,10 @@
 {
     "folders": [
         {
+            "path": "dependencies/localhost/SMART Goals/notes",
+            "name": "SMART Goals"
+        },
+        {
             "path": "dependencies/localhost/DataCamp/notes",
             "name": "DataCamp"
         },
