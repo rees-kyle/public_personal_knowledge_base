@@ -1,9 +1,9 @@
 ---
-id: yfnad9fmw51nev2feggy8bv
+id: 2hr2t1d62pppe4rglfavdpm
 title: Data Analyst in SQL
 desc: ''
-updated: 1700472651162
-created: 1700472185025
+updated: 1700720580523
+created: 1700720426571
 ---
 
 Database design is critical for a high-performance application. Just like you wouldn't build a house without a blueprint, `you need to plan how you’ll store your data beforehand`. In this interactive SQL track, you'll learn the fundamentals of database design and how to:
