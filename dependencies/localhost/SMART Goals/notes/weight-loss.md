@@ -2,11 +2,14 @@
 id: guqy244ys9u4uofcdqlst34
 title: Weight Loss
 desc: ''
-updated: 1700744668826
+updated: 1700810509479
 created: 1700742841617
 ---
 
-![Alt text](image.png)
+## Calculations
+
+![Alt text](assets/image.png)
+
 
 ## Goal
 
@@ -30,3 +33,10 @@ created: 1700742841617
 
 5. **Time-bound:** `When can I accomplish this goal?`
 > I plan to reach my goal in 138 days, by the 10th of April in the year 2024.
+
+---
+
+## Progress
+
+![Alt text](assets/image-2.png)
+Taken 24/11/2023
