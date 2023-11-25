@@ -2,7 +2,7 @@
 id: um8s4t0as13r4it3htqic9s
 title: Tables
 desc: ''
-updated: 1700619358011
+updated: 1700911931950
 created: 1700614223046
 ---
 
@@ -17,21 +17,21 @@ We saw in the previous lesson that databases are organized into tables, which ho
 
 Let's talk a little bit about table naming. `Table names` should be `lowercase` and should `not include spaces` - we `use underscores` in place of spaces. And ideally, a table name would `refer to a collective group` (like "`inventory`") but it's also `okay for` the table to have a `plural name` (such as "`products`").
 
-![Alt text](image-6.png)
+![Alt text](assets/image-6.png)
 
 
 ## Records
 
 `A record is` a row in a table. It holds data on `an individual observation`. Taking a look at the patrons table, we see that the table has four records: one for each of the patrons. The record for Jasmin indicates that she became a member in 2022 and owes two dollars and five cents in fines.
 
-![Alt text](image-7.png)
+![Alt text](assets/image-7.png)
 
 
 ## Fields
 
 `A field` is a column in a table. It `holds one piece of information about all observations` in the table. The "name" field in the patrons table lists all of the names of our library patrons.
 
-![Alt text](image-8.png)
+![Alt text](assets/image-8.png)
 
 ### Field Names
 
@@ -42,11 +42,11 @@ Because `field names` must be `typed out when querying` a database with SQL, `fi
 
 A `unique identifier`, sometimes called a "`key`," `is` just what it sounds like: `a unique value which identifies a record` so that it `can be distinguished from other records in the same table`. This value is very `often a number`. In the `patrons table`, it makes sense to `use the card_num field` as the unique identifier for each patron, `not the name field`, `because` it's possible that as our little library grows, `two patrons might have the same name`.
 
-![Alt text](image-9.png)
+![Alt text](assets/image-9.png)
 
 
 ## Prioritise More Tables
 
 Having `more tables`, each `with a clearly marked subject`, is generally `better than` having `fewer tables where` information about `multiple subjects` is `combined`. Take a look at the patrons and checkouts tables. Now, here's what our patrons and checkouts tables would look like if we tried to combine them. It's the same data, but much less clear because it now `contains duplicate information`. While we can see that Izzy has two checkouts and Maham has none, the `card_num column is no longer unique because of Izzy's multiple checkouts`. We `can` always `use SQL to gather information from multiple related tables` and `connect them if a question requires it`, but `table topics should remain separate`.
 
-![Alt text](image-10.png)
+![Alt text](assets/image-10.png)
