@@ -2,7 +2,7 @@
 id: guqy244ys9u4uofcdqlst34
 title: Weight Loss
 desc: ''
-updated: 1700810509479
+updated: 1701275631400
 created: 1700742841617
 ---
 
@@ -38,5 +38,11 @@ created: 1700742841617
 
 ## Progress
 
-![Alt text](assets/image-2.png)
+> ![Alt text](assets/image-2.png)
 Taken 24/11/2023
+
+---
+
+## Reflection
+
+> In the furutre compensate for recovery and illness days.
