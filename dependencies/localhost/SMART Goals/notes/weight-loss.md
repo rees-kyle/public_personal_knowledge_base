@@ -2,7 +2,7 @@
 id: guqy244ys9u4uofcdqlst34
 title: Weight Loss
 desc: ''
-updated: 1701275631400
+updated: 1701411887346
 created: 1700742841617
 ---
 
@@ -45,4 +45,4 @@ Taken 24/11/2023
 
 ## Reflection
 
-> In the furutre compensate for recovery and illness days.
+> In the furutre compensate days for recovery and illness. Get flu vaccination in September each year.
