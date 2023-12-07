@@ -2,13 +2,13 @@
 id: guqy244ys9u4uofcdqlst34
 title: Weight Loss
 desc: ''
-updated: 1701411887346
+updated: 1701984748239
 created: 1700742841617
 ---
 
 ## Calculations
 
-![Alt text](assets/image.png)
+![](assets/image.png)
 
 
 ## Goal
