@@ -1,16 +1,12 @@
 ---
-id: pxr8up1egwrqkuilngkf6as
-title: Scratch
+id: mt81hpq83tzlo9ms4rc5xje
+title: '08'
 desc: ''
-updated: 1702059669616
-created: 1694020260294
+updated: 1702059756645
+created: 1702059601070
 ---
 
-<!-- start of 'notes' section -->
-<details>
-    <summary>Notes</summary>
-
-#
+## hierarchy
 ```mermaid
 graph TD
     computing -->
@@ -60,18 +56,6 @@ graph TD
                assembly -->
                x86
 ```
-
----
-</details>
-<!-- end of 'notes' section -->
-
-
-
-<!-- start of 'todo' section -->
-<details>
-    <summary>Todo</summary>
-
-#
 1. [x] refactor computing hierarchy
     1. [x] refactor programming.languages to languages
     1. [x] add web-dev
@@ -99,13 +83,3 @@ graph TD
 1. [x] 18.md
     1. [x] move
     1. [x] commit
-1. [ ] 08.md
-    1. [x] add
-    1. [x] modify
-    1. [ ] commit
-1. [ ] git push
-1. [ ] learn html
-
----
-</details>
-<!-- end of 'todo' section -->
