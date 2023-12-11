@@ -1,8 +1,8 @@
 ---
 id: 2obx91xd7i95bbm1x8bbxgn
-title: SQL Query Introduction
+title: 1 - SQL Query Introduction
 desc: ''
-updated: 1701173422725
+updated: 1702291298048
 created: 1700910887843
 ---
 

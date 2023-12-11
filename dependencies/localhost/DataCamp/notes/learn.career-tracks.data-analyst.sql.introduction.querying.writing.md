@@ -1,8 +1,8 @@
 ---
 id: ee76i6248akxpsec3quk5hw
-title: Writing Queries
+title: 2 - Writing Queries
 desc: ''
-updated: 1701173415799
+updated: 1702291307278
 created: 1701003825919
 ---
 
