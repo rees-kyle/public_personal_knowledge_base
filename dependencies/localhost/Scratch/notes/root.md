@@ -2,7 +2,7 @@
 id: pxr8up1egwrqkuilngkf6as
 title: Scratch
 desc: ''
-updated: 1702320751265
+updated: 1702322576713
 created: 1694020260294
 ---
 
@@ -52,30 +52,33 @@ graph TD;
     1. [x] commit
 1. [x] git push
 1. [ ] learn html
-    1. [ ] overview.md
+    1. [x] overview.md
+        1. [x] add
+        1. [x] modify
+    1. [x] .key-components.md
+        1. [x] add
+        1. [x] modify
+    1. [x] .structure-of-document.md
+        1. [x] add
+        1. [x] modify
+    1. [x] .role-in-web-dev.md
+        1. [x] add
+        1. [x] modify
+    1. [x] .web-dev-ecosystem.md
+        1. [x] add
+        1. [x] modify
+    1. [x] .seo-and-accessibility.md
+        1. [x] add
+        1. [x] modify
+    1. [x] .evolution-with-HTML5.md
         1. [x] add
         1. [ ] modify
-    1. [ ] .key-components.md
+    1. [x] .summary.md
         1. [x] add
-        1. [ ] modify
-    1. [ ] .structure-of-document.md
-        1. [x] add
-        1. [ ] modify
-    1. [ ] .role-in-web-dev.md
-        1. [x] add
-        1. [ ] modify
-    1. [ ] .web-dev-ecosystem.md
-        1. [x] add
-        1. [ ] modify
-    1. [ ] .seo-and-accessibility.md
-        1. [x] add
-        1. [ ] modify
-    1. [ ] .evolution-with-HTML5.md
-        1. [x] add
-        1. [ ] modify
-    1. [ ] .summary.md
-        1. [x] add
-        1. [ ] modify
+        1. [x] modify
+    1. [ ] commit
+    1. [ ] push
+    
 ---
 </details>
 <!-- end of 'todo' section -->

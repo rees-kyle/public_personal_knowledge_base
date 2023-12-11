@@ -1,57 +1,94 @@
 ---
 id: x49bpv10g1x2foy65k0sd30
-title: HTML Guide
+title: Guide
 desc: ''
-updated: 1702062375971
+updated: 1702322394228
 created: 1702061585484
 ---
 
-<!-- start of 'template' section -->
-<details>
-    <summary>Template</summary>
+> I want to learn html, provide me with the topics.
 
-#
-Here is the basic template of an HTML file.
+Certainly! Learning HTML involves understanding various topics that cover the structure and elements used to create web pages. Here's a structured list of topics to guide your learning:
 
-### Input
-```html
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Page Title</title>
-    </head>
-    <body>
-        <h1>This is a Heading</h1>
-        <p>This is a paragraph.</p>
-        <p>This is another paragraph.</p>
-    </body>
-</html>
-```
+### 1. **Introduction to HTML:**
+   - Overview of HTML and its role in web development.
+   
+---
 
-### Output
->
-![](2023-12-08-18-57-31.png)
+done
 
 ---
-</details>
-<!-- end of 'template' section -->
 
+   - Basic structure of an HTML document.
+   - Elements, tags, and attributes.
 
+### 2. **HTML Document Structure:**
+   - Document type declaration (`<!DOCTYPE html>`).
+   - `<html>`, `<head>`, and `<body>` elements.
+   - Metadata: `<title>`, `<meta>` tags.
 
-<!-- start of 'link css file' section -->
-<details>
-    <summary>Link CSS File</summary>
+### 3. **Text Markup:**
+   - Headings: `<h1>` to `<h6>`.
+   - Paragraphs: `<p>` tag.
+   - Formatting text: `<strong>`, `<em>`, `<u>`, `<s>`, `<code>`, etc.
 
-#
-To link a CSS file to an HTML file, you use the `link` tag in the `head` section of the HTML file. The rel attribute specifies the relationship between the HTML and the linked file, the type attribute specifies the MIME type, and the href attribute provides the URL of the linked file.
+### 4. **Lists:**
+   - Ordered lists (`<ol>`) and unordered lists (`<ul>`).
+   - List items (`<li>`).
 
-### Input
-```html
-<link rel="stylesheet" type="text/css" href="styles.css">
-```
+### 5. **Links and Navigation:**
+   - Hyperlinks: `<a>` tag.
+   - Internal links and external links.
+   - Navigation menus.
 
-In this example, styles.css is in the same directory as the HTML file. If it's in a different directory, you would need to adjust the href attribute to point to the correct location.
+### 6. **Images:**
+   - Adding images: `<img>` tag.
+   - Image attributes (e.g., `src`, `alt`).
 
----
-</details>
-<!-- end of 'link css file' section -->
+### 7. **Forms:**
+   - Creating forms: `<form>` tag.
+   - Form elements: `<input>`, `<textarea>`, `<select>`, etc.
+   - Form attributes and form validation.
+
+### 8. **Tables:**
+   - Creating tables: `<table>` tag.
+   - Table rows (`<tr>`), table headers (`<th>`), and table data (`<td>`).
+
+### 9. **Semantics:**
+   - Semantic elements like `<header>`, `<footer>`, `<article>`, `<section>`, `<nav>`, etc.
+   - The importance of using semantic elements for accessibility and SEO.
+
+### 10. **HTML Validation:**
+   - W3C Markup Validation Service.
+   - Ensuring your HTML code follows standards.
+
+### 11. **Multimedia:**
+   - Embedding audio and video: `<audio>`, `<video>` tags.
+   - Using `<iframe>` for embedding content from other websites.
+
+### 12. **HTML5 Features:**
+   - New HTML5 elements (e.g., `<article>`, `<section>`, `<header>`).
+   - Web storage and local storage.
+
+### 13. **Responsive Design:**
+   - Introduction to responsive web design.
+   - Using viewport meta tag.
+
+### 14. **Best Practices:**
+   - Clean and readable code.
+   - Accessibility considerations.
+
+### 15. **Additional Concepts:**
+   - Character entities.
+   - Comments in HTML.
+
+### 16. **Project-Based Learning:**
+   - Apply your knowledge by working on small projects.
+   - Build a simple webpage or portfolio.
+
+### Resources:
+   - Online tutorials (MDN, W3Schools, freeCodeCamp).
+   - Books on HTML and web development.
+   - Coding exercises and challenges.
+
+Remember to practice regularly, and as you become more comfortable with HTML, you can explore additional technologies like CSS for styling and JavaScript for interactivity. Good luck on your HTML learning journey!
