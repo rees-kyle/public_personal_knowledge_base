@@ -2,7 +2,7 @@
 id: x49bpv10g1x2foy65k0sd30
 title: Guide
 desc: ''
-updated: 1702322394228
+updated: 1702398767335
 created: 1702061585484
 ---
 
@@ -11,16 +11,10 @@ created: 1702061585484
 Certainly! Learning HTML involves understanding various topics that cover the structure and elements used to create web pages. Here's a structured list of topics to guide your learning:
 
 ### 1. **Introduction to HTML:**
-   - Overview of HTML and its role in web development.
-   
----
+   - ~~Overview of HTML and its role in web development.~~
+   - ~~Basic structure of an HTML document.~~
+   - ~~Elements, tags, and attributes.~~
 
-done
-
----
-
-   - Basic structure of an HTML document.
-   - Elements, tags, and attributes.
 
 ### 2. **HTML Document Structure:**
    - Document type declaration (`<!DOCTYPE html>`).
