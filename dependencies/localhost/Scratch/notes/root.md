@@ -2,7 +2,7 @@
 id: pxr8up1egwrqkuilngkf6as
 title: Scratch
 desc: ''
-updated: 1702399223623
+updated: 1702399261685
 created: 1694020260294
 ---
 
@@ -84,10 +84,10 @@ graph TD;
     1. [x] .structure-of-document.md
         1. [x] modify
         1. [x] commit
-    1. [ ] guide.md and root.md
+    1. [x] guide.md and root.md
         1. [x] modify
-        1. [ ] commit
-    1. [ ] git push 
+        1. [x] commit
+    1. [x] git push 
     1. [ ] structure.md?
     
 ---
