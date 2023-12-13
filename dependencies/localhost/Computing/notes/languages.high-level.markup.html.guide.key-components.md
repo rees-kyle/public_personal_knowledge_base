@@ -1,12 +1,12 @@
 ---
 id: oarqd32fyp9dnvv2eqflrfl
-title: 1 - Key Components
+title: 2 - Key Components
 desc: ''
-updated: 1702396762294
+updated: 1702485492762
 created: 1702320420854
 ---
 
-In HTML (Hypertext Markup Language), elements, tags, and attributes are fundamental concepts that structure the content and define the presentation of a web page. Here's a brief explanation of each:
+In HTML (Hypertext Markup Language), `elements`, `tags`, and `attributes` are fundamental concepts that structure the content and define the presentation of a web page. Here's a brief explanation of each:
 
 ## Elements
 
@@ -25,7 +25,7 @@ Tags are `used to create`, `structure`, and `format content` in an HTML document
 `<p>` is the `start tag`, and `</p>` is the `end tag` for a `paragraph element`.
 
 
-## Attribute
+## Attributes
 
 An attribute `provides additional information about an` HTML `element` and is `always included in` the `opening tag`. Attributes are `typically in name/value pairs` like `name="value"`. Here is an example:
 

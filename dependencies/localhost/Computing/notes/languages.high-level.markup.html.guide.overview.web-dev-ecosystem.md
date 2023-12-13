@@ -1,8 +1,8 @@
 ---
 id: 7eop5inv75uspbrpzvjedeh
-title: 4 - Web Development Ecosystem
+title: 2 - Web Development Ecosystem
 desc: ''
-updated: 1702322201767
+updated: 1702485675663
 created: 1702320654904
 ---
 

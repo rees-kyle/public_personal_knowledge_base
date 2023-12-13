@@ -1,8 +1,8 @@
 ---
 id: j1vwxrazfoioywm7lp3rthy
-title: 5 - Seo and Accessibility
+title: 3 - Seo and Accessibility
 desc: ''
-updated: 1702322246215
+updated: 1702485679751
 created: 1702320679191
 ---
 

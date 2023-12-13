@@ -1,25 +1,9 @@
 ---
 id: j2m8o7jqco8b2x6pgcfzpqc
-title: 2 - Structure of Document
+title: 3 - Structure of Document
 desc: ''
-updated: 1702398702440
+updated: 1702485785678
 created: 1702320621409
----
-
-
-
-<!-- start of 'metadata' section -->
-<details>
-    <summary>Definition: metadata</summary>
-
-#
-Refers to `data` **that provides** `information` **about** `other data`.
-
----
-</details>
-<!-- end of 'example' section -->
-
-
 ---
 
 An HTML `document follows` a `specific structure to define` the `content` and `layout of` a `web page`. 
