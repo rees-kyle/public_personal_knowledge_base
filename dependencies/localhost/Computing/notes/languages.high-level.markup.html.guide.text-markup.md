@@ -2,7 +2,7 @@
 id: 94wy4wugt5e34uqhwtml36v
 title: 4 - Text Markup
 desc: ''
-updated: 1702489114613
+updated: 1702572863759
 created: 1702486604328
 ---
 
@@ -94,15 +94,29 @@ You can create `ordered` (`<ol>`) and `unordered` (`<ul>`) lists.
 </ul>
 ```
 
+You can also create `definition` (`<dl>`) lists.
+```html
+<!-- ordered list -->
+<dl>
+    <dt>HTML</dt>
+    <dd>HyperText Markup Language</dd>
+
+    <dt>CSS</dt>
+    <dd>Cascading Style Sheets</dd>
+</dl>
+```
+
 
 ## Code Snippets
 
-The `<code>` tag is used to define a piece of code within a text. It is commonly used for displaying `code snippets`, programming code, or any text that should be treated as code.
+The `<pre>` and `<code>` tags are commonly used together for displaying `code snippets`.
 
 ```html
-<code>
-    &lt;title&gt;My Web Page&lt;/title&gt;
-</code>
+<pre>
+    <code>
+        &lt;title&gt;My Web Page&lt;/title&gt;
+    </code>
+</pre>
 ```
 
 In HTML, certain characters have special meanings, and `using` the `literal character might interfere with` the HTML `structure`.
