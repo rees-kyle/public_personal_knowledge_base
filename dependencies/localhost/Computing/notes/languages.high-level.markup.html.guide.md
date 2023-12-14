@@ -2,7 +2,7 @@
 id: x49bpv10g1x2foy65k0sd30
 title: Guide
 desc: ''
-updated: 1702489380415
+updated: 1702592089329
 created: 1702061585484
 ---
 
@@ -26,14 +26,14 @@ Certainly! Learning HTML involves understanding various topics that cover the st
    - ~~Paragraphs: `<p>` tag.~~
    - ~~Formatting text: `<strong>`, `<em>`, `<u>`, `<s>`, `<code>`, etc.~~
 
-### 4. **Lists:**
-   - Ordered lists (`<ol>`) and unordered lists (`<ul>`).
-   - List items (`<li>`).
+### 4. ~~**Lists:**~~
+   - ~~Ordered lists (`<ol>`) and unordered lists (`<ul>`).~~
+   - ~~List items (`<li>`).~~
 
-### 5. **Links and Navigation:**
-   - Hyperlinks: `<a>` tag.
-   - Internal links and external links.
-   - Navigation menus.
+### 5. ~~**Links and Navigation:**~~
+   - ~~Hyperlinks: `<a>` tag.~~
+   - ~~Internal links and external links.~~
+   - ~~Navigation menus.~~
 
 ### 6. **Images:**
    - Adding images: `<img>` tag.
