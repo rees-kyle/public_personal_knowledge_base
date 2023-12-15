@@ -2,7 +2,7 @@
 id: x49bpv10g1x2foy65k0sd30
 title: Guide
 desc: ''
-updated: 1702592089329
+updated: 1702669127003
 created: 1702061585484
 ---
 
@@ -35,9 +35,9 @@ Certainly! Learning HTML involves understanding various topics that cover the st
    - ~~Internal links and external links.~~
    - ~~Navigation menus.~~
 
-### 6. **Images:**
-   - Adding images: `<img>` tag.
-   - Image attributes (e.g., `src`, `alt`).
+### 6. ~~**Images:**~~
+   - ~~Adding images: `<img>` tag.~~
+   - ~~Image attributes (e.g., `src`, `alt`).~~
 
 ### 7. **Forms:**
    - Creating forms: `<form>` tag.
