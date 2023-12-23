@@ -2,7 +2,7 @@
 id: pxr8up1egwrqkuilngkf6as
 title: Scratch
 desc: ''
-updated: 1702399261685
+updated: 1703370567680
 created: 1694020260294
 ---
 
@@ -88,7 +88,11 @@ graph TD;
         1. [x] modify
         1. [x] commit
     1. [x] git push 
-    1. [ ] structure.md?
+    1. [x] text-markup.md
+    1. [x] links-and-navigation.md
+    1. [x] images.md
+    1. [x] forms.md
+    1. [] commit
     
 ---
 </details>
