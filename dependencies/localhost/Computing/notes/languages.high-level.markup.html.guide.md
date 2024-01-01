@@ -2,7 +2,7 @@
 id: x49bpv10g1x2foy65k0sd30
 title: Guide
 desc: ''
-updated: 1702669127003
+updated: 1704077825056
 created: 1702061585484
 ---
 
@@ -39,10 +39,10 @@ Certainly! Learning HTML involves understanding various topics that cover the st
    - ~~Adding images: `<img>` tag.~~
    - ~~Image attributes (e.g., `src`, `alt`).~~
 
-### 7. **Forms:**
-   - Creating forms: `<form>` tag.
-   - Form elements: `<input>`, `<textarea>`, `<select>`, etc.
-   - Form attributes and form validation.
+### 7. ~~**Forms:**~~
+   - ~~Creating forms: `<form>` tag.~~
+   - ~~Form elements: `<input>`, `<textarea>`, `<select>`, etc.~~
+   - ~~Form attributes and form validation.~~
 
 ### 8. **Tables:**
    - Creating tables: `<table>` tag.
