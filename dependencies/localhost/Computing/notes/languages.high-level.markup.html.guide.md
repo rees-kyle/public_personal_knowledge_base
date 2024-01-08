@@ -2,7 +2,7 @@
 id: x49bpv10g1x2foy65k0sd30
 title: Guide
 desc: ''
-updated: 1704077825056
+updated: 1704719541424
 created: 1702061585484
 ---
 
@@ -44,12 +44,12 @@ Certainly! Learning HTML involves understanding various topics that cover the st
    - ~~Form elements: `<input>`, `<textarea>`, `<select>`, etc.~~
    - ~~Form attributes and form validation.~~
 
-### 8. **Tables:**
-   - Creating tables: `<table>` tag.
-   - Table rows (`<tr>`), table headers (`<th>`), and table data (`<td>`).
+### 8. ~~**Tables:**~~
+   - ~~Creating tables: `<table>` tag.~~
+   - ~~Table rows (`<tr>`), table headers (`<th>`), and table data (`<td>`).~~
 
-### 9. **Semantics:**
-   - Semantic elements like `<header>`, `<footer>`, `<article>`, `<section>`, `<nav>`, etc.
+### 9. ~~**Semantics:**~~
+   - ~~Semantic elements like `<header>`, `<footer>`, `<article>`, `<section>`, `<nav>`, etc.~~
    - The importance of using semantic elements for accessibility and SEO.
 
 ### 10. **HTML Validation:**
