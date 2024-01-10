@@ -1,8 +1,8 @@
 ---
 id: xhk54rxi6mnofjgflure69j
-title: 1 - Attributes and Validation
+title: Attributes and Validation
 desc: ''
-updated: 1704246180670
+updated: 1704899041965
 created: 1704074245892
 ---
 
