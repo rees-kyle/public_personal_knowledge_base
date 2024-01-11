@@ -2,7 +2,7 @@
 id: x49bpv10g1x2foy65k0sd30
 title: Guide
 desc: ''
-updated: 1704816030643
+updated: 1704991457103
 created: 1702061585484
 ---
 
@@ -52,13 +52,13 @@ Certainly! Learning HTML involves understanding various topics that cover the st
    - ~~Semantic elements like `<header>`, `<footer>`, `<article>`, `<section>`, `<nav>`, etc.~~
    - ~~The importance of using semantic elements for accessibility and SEO.~~
 
-### 10. **HTML Validation:**
-   - W3C Markup Validation Service.
-   - Ensuring your HTML code follows standards.
+### 10. ~~**HTML Validation:**~~
+   - ~~W3C Markup Validation Service.~~
+   - ~~Ensuring your HTML code follows standards.~~
 
-### 11. **Multimedia:**
-   - Embedding audio and video: `<audio>`, `<video>` tags.
-   - Using `<iframe>` for embedding content from other websites.
+### 11. ~~**Multimedia:**~~
+   - ~~Embedding audio and video: `<audio>`, `<video>` tags.~~
+   - ~~Using `<iframe>` for embedding content from other websites.~~
 
 ### 12. **HTML5 Features:**
    - New HTML5 elements (e.g., `<article>`, `<section>`, `<header>`).
