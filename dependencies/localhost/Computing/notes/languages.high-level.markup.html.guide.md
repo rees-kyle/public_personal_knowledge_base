@@ -2,7 +2,7 @@
 id: x49bpv10g1x2foy65k0sd30
 title: Guide
 desc: ''
-updated: 1705067717097
+updated: 1705151511783
 created: 1702061585484
 ---
 
@@ -63,9 +63,9 @@ Certainly! Learning HTML involves understanding various topics that cover the st
    - ~~New HTML5 elements (e.g., `<article>`, `<section>`, `<header>`).~~
    - ~~Web storage and local storage~~.
 
-### 13. **Responsive Design:**
-   - Introduction to responsive web design.
-   - Using viewport meta tag.
+### 13. ~~**Responsive Design:**~~
+   - ~~Introduction to responsive web design.~~
+   - ~~Using viewport meta tag.~~
 
 ### 14. **Best Practices:**
    - Clean and readable code.
