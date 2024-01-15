@@ -1,6 +1,10 @@
 {
     "folders": [
         {
+            "path": "dependencies/localhost/Music/notes",
+            "name": "Music"
+        },
+        {
             "path": "dependencies/localhost/SMART Goals/notes",
             "name": "SMART Goals"
         },
