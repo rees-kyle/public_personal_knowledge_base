@@ -2,7 +2,7 @@
 id: x49bpv10g1x2foy65k0sd30
 title: Guide
 desc: ''
-updated: 1705151511783
+updated: 1705420542787
 created: 1702061585484
 ---
 
@@ -67,9 +67,9 @@ Certainly! Learning HTML involves understanding various topics that cover the st
    - ~~Introduction to responsive web design.~~
    - ~~Using viewport meta tag.~~
 
-### 14. **Best Practices:**
-   - Clean and readable code.
-   - Accessibility considerations.
+### 14. ~~**Best Practices:**~~
+   - ~~Clean and readable code.~~
+   - ~~Accessibility considerations.~~
 
 ### 15. **Additional Concepts:**
    - Character entities.

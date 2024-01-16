@@ -2,57 +2,44 @@
 id: k3xx5ykkmipnzcrqzlq6002
 title: 015 - Additional Concepts
 desc: ''
-updated: 1705252395589
+updated: 1705422228331
 created: 1705251063807
 ---
 
 Here are some additional concepts and techniques you can consider in HTML:
 
-1. **Data Attributes:**
-   Use data attributes to store custom data private to the page or application. This data can be easily accessed and manipulated using JavaScript.
+## Data Attributes
 
-   ```html
-   <div data-custom="your-data-value">Content</div>
-   ```
+Use data attributes **to** `store` `custom data` `private` **to the page or application**. This data **can be** easily `accessed` **and** `manipulated` **using** `JavaScript`.
 
-   Access it with JavaScript:
+```html
+<!-- Div element with a custom data attribute -->
+<div data-custom="your-data-value">Content</div>
+```
 
-   ```javascript
-   var customData = document.querySelector('div').dataset.custom;
-   ```
+- `<div>`: This is an HTML block-level element used to define a division or section in a document.
 
-2. **HTML Forms:**
-   Learn how to create and work with HTML forms. Understand different input types (`<input>`), form elements, and attributes like `action` and `method`.
+- `data-custom="your-data-value"`: This is a custom data attribute named "custom." Custom data attributes are used to store private data private to the page or application, and their names should begin with "data-" followed by a descriptive name. In this case, "your-data-value" is a placeholder, and you can replace it with the actual data value you want to associate with the element.
 
-   ```html
-   <form action="/submit" method="post">
-       <label for="username">Username:</label>
-       <input type="text" id="username" name="username">
-       <input type="submit" value="Submit">
-   </form>
-   ```
+- `Content`: This is the content inside the `<div>` element, which could be text, other HTML elements, or a combination of both.
 
-3. **HTML Media Elements:**
-   Embed media elements like images, audio, and video. Use the `<img>`, `<audio>`, and `<video>` tags, and explore their attributes for customization.
+### Access it with JavaScript
 
-   ```html
-   <img src="image.jpg" alt="Description">
-   <audio controls>
-       <source src="audio.mp3" type="audio/mp3">
-       Your browser does not support the audio tag.
-   </audio>
-   <video width="320" height="240" controls>
-       <source src="movie.mp4" type="video/mp4">
-       Your browser does not support the video tag.
-   </video>
-   ```
+```javascript
+// Selecting the first 'div' element in the document
+var customData = document.querySelector('div');
 
-4. **HTML5 Canvas:**
-   Explore the `<canvas>` element for drawing graphics and animations using JavaScript. This is especially useful for creating interactive content.
+// Accessing the value of the 'data-custom' attribute using the dataset property
+// The 'dataset' property provides access to all custom data attributes (data-* attributes)
+// In this case, it retrieves the value of the 'data-custom' attribute
+var customDataValue = customData.dataset.custom;
+```
 
-   ```html
-   <canvas id="myCanvas" width="200" height="100"></canvas>
-   ```
+- `var customData`: This declares a variable named `customData` to store the reference to the first `<div>` element found in the document using `document.querySelector('div')`.
+
+- `document.querySelector('div')`: This method searches for the first occurrence of a `<div>` element in the document. It returns the reference to the element if found.
+
+- `.dataset.custom`: The `dataset` property is used to access the custom data attributes of an element. In this case, it retrieves the value associated with the 'data-custom' attribute of the selected `<div>` element and assigns it to the variable `customDataValue`.
 
 5. **HTML Metadata:**
    Utilize meta tags in the `<head>` section to provide metadata about the document, such as character set, viewport settings, and descriptions.
@@ -72,15 +59,6 @@ Here are some additional concepts and techniques you can consider in HTML:
 
 7. **HTML Imports (Deprecated):**
    Note that HTML Imports, once a feature in web components, have been deprecated. It's recommended to use other module systems like ES6 imports for JavaScript and CSS for styling.
-
-8. **Web Storage:**
-   Learn about web storage options such as localStorage and sessionStorage for storing data on the client side. These provide a way to store key-value pairs persistently or for the duration of a session.
-
-   ```javascript
-   // localStorage
-   localStorage.setItem('key', 'value');
-   var storedValue = localStorage.getItem('key');
-   ```
 
 9. **Custom Elements:**
    Explore the concept of custom elements in HTML, which allows you to define your own custom HTML elements with associated JavaScript behavior. This is part of the Web Components standard.
