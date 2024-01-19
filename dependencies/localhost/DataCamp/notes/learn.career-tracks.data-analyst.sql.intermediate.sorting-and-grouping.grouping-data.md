@@ -2,7 +2,7 @@
 id: wu4bh26367y16qkjhsg5xf9
 title: 2 - Grouping Data
 desc: ''
-updated: 1705496622991
+updated: 1705685663201
 created: 1705491941311
 ---
 
@@ -36,10 +36,19 @@ We can use GROUP BY on multiple fields similar to ORDER BY. **The** `order` in w
 
 ## GROUP BY with ORDER BY
 
-We can combine GROUP BY with ORDER BY **to** `group` our `results`, `make` **a** `calculation`, **and then** `order` our `results`. For example, we can clean up one of our previous queries by sorting the results by the title count in descending order. Here is that query without ORDER BY, and this is the same query with ordering added. ORDER BY is always written after GROUP BY, and notice that we can refer back to the alias within the query. That is because of the order of execution. It looks like movies rated R are most common in our database.
+We can combine GROUP BY with ORDER BY **to** `group` our `results`, `make` **a** `calculation`, **and then** `order` our `results`. For example, we can clean up one of our previous queries by sorting the results by the title count in descending order. Here is that query without ORDER BY, and this is the same query with ordering added. `ORDER BY` **is** always **written** `after` `GROUP BY`, and notice that we **can** `refer` **back to** the `alias` **within** the `query`. That is `because` **of the** `order of execution`. It looks like movies rated R are most common in our database.
 
 ![Alt text](image-101.png)
+
 
 ## Order of execution
 
 GROUP BY fits into our order after FROM and before all other clauses. Our updated queries will begin with FROM, followed by grouping, selecting the data and creating the alias, sorting the results, and limiting them to the desired number.
+
+Written Order   |   Execution Order
+---             |   ---
+SELECT          |   `FROM`
+FROM            |   `GROUP BY`
+GROUP BY        |   `SELECT`
+ORDER BY        |   ORDER BY
+LIMIT           |   LIMIT
