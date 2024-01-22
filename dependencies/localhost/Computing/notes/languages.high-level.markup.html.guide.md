@@ -2,7 +2,7 @@
 id: x49bpv10g1x2foy65k0sd30
 title: Guide
 desc: ''
-updated: 1705420542787
+updated: 1705935751237
 created: 1702061585484
 ---
 
@@ -71,9 +71,9 @@ Certainly! Learning HTML involves understanding various topics that cover the st
    - ~~Clean and readable code.~~
    - ~~Accessibility considerations.~~
 
-### 15. **Additional Concepts:**
-   - Character entities.
-   - Comments in HTML.
+### 15. ~~**Additional Concepts:**~~
+   - ~~Character entities.~~
+   - ~~Comments in HTML.~~
 
 ### 16. **Project-Based Learning:**
    - Apply your knowledge by working on small projects.
