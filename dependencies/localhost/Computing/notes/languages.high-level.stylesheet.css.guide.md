@@ -2,15 +2,17 @@
 id: 3p6v4blaa75r0c5lnnqjdi2
 title: Guide
 desc: ''
-updated: 1705935994557
+updated: 1706047908879
 created: 1705935971569
 ---
 
+> I want to learn CSS, provide me with the topics.
+
 Certainly! Learning CSS (Cascading Style Sheets) is a great step towards becoming a web developer. Here's a structured list of topics you can cover to get a good understanding of CSS:
 
-**1. Introduction to CSS:**
-   - Understanding the role of CSS in web development.
-   - Basic syntax and structure of CSS rules.
+**1. ~~Introduction to CSS:**~~
+   - ~~Understanding the role of CSS in web development.~~
+   - ~~Basic syntax and structure of CSS rules.~~
 
 **2. Selectors:**
    - Types of selectors (element, class, ID, attribute, descendant, etc.).
