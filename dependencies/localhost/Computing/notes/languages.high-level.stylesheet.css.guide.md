@@ -2,7 +2,7 @@
 id: 3p6v4blaa75r0c5lnnqjdi2
 title: Guide
 desc: ''
-updated: 1706047908879
+updated: 1706293689750
 created: 1705935971569
 ---
 
@@ -14,9 +14,9 @@ Certainly! Learning CSS (Cascading Style Sheets) is a great step towards becomin
    - ~~Understanding the role of CSS in web development.~~
    - ~~Basic syntax and structure of CSS rules.~~
 
-**2. Selectors:**
-   - Types of selectors (element, class, ID, attribute, descendant, etc.).
-   - Specificity and how it affects style application.
+**2. ~~Selectors:**~~
+   - ~~Types of selectors (element, class, ID, attribute, descendant, etc.).~~
+   - ~~Specificity and how it affects style application.~~
 
 **3. Box Model:**
    - Understanding the concept of the box model (margin, border, padding, content).
