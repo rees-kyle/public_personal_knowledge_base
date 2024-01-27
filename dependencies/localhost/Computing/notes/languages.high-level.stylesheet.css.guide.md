@@ -2,7 +2,7 @@
 id: 3p6v4blaa75r0c5lnnqjdi2
 title: Guide
 desc: ''
-updated: 1706293689750
+updated: 1706386542260
 created: 1705935971569
 ---
 
@@ -22,9 +22,9 @@ Certainly! Learning CSS (Cascading Style Sheets) is a great step towards becomin
    - Understanding the concept of the box model (margin, border, padding, content).
    - Box-sizing property.
 
-**4. Layout:**
-   - Display property (block, inline, inline-block, flex, grid).
-   - Positioning (relative, absolute, fixed, static).
+**4. ~~Layout:~~**
+   - ~~Display property (block, inline, inline-block, flex, grid).~~
+   - ~~Positioning (relative, absolute, fixed, static).~~
    - Float and clear properties.
 
 **5. Typography:**
