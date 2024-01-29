@@ -2,7 +2,7 @@
 id: 3p6v4blaa75r0c5lnnqjdi2
 title: Guide
 desc: ''
-updated: 1706386542260
+updated: 1706386677944
 created: 1705935971569
 ---
 
@@ -18,9 +18,9 @@ Certainly! Learning CSS (Cascading Style Sheets) is a great step towards becomin
    - ~~Types of selectors (element, class, ID, attribute, descendant, etc.).~~
    - ~~Specificity and how it affects style application.~~
 
-**3. Box Model:**
-   - Understanding the concept of the box model (margin, border, padding, content).
-   - Box-sizing property.
+**3. ~~Box Model:**~~
+   - ~~Understanding the concept of the box model (margin, border, padding, content).~~
+   - ~~Box-sizing property.~~
 
 **4. ~~Layout:~~**
    - ~~Display property (block, inline, inline-block, flex, grid).~~
