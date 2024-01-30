@@ -2,11 +2,14 @@
 id: vavzj0kh4u28e5uyevog4be
 title: Analyze International Debt Statistics
 desc: ''
-updated: 1706574880291
+updated: 1706645733733
 created: 1706488376245
 ---
 
+Write SQL queries to answer interesting questions about international debt using data from The World Bank.
+
 >[notebook](<projects/Analyze International Debt Statistics/notebook.ipynb>)
+
 
 ## Project Description
 

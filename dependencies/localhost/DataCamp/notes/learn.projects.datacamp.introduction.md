@@ -2,11 +2,14 @@
 id: 5dzrp4gvntpssjvs7jtaurz
 title: Introduction to DataCamp Projects
 desc: ''
-updated: 1706488744751
+updated: 1706645791971
 created: 1706380296487
 ---
 
+If you've never done a DataCamp project, this is the place to start!
+
 >[notebook](<projects/Introduction to DataCamp Projects/notebook.ipynb>)
+
 
 ## Project Description
 
