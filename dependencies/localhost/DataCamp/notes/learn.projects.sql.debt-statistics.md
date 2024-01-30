@@ -1,10 +1,12 @@
 ---
 id: vavzj0kh4u28e5uyevog4be
-title: Debt Statistics
+title: Analyze International Debt Statistics
 desc: ''
-updated: 1706489198746
+updated: 1706574880291
 created: 1706488376245
 ---
+
+>[notebook](<projects/Analyze International Debt Statistics/notebook.ipynb>)
 
 ## Project Description
 
