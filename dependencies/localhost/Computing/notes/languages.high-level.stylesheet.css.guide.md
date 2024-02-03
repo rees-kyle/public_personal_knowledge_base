@@ -2,7 +2,7 @@
 id: 3p6v4blaa75r0c5lnnqjdi2
 title: Guide
 desc: ''
-updated: 1706386677944
+updated: 1706983102301
 created: 1705935971569
 ---
 
@@ -25,11 +25,11 @@ Certainly! Learning CSS (Cascading Style Sheets) is a great step towards becomin
 **4. ~~Layout:~~**
    - ~~Display property (block, inline, inline-block, flex, grid).~~
    - ~~Positioning (relative, absolute, fixed, static).~~
-   - Float and clear properties.
+   - ~~Float and clear properties.~~
 
-**5. Typography:**
-   - Font properties (family, size, weight, style).
-   - Text properties (alignment, decoration, transformation).
+**5. ~~Typography:**~~
+   - ~~Font properties (family, size, weight, style).~~
+   - ~~Text properties (alignment, decoration, transformation).~~
 
 **6. Colors and Backgrounds:**
    - Color properties (names, hex, rgb, rgba, hsl, hsla).
