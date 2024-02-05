@@ -2,7 +2,7 @@
 id: 3p6v4blaa75r0c5lnnqjdi2
 title: Guide
 desc: ''
-updated: 1706983102301
+updated: 1707165347473
 created: 1705935971569
 ---
 
@@ -31,13 +31,13 @@ Certainly! Learning CSS (Cascading Style Sheets) is a great step towards becomin
    - ~~Font properties (family, size, weight, style).~~
    - ~~Text properties (alignment, decoration, transformation).~~
 
-**6. Colors and Backgrounds:**
-   - Color properties (names, hex, rgb, rgba, hsl, hsla).
-   - Background properties (color, image, repeat, position).
+**6. ~~Colors and Backgrounds:**~~
+   - ~~Color properties (names, hex, rgb, rgba, hsl, hsla).~~
+   - ~~Background properties (color, image, repeat, position).~~
 
-**7. Flexbox:**
-   - Understanding the flexible box model for layout.
-   - Properties like flex-direction, justify-content, align-items, etc.
+**7. ~~Flexbox:**~~
+   - ~~Understanding the flexible box model for layout.~~
+   - ~~Properties like flex-direction, justify-content, align-items, etc.~~
 
 **8. Grid:**
    - Introduction to CSS Grid for more advanced layout.
