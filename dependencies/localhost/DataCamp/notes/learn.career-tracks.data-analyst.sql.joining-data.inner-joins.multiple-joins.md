@@ -2,20 +2,17 @@
 id: kglbrc1ox2r0cxswpovca1s
 title: 3 - Multiple Joins
 desc: ''
-updated: 1707159062926
+updated: 1707163860703
 created: 1707158445432
 ---
 
-We've seen a few inner joins and thought about the relationships tables can have to each other. Now it's time to level up our joins by building on these ideas.
-
-
 ## Joins on joins
 
-A powerful feature of SQL is that multiple joins can be combined and run in a single query. Let's have a look at some syntax for multiple joins. We begin with the same INNER JOIN as before, and then chain another INNER JOIN to the result of our first INNER JOIN. Notice that we use left_table-dot-id in the last line of this example. If we want to perform the second join using the id field of right_table rather than left_table, we can replace left_table-dot-id with right_table-dot-id in the final line.
+A powerful feature of SQL is that multiple joins can be `combined` **and** `run` **in a** `single` `query`. Let's have a look at some syntax for multiple joins. We begin with the same INNER JOIN as before, and then `chain` **another** `INNER JOIN` **to the** `result` **of our** `first` `INNER JOIN`. Notice that we use left_table.id in the last line of this example. If we want to perform the second join using the id field of right_table rather than left_table, we can replace **left_table.id** with **right_table.id** in the final line.
 
 ![alt text](image-122.png)
 
-Thinking back to our example of world leaders, let's say that we are interested in identifying countries of the world that have both a president and a prime minister, and want to know the year each prime minister came into office. Let's have a look at the prime_minister_terms table from our database of world leaders. It contains a prime_minister column with prime minister names as well as a pm_start column containing the start year of a prime minister's term.
+Thinking back to our example of world leaders, let's say that we are interested in **identifying countries**  of the world **that have both a president and a prime minister**, and want to know the **year each prime minister came into office**. Let's have a look at the **prime_minister_terms table** from our database of world leaders. It contains a prime_minister column with prime minister names as well as a **pm_start** column containing the **start year of a prime minister's term**.
 
 ![alt text](image-123.png)
 
