@@ -1,6 +1,10 @@
 {
     "folders": [
         {
+            "path": "dependencies/localhost/Video Editing/notes",
+            "name": "Video Editing"
+        },
+        {
             "path": "dependencies/localhost/Music/notes",
             "name": "Music"
         },
