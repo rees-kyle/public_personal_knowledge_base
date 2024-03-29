@@ -2,7 +2,7 @@
 id: 3p6v4blaa75r0c5lnnqjdi2
 title: Guide
 desc: ''
-updated: 1707165347473
+updated: 1711704911362
 created: 1705935971569
 ---
 
@@ -39,13 +39,13 @@ Certainly! Learning CSS (Cascading Style Sheets) is a great step towards becomin
    - ~~Understanding the flexible box model for layout.~~
    - ~~Properties like flex-direction, justify-content, align-items, etc.~~
 
-**8. Grid:**
-   - Introduction to CSS Grid for more advanced layout.
-   - Properties like grid-template-columns, grid-template-rows, grid-gap, etc.
+**8. ~~Grid:**~~
+   - ~~Introduction to CSS Grid for more advanced layout.~~
+   - ~~Properties like grid-template-columns, grid-template-rows, grid-gap, etc.~~
 
-**9. Transitions and Animations:**
-   - CSS transitions for smooth state changes.
-   - CSS animations for more complex motion effects.
+**9. ~~Transitions and Animations:~~**
+   - ~~CSS transitions for smooth state changes.~~
+   - ~~CSS animations for more complex motion effects.~~
 
 **10. Responsive Web Design:**
    - Media queries for creating responsive designs.
