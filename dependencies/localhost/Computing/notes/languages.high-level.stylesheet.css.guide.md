@@ -2,7 +2,7 @@
 id: 3p6v4blaa75r0c5lnnqjdi2
 title: Guide
 desc: ''
-updated: 1711797471073
+updated: 1712169580318
 created: 1705935971569
 ---
 
@@ -51,12 +51,12 @@ Certainly! Learning CSS (Cascading Style Sheets) is a great step towards becomin
    - ~~Media queries for creating responsive designs.~~
    - ~~Mobile-first vs Desktop-first approaches.~~
 
-**11. CSS Preprocessors:**
-   - Introduction to CSS preprocessors like Sass or Less.
-   - Variables, nesting, mixins, and other advanced features.
+**11. ~~CSS Preprocessors:~~**
+   - ~~Introduction to CSS preprocessors like Sass or Less.~~
+   - ~~Variables, nesting, mixins, and other advanced features.~~
 
-**12. CSS Frameworks:**
-   - Understanding and using CSS frameworks like Bootstrap or Foundation.
+**12. ~~CSS Frameworks:~~**
+   - ~~Understanding and using CSS frameworks like Bootstrap or Foundation.~~
 
 **13. CSS Best Practices:**
    - Writing clean and maintainable CSS code.
