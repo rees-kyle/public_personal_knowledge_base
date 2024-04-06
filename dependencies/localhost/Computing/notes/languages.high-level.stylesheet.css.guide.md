@@ -2,7 +2,7 @@
 id: 3p6v4blaa75r0c5lnnqjdi2
 title: Guide
 desc: ''
-updated: 1712169580318
+updated: 1712408429212
 created: 1705935971569
 ---
 
@@ -58,9 +58,9 @@ Certainly! Learning CSS (Cascading Style Sheets) is a great step towards becomin
 **12. ~~CSS Frameworks:~~**
    - ~~Understanding and using CSS frameworks like Bootstrap or Foundation.~~
 
-**13. CSS Best Practices:**
-   - Writing clean and maintainable CSS code.
-   - Performance considerations.
+**13. ~~CSS Best Practices:~~**
+   - ~~Writing clean and maintainable CSS code.~~
+   - ~~Performance considerations~~.
 
 **14. Browser Developer Tools:**
    - Using browser developer tools for debugging and testing CSS.
