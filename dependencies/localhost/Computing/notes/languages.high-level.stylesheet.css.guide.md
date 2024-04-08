@@ -2,7 +2,7 @@
 id: 3p6v4blaa75r0c5lnnqjdi2
 title: Guide
 desc: ''
-updated: 1712408429212
+updated: 1712581278175
 created: 1705935971569
 ---
 
@@ -62,8 +62,8 @@ Certainly! Learning CSS (Cascading Style Sheets) is a great step towards becomin
    - ~~Writing clean and maintainable CSS code.~~
    - ~~Performance considerations~~.
 
-**14. Browser Developer Tools:**
-   - Using browser developer tools for debugging and testing CSS.
+**14. ~~Browser Developer Tools:~~**
+   - ~~Using browser developer tools for debugging and testing CSS.~~
 
 **15. CSS3 Features:**
    - Introduction to more recent features like custom properties (variables), gradients, filters, etc.
