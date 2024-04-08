@@ -1,8 +1,8 @@
 ---
 id: ct78k4f8dbz8ehw0crq7szk
-title: Browser Developer Tools
+title: 014 - Browser Developer Tools
 desc: ''
-updated: 1712581207814
+updated: 1712581548023
 created: 1712577924595
 ---
 
