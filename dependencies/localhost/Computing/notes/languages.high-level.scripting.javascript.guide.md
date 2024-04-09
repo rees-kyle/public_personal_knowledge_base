@@ -2,7 +2,7 @@
 id: 8msiheiwgf675duu6g5ut3q
 title: Guide
 desc: ''
-updated: 1712680028857
+updated: 1712694717669
 created: 1712605278317
 ---
 
@@ -12,7 +12,7 @@ Learning JavaScript is a great idea! Here's a list of topics you can explore:
 
 - **Basics:**
    - ~~Variables~~
-   - Data types (Strings, Numbers, Booleans, Arrays, Objects)
+   - ~~Data types (Strings, Numbers, Booleans, Arrays, Objects)~~
    - Operators
    - Control flow (if statements, loops)
 
