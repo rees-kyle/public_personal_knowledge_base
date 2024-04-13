@@ -2,7 +2,7 @@
 id: 8msiheiwgf675duu6g5ut3q
 title: Guide
 desc: ''
-updated: 1712867560927
+updated: 1713018184910
 created: 1712605278317
 ---
 
@@ -10,14 +10,14 @@ Learning JavaScript is a great idea! Here's a list of topics you can explore:
 
 - ~~**Introduction**~~
 
-- **Basics:**
+- ~~**Basics:**~~
    - ~~Variables~~
    - ~~Data types (Strings, Numbers, Booleans, Arrays, Objects)~~
    - ~~Operators~~
    - ~~Control flow (if statements, loops)~~
 
 - **Functions:**
-   - Function declaration vs. expression
+   - ~~Function declaration vs. expression~~
    - Parameters and arguments
    - Return statements
    - Arrow functions
