@@ -2,7 +2,7 @@
 id: 8msiheiwgf675duu6g5ut3q
 title: Guide
 desc: ''
-updated: 1713312195342
+updated: 1713564742948
 created: 1712605278317
 ---
 
@@ -30,8 +30,8 @@ Learning JavaScript is a great idea! Here's a list of topics you can explore:
 - ~~**DOM Manipulation:**~~
    - ~~Accessing and modifying HTML elements~~
    - ~~Event handling~~
-   - Manipulating CSS styles
-   - Creating and removing elements
+   - ~~Manipulating CSS styles~~
+   - ~~Creating and removing elements~~
 
 - **Asynchronous JavaScript:**
    - Callback functions
