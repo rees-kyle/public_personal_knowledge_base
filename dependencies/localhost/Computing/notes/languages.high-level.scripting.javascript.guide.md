@@ -2,7 +2,7 @@
 id: 8msiheiwgf675duu6g5ut3q
 title: Guide
 desc: ''
-updated: 1713564742948
+updated: 1713657546422
 created: 1712605278317
 ---
 
@@ -34,7 +34,7 @@ Learning JavaScript is a great idea! Here's a list of topics you can explore:
    - ~~Creating and removing elements~~
 
 - **Asynchronous JavaScript:**
-   - Callback functions
+   - ~~Callback functions~~
    - Promises
    - Async/Await
 
