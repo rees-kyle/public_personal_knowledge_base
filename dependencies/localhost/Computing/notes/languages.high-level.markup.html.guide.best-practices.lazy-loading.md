@@ -2,7 +2,7 @@
 id: q47h2or0emoi0k9h7q2zib8
 title: 2 - Lazy Loading
 desc: ''
-updated: 1705421265204
+updated: 1713808643929
 created: 1705251838276
 ---
 
@@ -57,34 +57,45 @@ While the `loading="lazy"` attribute is widely supported, it's `not supported` *
 
 <!-- JavaScript to implement lazy loading -->
 <script>
+  // Add an event listener to run the code after the entire DOM has been fully loaded
   document.addEventListener("DOMContentLoaded", function() {
-    // Select all elements with the 'lazy' class
+    // Select all elements with the 'lazy' class and convert NodeList to an Array
     var lazyImages = [].slice.call(document.querySelectorAll(".lazy"));
 
+    // Check if browser supports IntersectionObserver
     if ("IntersectionObserver" in window) {
-      // If the browser supports IntersectionObserver
+      // Create a new IntersectionObserver instance
       var lazyObserver = new IntersectionObserver(function(entries, observer) {
+        // Iterate over each entry (each observed element)
         entries.forEach(function(entry) {
+          // Check if the element is intersecting with the viewport
           if (entry.isIntersecting) {
-            // When image enters the viewport, load the image
+            // Get the element that is intersecting
             var lazyImage = entry.target;
-            lazyImage.src = lazyImage.dataset.src; // Set the 'src' attribute to 'data-src'
-            lazyImage.classList.remove("lazy"); // Remove the 'lazy' class
-            lazyObserver.unobserve(lazyImage); // Stop observing this image
+            // Set the 'src' attribute to 'data-src' to start loading the image
+            lazyImage.src = lazyImage.dataset.src;
+            // Remove the 'lazy' class since the image is now loading/loaded
+            lazyImage.classList.remove("lazy");
+            // Stop observing the image as it is no longer needed to be tracked
+            lazyObserver.unobserve(lazyImage);
           }
         });
       });
 
-      // Observe each lazy-loaded image
+      // Iterate over each lazy-loaded image in the array
       lazyImages.forEach(function(lazyImage) {
-        lazyObserver.observe(lazyImage);
+        // Call the 'observe' method of the IntersectionObserver instance
+        lazyObserver.observe(lazyImage); // This method starts watching the specified element (lazyImage) for entering or leaving the viewport
       });
-    } else {
+
       // Fallback for browsers that do not support IntersectionObserver
-      // Load all images immediately
+    } else {
+      // Iterate over each image marked with the 'lazy' class
       lazyImages.forEach(function(lazyImage) {
-        lazyImage.src = lazyImage.dataset.src; // Set the 'src' attribute to 'data-src'
-        lazyImage.classList.remove("lazy"); // Remove the 'lazy' class
+        // Set the 'src' attribute of each lazy image to the URL stored in 'data-src'
+        lazyImage.src = lazyImage.dataset.src; // This causes the image to load immediately without waiting for it to enter the viewport
+        // Remove the 'lazy' class from the image, indicating that it no longer needs lazy loading
+        lazyImage.classList.remove("lazy");
       });
     }
   });

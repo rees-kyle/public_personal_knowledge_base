@@ -2,7 +2,7 @@
 id: 8msiheiwgf675duu6g5ut3q
 title: Guide
 desc: ''
-updated: 1713806477374
+updated: 1713808683767
 created: 1712605278317
 ---
 
@@ -39,8 +39,6 @@ Learning JavaScript is a great idea! Here's a list of topics you can explore:
    - ~~Async/Await~~
 
 - **ES6+ Features:**
-   - let and const
-   - Arrow functions
    - Template literals
    - Destructuring
    - Spread and Rest operators
@@ -81,12 +79,6 @@ Learning JavaScript is a great idea! Here's a list of topics you can explore:
 - **Performance Optimization:**
     - Minification
     - Code splitting
-    - Lazy loading
-
-- **Responsive Web Design:**
-    - Media queries
-    - Flexbox
-    - CSS Grid
 
 - **Server-side JavaScript:**
     - Node.js
