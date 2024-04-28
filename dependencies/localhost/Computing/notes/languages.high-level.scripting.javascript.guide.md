@@ -2,7 +2,7 @@
 id: 8msiheiwgf675duu6g5ut3q
 title: Guide
 desc: ''
-updated: 1714193393472
+updated: 1714281383676
 created: 1712605278317
 ---
 
@@ -46,7 +46,7 @@ Learning JavaScript is a great idea! Here's a list of topics you can explore:
    - ~~Modules~~
 
 - **Error Handling:**
-   - try...catch statements
+   - ~~try...catch statements~~
    - Error objects
    - Handling asynchronous errors
 
