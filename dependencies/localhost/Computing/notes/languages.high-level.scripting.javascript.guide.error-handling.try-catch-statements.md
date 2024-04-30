@@ -1,8 +1,8 @@
 ---
 id: vavso9lyvb7q1y9qxk15qmg
-title: 1 - 'try...catch' Statements
+title: 2 - 'try...catch' Statements
 desc: ''
-updated: 1714349533277
+updated: 1714422739642
 created: 1714193899701
 ---
 

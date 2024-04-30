@@ -1,8 +1,8 @@
 ---
 id: vhdwyz9e3ogs9isgkmxi7ht
-title: 2 - Error Objects
+title: 1 - Error Objects
 desc: ''
-updated: 1714361742016
+updated: 1714422745690
 created: 1714349507260
 ---
 

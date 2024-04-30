@@ -2,7 +2,7 @@
 id: 8msiheiwgf675duu6g5ut3q
 title: Guide
 desc: ''
-updated: 1714361797056
+updated: 1714438863598
 created: 1712605278317
 ---
 
@@ -45,13 +45,13 @@ Learning JavaScript is a great idea! Here's a list of topics you can explore:
    - ~~Classes~~
    - ~~Modules~~
 
-- **Error Handling:**
+- ~~**Error Handling:**~~
    - ~~try...catch statements~~
    - ~~Error objects~~
-   - Handling asynchronous errors
+   - ~~Handling asynchronous errors~~
 
 - **Browser APIs:**
-   - Local Storage
+   - ~~Local Storage~~
    - Fetch API
    - Geolocation API
    - Canvas API
