@@ -2,7 +2,7 @@
 id: guqy244ys9u4uofcdqlst34
 title: Weight Loss
 desc: ''
-updated: 1712924596368
+updated: 1714608797311
 created: 1700742841617
 ---
 
@@ -60,7 +60,7 @@ I will measure my progress using the metric of weight in stone.
 
 
 3. **Achievable:** `How can the goal be accomplished?`
-> The goal is realistic and achievable, balancing both dietary changes and physical activity to ensure a sustainable approach to weight loss. I will dedicate time for 10,000 steps a day and track my calories, ensuring i do not exceed 1500 calories per day. (updated 12/04/24) If I can't get out the house due to insomnia i will do cardio workouts on youtube.
+> The goal is realistic and achievable, balancing both dietary changes and physical activity to ensure a sustainable approach to weight loss. I will dedicate time for 10,000 steps a day and track my calories, ensuring i do not exceed 1500 calories per day. ~~(updated 12/04/24) If I can't get out the house due to insomnia i will do cardio workouts on youtube.~~ (updated 02/05/24) I now own a FITT Cube, it is great for taking 10,000 steps per day even with insomnia.
 
 4. **Relevant:** `Does this seem worthwhile?`
 > Weight loss is aligned with overall health improvement, including cardiovascular health, blood sugar control, joint health, and enhanced mental well-being.
@@ -99,6 +99,6 @@ Taken 24/11/2023
 - In the furutre compensate days for recovery and illness. 
 - Get flu vaccination in September each year.
 - Fix insomnia problem.
-- When awake at unsociable hours and can't walk outside, do apartment friendly low impact cardio workouts at home.
+- When awake at unsociable hours and can't walk outside, ~~do apartment friendly low impact cardio workouts at home.~~ use the FITT Cube.
 - Don't soley rely on the BMI measurements as it doesn't distinguish between muscle and fat.
 - Continue noticing visual changes and improvements. Once some muscles are defined and are to the desired standard, look for other muscles that need improving and then work on those.
