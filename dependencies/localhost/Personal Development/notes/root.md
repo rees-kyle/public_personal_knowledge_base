@@ -2,7 +2,7 @@
 id: zcr4r2xbgyrp04ppzjsqebn
 title: Personal Development
 desc: ''
-updated: 1694014556411
+updated: 1714634563770
 created: 1694013184275
 ---
 
@@ -14,9 +14,9 @@ Key areas to focus on for personal development:
 
 - Self-reflection and self-awareness: Take time to understand yourself, your strengths, weaknesses, values, and beliefs. Reflect on your thoughts, emotions, and behaviors to gain insight into your patterns and areas for growth.
 
-- Goal setting: Set clear, specific, and achievable goals that align with your values and aspirations. Break them down into smaller, actionable steps to track your progress and stay motivated. A [[dendron://Backlog/root]] can be used.
+- Goal setting: Set clear, specific, and achievable goals that align with your values and aspirations. Break them down into smaller, actionable steps to track your progress and stay motivated. A backlog can be used.
 
-- Continuous learning: Engage in lifelong learning by reading books, attending seminars, taking courses, or acquiring new skills. Stay curious and open-minded to expand your knowledge and broaden your perspectives. Here are some [[examples|continuous-learning.examples]] and [[techniques|Techniques]] for studying.
+- Continuous learning: Engage in lifelong learning by reading books, attending seminars, taking courses, or acquiring new skills. Stay curious and open-minded to expand your knowledge and broaden your perspectives.
 
 - Time management: Learn to prioritize tasks, set boundaries, and manage your time effectively. Identify and eliminate time-wasting activities to create more space for activities that contribute to your personal growth.
 

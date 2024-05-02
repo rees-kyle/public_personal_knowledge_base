@@ -1,6 +1,10 @@
 {
     "folders": [
         {
+            "path": "dependencies/localhost/ChatGPT/notes",
+            "name": "ChatGPT"
+        },
+        {
             "path": "dependencies/localhost/Video Editing/notes",
             "name": "Video Editing"
         },
