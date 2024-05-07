@@ -59,10 +59,6 @@ workspace:
             selfContained: true
             name: Scratch
         -
-            fsPath: dependencies/localhost/Projects
-            selfContained: true
-            name: Projects
-        -
             fsPath: dependencies/localhost/Personal Development
             selfContained: true
             name: Personal Development
@@ -185,7 +181,6 @@ publishing:
             - Study
             - Exams
             - Personal Development
-            - Projects
             - Scratch
             - Standards
             - Employment

@@ -37,10 +37,6 @@
             "name": "Scratch"
         },
         {
-            "path": "dependencies/localhost/Projects/notes",
-            "name": "Projects"
-        },
-        {
             "path": "dependencies/localhost/Personal Development/notes",
             "name": "Personal Development"
         },
