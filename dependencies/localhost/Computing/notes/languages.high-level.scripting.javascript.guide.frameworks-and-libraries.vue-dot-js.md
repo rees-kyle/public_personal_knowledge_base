@@ -2,11 +2,11 @@
 id: 1n6ewgy75tjo815sugl5jc7
 title: 2 - Vue.js
 desc: ''
-updated: 1714970353342
+updated: 1715052573018
 created: 1714880673898
 ---
 
-A popular JavaScript framework used `for building` `user interfaces`. Vue is designed to be incrementally adoptable, which means **you can** `scale between` **a** `library and` **a full-featured** `framework` depending on your project's needs. Below, I'll provide an overview of Vue.js, including its core features and some aspects of its ecosystem.
+A popular JavaScript `framework` used `for building` `user interfaces`. Vue is designed to be incrementally adoptable, which means **you can** `scale between` **a** `library and` **a full-featured** `framework` depending on your project's needs. Below, I'll provide an overview of Vue.js, including its core features and some aspects of its ecosystem.
 
 ### Core Features of Vue.js
 
