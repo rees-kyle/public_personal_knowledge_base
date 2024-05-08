@@ -17,7 +17,7 @@ A particular area I am interested in is computing.
 
 ## Dendron
 
-Dendron is a note-taking extension for Visual Studio Code, designed to help users organize large collections of notes efficiently. Here’s a brief overview of its features and how to get started:
+Dendron is a note-taking extension for Visual Studio Code, designed to help users organize large collections of notes efficiently. Here’s a brief overview of its features:
 
 ### Key Features:
 - **Note Graph**: Provides a visual representation of the connections between your notes, making it easier to navigate and understand the relationships within your knowledge base.
