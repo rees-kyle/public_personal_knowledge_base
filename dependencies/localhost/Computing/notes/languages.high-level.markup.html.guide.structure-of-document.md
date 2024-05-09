@@ -2,7 +2,7 @@
 id: j2m8o7jqco8b2x6pgcfzpqc
 title: 003 - Structure of Document
 desc: ''
-updated: 1704991695891
+updated: 1715172014165
 created: 1702320621409
 ---
 
@@ -17,7 +17,8 @@ An HTML `document follows` a `specific structure to define` the `content` and `l
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your Page Title</title>
-    <!-- Additional head elements (stylesheets, scripts, etc.) go here -->
+    
+    <!-- Additional head elements for stylesheets go here -->
 </head>
 <body>
     <!-- Your page content goes here -->

@@ -2,7 +2,7 @@
 id: 5yp3z8d2a3tenkacn5wjkam
 title: 005 - Links and Navigation
 desc: ''
-updated: 1704991707009
+updated: 1715275726610
 created: 1702573388016
 ---
 
@@ -82,7 +82,7 @@ To create a link that `opens` the `user's email client` to send an email, use th
 You can `create` a navigation `menu using lists and` styling them with `CSS`:
 
 ```html
-<!-- In body section. -->
+<!-- In body; header section. -->
 <ul>
   <li><a href="home.html">Home</a></li>
   <li><a href="about.html">About Us</a></li>
