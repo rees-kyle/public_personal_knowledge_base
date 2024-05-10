@@ -2,7 +2,7 @@
 id: hc44oh17wpn9wftdv856e9x
 title: 5 - Modules
 desc: ''
-updated: 1714193122568
+updated: 1715326723701
 created: 1714159759852
 ---
 
@@ -143,7 +143,7 @@ import { name as ModuleName } from './module.js'; // Imports the named export 'n
    <summary>Definition: utility functions (in programming)</summary>
 
 #
-Utility functions **are** `reusable` `pieces of` `code` **designed to** `perform` `common`, **often** `repeated` `tasks` **in programming**. **They simplify code management by handling specific operations that can be used across different parts of an application**.
+Utility functions **are** `reusable` `pieces of` `code` **designed** `to perform` `common`, **often** `repeated` `tasks` **in programming**. **They simplify code management by handling specific operations that can be used across different parts of an application**.
 
 ---
 </details>

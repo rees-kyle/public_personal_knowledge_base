@@ -2,7 +2,7 @@
 id: 8msiheiwgf675duu6g5ut3q
 title: Guide
 desc: ''
-updated: 1715065040843
+updated: 1715329347072
 created: 1712605278317
 ---
 
@@ -56,11 +56,11 @@ Learning JavaScript is a great idea! Here's a list of topics you can explore:
    - ~~Geolocation API~~
    - ~~Canvas API~~
 
-- ~~**Frameworks and Libraries:**
+- ~~**Frameworks and Libraries:**~~
    - ~~React.js~~
    - ~~Vue.js~~
    - ~~Angular~~
-   - jQuery
+   - ~~jQuery~~
 
 - **Testing:**
    - Unit testing with Jest, Mocha, or Jasmine
