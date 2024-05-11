@@ -2,13 +2,13 @@
 id: i5vz40tffb5qyhlw3s11q9w
 title: 007 - ES6+ Features
 desc: ''
-updated: 1714151301051
+updated: 1715416280939
 created: 1713833882177
 ---
 
 JavaScript (JS) has evolved significantly since its inception, with `ECMAScript 6` (ES6), **officially known as** `ECMAScript 2015`, **introducing a wealth of** `features` **that made JavaScript more** `powerful` **and** `easier` `to use` **in** `scalable applications`.
 
-> ECMA - European Computer Manufacturers Association
+> ECMA: European Computer Manufacturers Association
 
 <!-- start of 'inception' section -->
 <details>

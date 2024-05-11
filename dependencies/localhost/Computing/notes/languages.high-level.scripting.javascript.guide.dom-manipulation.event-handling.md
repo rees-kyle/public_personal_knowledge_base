@@ -2,7 +2,7 @@
 id: 62pj3cd31w4r2jidgryuqe7
 title: 2 - Event Handling
 desc: ''
-updated: 1713312840435
+updated: 1715416287067
 created: 1713297485810
 ---
 
@@ -42,7 +42,7 @@ Occurrences are simply **when** `something` `happens` **or** `exists`.
 
 3. **Specify the event**: When adding an event listener, you need to specify the type of event you want to listen for, **such as** `click`, `mouseover`, `keydown`, **etc**. You can find a `list of` all possible `events` `in` the [MDN Web Docs](https://developer.mozilla.org/en-US/).
 
-> MDN - Mozilla Developer Network
+> MDN: Mozilla Developer Network
 
 4. **Define the event handler function**: The event handler function **is the** `JavaScript code` **that will be** `executed` when the specified event occurs on the element. This function can perform any actions you want in response to the event, **such as** `changing` **the** `element's` `style`, `updating` **its** `content`, `making` **an** `HTTP request`, **etc**.
 
