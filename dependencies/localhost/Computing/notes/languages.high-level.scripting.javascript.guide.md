@@ -2,7 +2,7 @@
 id: 8msiheiwgf675duu6g5ut3q
 title: Guide
 desc: ''
-updated: 1715329347072
+updated: 1715511170353
 created: 1712605278317
 ---
 
@@ -63,8 +63,8 @@ Learning JavaScript is a great idea! Here's a list of topics you can explore:
    - ~~jQuery~~
 
 - **Testing:**
-   - Unit testing with Jest, Mocha, or Jasmine
-   - End-to-end testing with Selenium or Puppeteer
+   - ~~Unit testing with Jest, Mocha, or Jasmine~~
+   - ~~End-to-end testing with Selenium or Puppeteer~~
 
 - **Build Tools:**
     - Webpack
