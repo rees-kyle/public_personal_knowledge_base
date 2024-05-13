@@ -2,7 +2,7 @@
 id: c3xzn2x1eu45ydiyxl4i0xq
 title: 011 - Multimedia
 desc: ''
-updated: 1704991758590
+updated: 1715515158981
 created: 1704989853791
 ---
 
@@ -28,6 +28,8 @@ For embedding audio files, you can use the `<audio>` **tag**.
 ```html
 <audio controls>
     <source src="audio.mp3" type="audio/mp3">
+
+    <!-- Displayed if the browser doesn't support the audio element -->
     Your browser does not support the audio element.
 </audio>
 ```

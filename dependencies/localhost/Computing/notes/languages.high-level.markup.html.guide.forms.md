@@ -2,7 +2,7 @@
 id: blkhx8whe69jkjagn4bg3qe
 title: 007 - Forms
 desc: ''
-updated: 1704991722956
+updated: 1715526229112
 created: 1703366291296
 ---
 
@@ -30,11 +30,15 @@ Forms are used to `collect user input`, such as `text`, `selections`, **and** `b
         <input type="password" id="password" name="password" required>
 
         <!-- Radio Buttons -->
-        <p>Gender:</p>
-        <label for="male">Male</label>
-        <input type="radio" id="male" name="gender" value="male">
-        <label for="female">Female</label>
-        <input type="radio" id="female" name="gender" value="female">
+        <p>Preferred mode of transportation:</p>
+        <label for="car">Car</label>
+        <input type="radio" id="car" name="transportation" value="car">
+        <label for="bike">Bike</label>
+        <input type="radio" id="bike" name="transportation" value="bike">
+        <label for="bus">Bus</label>
+        <input type="radio" id="bus" name="transportation" value="bus">
+        <label for="walk">Walk</label>
+        <input type="radio" id="walk" name="transportation" value="walk">
 
         <!-- Checkbox -->
         <p>Hobbies:</p>
