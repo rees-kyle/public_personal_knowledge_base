@@ -2,7 +2,7 @@
 id: 8msiheiwgf675duu6g5ut3q
 title: Guide
 desc: ''
-updated: 1715592951451
+updated: 1715873657653
 created: 1712605278317
 ---
 
@@ -62,14 +62,14 @@ Learning JavaScript is a great idea! Here's a list of topics you can explore:
    - ~~Angular~~
    - ~~jQuery~~
 
-- **Testing:**
+- ~~**Testing:**~~
    - ~~Unit testing with Jest, Mocha, or Jasmine~~
    - ~~End-to-end testing with Selenium or Puppeteer~~
 
-- **Build Tools:**
+- ~~**Build Tools:**~~
     - ~~Webpack~~
-    - ~~Babel
-    - ~~npm or Yarn
+    - ~~Babel~~
+    - ~~npm or Yarn~~
 
 - **Security:**
     - Cross-Site Scripting (XSS) prevention
