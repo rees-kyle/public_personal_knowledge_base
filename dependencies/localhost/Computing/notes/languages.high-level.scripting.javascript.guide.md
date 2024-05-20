@@ -2,7 +2,7 @@
 id: 8msiheiwgf675duu6g5ut3q
 title: Guide
 desc: ''
-updated: 1716126464754
+updated: 1716213260432
 created: 1712605278317
 ---
 
@@ -74,7 +74,7 @@ Learning JavaScript is a great idea! Here's a list of topics you can explore:
 - **Security:**
     - ~~Cross-Site Scripting (XSS) prevention~~
     - ~~Cross-Origin Resource Sharing (CORS)~~
-    - Content Security Policy (CSP)
+    - ~~Content Security Policy (CSP)~~
 
 - **Performance Optimization:**
     - Minification
