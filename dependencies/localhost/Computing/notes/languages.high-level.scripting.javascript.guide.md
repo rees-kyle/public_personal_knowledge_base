@@ -2,7 +2,7 @@
 id: 8msiheiwgf675duu6g5ut3q
 title: Guide
 desc: ''
-updated: 1716213260432
+updated: 1716476320568
 created: 1712605278317
 ---
 
@@ -71,14 +71,14 @@ Learning JavaScript is a great idea! Here's a list of topics you can explore:
     - ~~Babel~~
     - ~~npm or Yarn~~
 
-- **Security:**
+- ~~**Security:**~~
     - ~~Cross-Site Scripting (XSS) prevention~~
     - ~~Cross-Origin Resource Sharing (CORS)~~
     - ~~Content Security Policy (CSP)~~
 
-- **Performance Optimization:**
-    - Minification
-    - Code splitting
+- ~~**Performance Optimization:**~~
+    - ~~Minification~~
+    - ~~Code splitting~~
 
 - **Server-side JavaScript:**
     - Node.js
