@@ -1,8 +1,8 @@
 ---
 id: 2sblilq47wwzee2aw36dwg0
-title: Code Splitting
+title: 2 - Code Splitting
 desc: ''
-updated: 1716473222887
+updated: 1716566649383
 created: 1716384387679
 ---
 

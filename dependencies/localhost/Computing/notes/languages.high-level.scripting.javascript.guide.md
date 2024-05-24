@@ -2,7 +2,7 @@
 id: 8msiheiwgf675duu6g5ut3q
 title: Guide
 desc: ''
-updated: 1716476320568
+updated: 1716566692024
 created: 1712605278317
 ---
 
@@ -80,8 +80,8 @@ Learning JavaScript is a great idea! Here's a list of topics you can explore:
     - ~~Minification~~
     - ~~Code splitting~~
 
-- **Server-side JavaScript:**
-    - Node.js
+- ~~**Server-side JavaScript:**
+    - ~~Node.js~~
     - Express.js
     - RESTful APIs
 
