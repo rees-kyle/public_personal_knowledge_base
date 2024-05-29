@@ -43,10 +43,6 @@ workspace:
             selfContained: true
             name: DataCamp
         -
-            fsPath: dependencies/localhost/Philosophy
-            selfContained: true
-            name: Philosophy
-        -
             fsPath: dependencies/localhost/Employment
             selfContained: true
             name: Employment
@@ -184,7 +180,6 @@ publishing:
             - Scratch
             - Standards
             - Employment
-            - Philosophy
             - DataCamp
             - SMART Goals
             - Music

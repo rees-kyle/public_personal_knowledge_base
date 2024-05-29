@@ -2,7 +2,7 @@
 id: uqme14fxoini91xywo8kp4j
 title: 015 - CSS3 Features
 desc: ''
-updated: 1712593656128
+updated: 1716941797122
 created: 1712581595856
 ---
 
@@ -88,7 +88,7 @@ The `unique` `traits` **or** `qualities` **that** `something` `possesses`.
    ```
 
 - **Gradients**: CSS3 introduced the ability **to** `create` `smooth transitions` `between` `two` **or** `more` `specified colors`. Gradients **can be** `linear` **or** `radial` **and can** `add depth` **and** `visual interest` **to** `backgrounds` **and** `elements`.
-*
+
    ```css
    .gradient {
      background: linear-gradient(to right, #ff7e5f, #feb47b);

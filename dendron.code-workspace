@@ -21,10 +21,6 @@
             "name": "DataCamp"
         },
         {
-            "path": "dependencies/localhost/Philosophy/notes",
-            "name": "Philosophy"
-        },
-        {
             "path": "dependencies/localhost/Employment/notes",
             "name": "Employment"
         },
