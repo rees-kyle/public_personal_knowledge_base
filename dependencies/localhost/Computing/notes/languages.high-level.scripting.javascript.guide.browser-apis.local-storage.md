@@ -2,7 +2,7 @@
 id: m3k2sz6l6p8zwvgsi2w4qz5
 title: 1 - Local Storage
 desc: ''
-updated: 1714438990879
+updated: 1717091612827
 created: 1714433489398
 ---
 
@@ -12,22 +12,42 @@ The Local Storage API is a `part of` the `Web Storage API`, which `enables` `web
 
 
 
-<!-- -->
-Definition: domain (in computing)
+<!-- start of 'domain' section -->
+<details>
+    <summary>Definition: domain (in computing)</summary>
+
+#
 **In computing**, **a domain can refer to a** `specific area of` `control or` `ownership on` **the** `internet`, `identified by` **a** `unique` `domain name`, such as "**example.com**". This name `serves as` **an** `address` **where the domain's associated website can be accessed**.
-<!-- -->
+
+---
+</details>
+<!-- end of 'domain' section -->
 
 
 
-<!-- -->
+<!-- start of 'key-value' section -->
+<details>
+    <summary>Definition: key-value</summary>
+
+#
 Key-value **refers to a** `method of` `storing` **and** `organizing` `data` **where** `each item` (`value`) **is** `associated with` **a** `unique identifier` (`key`). **This allows for efficient retrieval of data by using the key**.
-<!-- -->
+
+---
+</details>
+<!-- end of 'key-value' section -->
 
 
 
-<!-- -->
+<!-- start of 'mechanism' section -->
+<details>
+    <summary>Definition: mechanism</summary>
+
+#
 A mechanism **is a** `system of` `parts` `working together in` **a** `machine to` `perform` **a specific** `function`. It **usually involves moving components that transfer or transform motion or force to achieve a desired outcome**.
-<!-- -->
+
+---
+</details>
+<!-- end of 'mechanism' section -->
 
 
 
@@ -36,9 +56,16 @@ A mechanism **is a** `system of` `parts` `working together in` **a** `machine to
 
 
 
-<!-- -->
+<!-- start of 'persistence' section -->
+<details>
+    <summary>Definition: persistence</summary>
+
+#
 Persistence **refers to the** `ability of` `data to` `remain available` `and unchanged` `over time`, `even after` **the** `program` **that created it** `has ended or` **the** `device` **that holds it has been** `powered off`.
-<!-- -->
+
+---
+</details>
+<!-- end of 'persistence' section -->
 
 
 
