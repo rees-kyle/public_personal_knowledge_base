@@ -1,8 +1,8 @@
 ---
 id: nn2n1dyjwzuh05esbg8bt42
-title: 1 - Cross-Site Scripting (XSS) prevention
+title: 1 - Cross-Site Scripting (XSS) Prevention
 desc: ''
-updated: 1716041328251
+updated: 1717190923233
 created: 1715962373761
 ---
 
