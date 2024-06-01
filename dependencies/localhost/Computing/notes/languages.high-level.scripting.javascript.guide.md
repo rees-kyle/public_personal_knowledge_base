@@ -2,7 +2,7 @@
 id: 8msiheiwgf675duu6g5ut3q
 title: Guide
 desc: ''
-updated: 1717078858409
+updated: 1717255872593
 created: 1712605278317
 ---
 
@@ -85,10 +85,10 @@ Learning JavaScript is a great idea! Here's a list of topics you can explore:
     - ~~Express.js~~
     - ~~RESTful APIs~~
 
-- ~~**Database Integration:**
+- ~~**Database Integration:**~~
     - ~~MongoDB~~
     - ~~MySQL~~
-    - PostgreSQL
+    - ~~PostgreSQL~~
 
 - **Authentication and Authorization:**
     - JSON Web Tokens (JWT)
