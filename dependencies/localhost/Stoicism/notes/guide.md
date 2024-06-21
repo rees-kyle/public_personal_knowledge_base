@@ -2,15 +2,15 @@
 id: tc03i50msmf1z3xge5z4cha
 title: Guide
 desc: ''
-updated: 1716945678572
+updated: 1718948243827
 created: 1716944933263
 ---
 
 Learning Stoicism involves understanding its core principles, practices, and the historical context in which it developed. Here are the key topics you should explore:
 
-### 1. ~~**Introduction to Stoicism**
-   - ~~**Origins and History**: Learn about the founding of Stoicism by Zeno of Citium in Athens around 300 BCE, and its development through prominent philosophers such as Cleanthes, Chrysippus, Seneca, Epictetus, and Marcus Aurelius.
-   - **Basic Concepts**: Understand the fundamental concepts of Stoicism, including the dichotomy of control, the importance of rationality, and the concept of living in accordance with nature.
+### 1. ~~**Introduction to Stoicism**~~
+   - ~~**Origins and History**: Learn about the founding of Stoicism by Zeno of Citium in Athens around 300 BCE, and its development through prominent philosophers such as Cleanthes, Chrysippus, Seneca, Epictetus, and Marcus Aurelius.~~
+   - ~~**Basic Concepts**: Understand the fundamental concepts of Stoicism, including the dichotomy of control, the importance of rationality, and the concept of living in accordance with nature.~~
 
 ### 2. **Core Principles of Stoicism**
    - **Virtue as the Highest Good**: Explore the Stoic belief that virtue (wisdom, courage, justice, and temperance) is the only true good.
