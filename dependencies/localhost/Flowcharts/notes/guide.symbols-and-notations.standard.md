@@ -2,7 +2,7 @@
 id: scdgwit73r3vh0luzurtrt3
 title: 1 - Standard
 desc: ''
-updated: 1719298547187
+updated: 1719400502931
 created: 1719205848566
 ---
 
@@ -48,12 +48,12 @@ created: 1719205848566
   - `Read Input`
   - `Display Output`
 
-## 5. **Connector**
+## 5. **On-page Connector**
 - **Symbol:** `Circle`
 
 ![alt text](assets/images/circle.png)
 
-- **Description:** Used `to connect` `different parts of` **the** `flowchart`, **often used** `to avoid` `drawing` `long arrows`.
+- **Description:** Used `to connect` `different parts of` **the** `flowchart` `without` **the need for** `long`, `intersecting lines` **that can make the flowchart difficult to follow**.
 - **Example:**
   - `Connect to part B`
 
@@ -127,20 +127,44 @@ function checkEvenNumber(number) { // define a function named checkEvenNumber th
 
 Here's how the flowchart would look:
 
-```plaintext
-    (Start)
-       |
- (Input Number)
-       |
-  [Check if number % 2 === 0]
-       |
-   (Decision)
-  /      \
-Yes       No
-/          \
-(Print "The number is even.") (Print "The number is odd.")
-       |
-     (End)
+```markdown
+           +---------+
+           |  Start  |
+           +---------+
+                |
+                v
+       +------------------+
+       |  Input Number    |
+       +------------------+
+                |
+                v
+  +----------------------------+
+  | Process: Check if number   |
+  |          % 2 === 0         |
+  +----------------------------+
+                |
+                v
+       +----------------------+
+       | Decision:            |
+       | Is number % 2 === 0? |
+       +----------+-----------+
+                  |
+         +--------+--------+
+         |                 |
+        Yes               No
+         |                 |
+         v                 v
++------------------+ +------------------+
+| Print "The number| | Print "The number|
+|  is even."       | |  is odd."        |
++------------------+ +------------------+
+         |                 |
+         +--------+--------+
+                  |
+                  v
+             +--------+
+             |  End   |
+             +--------+
 ```
 
 **This flowchart visually represents the logical flow of the 'checkEvenNumber' function**, **showing how the input is processed and how decisions are made based on conditions**.

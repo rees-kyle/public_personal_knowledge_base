@@ -2,7 +2,7 @@
 id: s9nsy61zzgnolw7y05yspwp
 title: Guide
 desc: ''
-updated: 1719298653139
+updated: 1719401495708
 created: 1719117274128
 ---
 
@@ -13,9 +13,9 @@ To effectively use flowcharts when making apps with JavaScript, you should under
    - ~~Definition and purpose~~
    - ~~History and evolution~~
 
-2. ~~**Flowchart Symbols and Notations**
+2. ~~**Flowchart Symbols and Notations**~~
    - ~~Standard symbols (e.g., process, decision, input/output)~~
-   - Extended symbols for complex systems
+   - ~~Extended symbols for complex systems~~
 
 3. **Types of Flowcharts**
    - Process flowcharts
