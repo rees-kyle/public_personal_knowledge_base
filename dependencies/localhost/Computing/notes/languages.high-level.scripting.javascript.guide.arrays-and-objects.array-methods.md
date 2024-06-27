@@ -2,11 +2,39 @@
 id: 0ugl27miyr9p7o2xutrers1
 title: 1 - Array Methods
 desc: ''
-updated: 1713197563617
+updated: 1719490380507
 created: 1713186227829
 ---
 
 Array methods in JavaScript are versatile **for both** `modifying` **and** `looping through` `arrays`. Here's a brief overview of some commonly used array methods:
+
+
+
+<!-- start of 'array' section -->
+<details>
+    <summary>Definition: array</summary>
+
+#
+An array **is a** `data structure` **that** `holds` **a** `collection of` `items`, **typically of the same type**, `in a` `single variable`. These items are `stored at` `contiguous memory locations` **and can be** `accessed using` **an** `index`. In many programming languages, arrays are used `to store` `lists of` `values`.
+
+---
+</details>
+<!-- end of 'array' section -->
+
+
+
+<!-- start of 'contiguous' section -->
+<details>
+    <summary>Definition: contiguous</summary>
+
+#
+Contiguous **means** `being in` `direct contact` `or next to` `each other` `without` `any` `gaps`.
+
+---
+</details>
+<!-- end of 'contiguous' section -->
+
+
 
 1. **forEach()**: `Executes` **a provided** `function` `once` `for each` `array element`.
 
