@@ -2,7 +2,7 @@
 id: s9nsy61zzgnolw7y05yspwp
 title: Guide
 desc: ''
-updated: 1719401495708
+updated: 1719833468722
 created: 1719117274128
 ---
 
@@ -17,18 +17,18 @@ To effectively use flowcharts when making apps with JavaScript, you should under
    - ~~Standard symbols (e.g., process, decision, input/output)~~
    - ~~Extended symbols for complex systems~~
 
-3. **Types of Flowcharts**
-   - Process flowcharts
-   - System flowcharts
-   - Data flowcharts
-   - Program flowcharts
+3. ~~**Types of Flowcharts**~~
+   - ~~Process flowcharts~~
+   - ~~System flowcharts~~
+   - ~~Data flowcharts~~
+   - ~~Program flowcharts~~
 
 ### Creating Flowcharts
-4. **Steps to Create a Flowchart**
-   - Define the process or problem
-   - Identify key steps and decision points
-   - Select appropriate symbols
-   - Connect the symbols with arrows
+4. ~~**Steps to Create a Flowchart**~~
+   - ~~Define the process or problem~~
+   - ~~Identify key steps and decision points~~
+   - ~~Select appropriate symbols~~
+   - ~~Connect the symbols with arrows~~
 
 5. **Best Practices for Flowchart Design**
    - Keep it simple and clear
