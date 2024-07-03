@@ -2,7 +2,7 @@
 id: s9nsy61zzgnolw7y05yspwp
 title: Guide
 desc: ''
-updated: 1719833468722
+updated: 1719994140088
 created: 1719117274128
 ---
 
@@ -30,10 +30,10 @@ To effectively use flowcharts when making apps with JavaScript, you should under
    - ~~Select appropriate symbols~~
    - ~~Connect the symbols with arrows~~
 
-5. **Best Practices for Flowchart Design**
-   - Keep it simple and clear
-   - Maintain logical flow (top to bottom, left to right)
-   - Use consistent symbols and spacing
+5. ~~**Best Practices for Flowchart Design**~~
+   - ~~Keep it simple and clear~~
+   - ~~Maintain logical flow (top to bottom, left to right)~~
+   - ~~Use consistent symbols and spacing~~
 
 6. **Tools for Creating Flowcharts**
    - Online tools (e.g., Lucidchart, Draw.io)
