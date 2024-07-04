@@ -2,7 +2,7 @@
 id: s9nsy61zzgnolw7y05yspwp
 title: Guide
 desc: ''
-updated: 1719994140088
+updated: 1720090533563
 created: 1719117274128
 ---
 
@@ -35,10 +35,10 @@ To effectively use flowcharts when making apps with JavaScript, you should under
    - ~~Maintain logical flow (top to bottom, left to right)~~
    - ~~Use consistent symbols and spacing~~
 
-6. **Tools for Creating Flowcharts**
-   - Online tools (e.g., Lucidchart, Draw.io)
-   - Desktop software (e.g., Microsoft Visio)
-   - Integrated development environments (IDEs) with flowchart capabilities
+6. ~~**Tools for Creating Flowcharts**~~
+   - ~~Online tools (e.g., Lucidchart, Draw.io)~~
+   - ~~Desktop software (e.g., Microsoft Visio)~~
+   - ~~Integrated development environments (IDEs) with flowchart capabilities~~
 
 ### Flowcharts in Software Development
 7. **Flowcharts for Problem Solving**
