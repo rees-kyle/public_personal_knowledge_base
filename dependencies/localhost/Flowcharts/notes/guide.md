@@ -2,13 +2,13 @@
 id: s9nsy61zzgnolw7y05yspwp
 title: Guide
 desc: ''
-updated: 1720090533563
+updated: 1720187905416
 created: 1719117274128
 ---
 
 To effectively use flowcharts when making apps with JavaScript, you should understand a range of topics that cover the basics of flowcharting, their application in software development, and how they relate specifically to JavaScript programming. Here is a structured list of topics to guide your learning:
 
-### ~~Basics of Flowcharts
+### ~~Basics of Flowcharts~~
 1. ~~**Introduction to Flowcharts**~~
    - ~~Definition and purpose~~
    - ~~History and evolution~~
@@ -23,7 +23,7 @@ To effectively use flowcharts when making apps with JavaScript, you should under
    - ~~Data flowcharts~~
    - ~~Program flowcharts~~
 
-### Creating Flowcharts
+### ~~Creating Flowcharts~~
 4. ~~**Steps to Create a Flowchart**~~
    - ~~Define the process or problem~~
    - ~~Identify key steps and decision points~~
@@ -40,10 +40,9 @@ To effectively use flowcharts when making apps with JavaScript, you should under
    - ~~Desktop software (e.g., Microsoft Visio)~~
    - ~~Integrated development environments (IDEs) with flowchart capabilities~~
 
-### Flowcharts in Software Development
-7. **Flowcharts for Problem Solving**
-   - Breaking down complex problems
-   - Visualizing algorithms
+### ~~Flowcharts in Software Development
+7. ~~**Flowcharts for Problem Solving**~~
+   - ~~Breaking down complex problems~~
 
 8. **Flowcharts for Program Design**
    - Structuring code logic
