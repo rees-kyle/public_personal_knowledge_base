@@ -2,7 +2,7 @@
 id: s9nsy61zzgnolw7y05yspwp
 title: Guide
 desc: ''
-updated: 1720465838498
+updated: 1720533747304
 created: 1719117274128
 ---
 
@@ -40,7 +40,7 @@ To effectively use flowcharts when making apps with JavaScript, you should under
    - ~~Desktop software (e.g., Microsoft Visio)~~
    - ~~Integrated development environments (IDEs) with flowchart capabilities~~
 
-### ~~Flowcharts in Software Development
+### ~~Flowcharts in Software Development~~
 7. ~~**Flowcharts for Problem Solving**~~
    - ~~Breaking down complex problems~~
 
@@ -52,10 +52,10 @@ To effectively use flowcharts when making apps with JavaScript, you should under
    - ~~Transitioning from flowcharts to pseudocode~~
    - ~~Writing pseudocode based on flowcharts~~
 
-### Applying Flowcharts in JavaScript Development
-10. **Flowcharts for JavaScript Algorithms**
-    - Visualizing common algorithms (e.g., sorting, searching)
-    - Mapping out event-driven programming
+### ~~Applying Flowcharts in JavaScript Development
+10. ~~**Flowcharts for JavaScript Algorithms**~~
+    - ~~Visualizing common algorithms (e.g., sorting, searching)~~
+    - ~~Mapping out event-driven programming~~
 
 11. **Flowcharts for UI/UX Design**
     - Designing user interactions and flows
