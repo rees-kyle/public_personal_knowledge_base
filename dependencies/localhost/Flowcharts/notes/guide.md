@@ -2,7 +2,7 @@
 id: s9nsy61zzgnolw7y05yspwp
 title: Guide
 desc: ''
-updated: 1720533747304
+updated: 1720610987261
 created: 1719117274128
 ---
 
@@ -57,9 +57,9 @@ To effectively use flowcharts when making apps with JavaScript, you should under
     - ~~Visualizing common algorithms (e.g., sorting, searching)~~
     - ~~Mapping out event-driven programming~~
 
-11. **Flowcharts for UI/UX Design**
-    - Designing user interactions and flows
-    - Mapping out user journey and navigation
+11. ~~**Flowcharts for UI/UX Design**~~
+    - ~~Designing user interactions and flows~~
+    - ~~Mapping out user journey and navigation~~
 
 12. **Flowcharts for Debugging and Optimization**
     - Identifying bottlenecks and logical errors
