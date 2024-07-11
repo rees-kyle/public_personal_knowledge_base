@@ -2,7 +2,7 @@
 id: fogeozkfnklsusyryzlpbhw
 title: 2 - Promises
 desc: ''
-updated: 1713726238116
+updated: 1720723269969
 created: 1713657768320
 ---
 
@@ -78,7 +78,7 @@ const myPromise = new Promise((resolve, reject) => {
 
 To use a Promise, you consume it `by registering` `callbacks` **using** `.then()`, `.catch()`, **and** `.finally()` **methods**.
 
-- **`.then()`** — This method **is used to** `schedule` **a** `callback` `to be` `executed` `when` ***the** `Promise` **is** `fulfilled`. You `can` **also** `chain` **.then() methods** `to perform` `additional` `asynchronous operations` `sequentially`.
+- **`.then()`** — This method **is used to** `schedule` **a** `callback` `to be` `executed` `when` **the** `Promise` **is** `fulfilled`. You `can` **also** `chain` **.then() methods** `to perform` `additional` `asynchronous operations` `sequentially`.
 
 
 
