@@ -2,7 +2,7 @@
 id: s9nsy61zzgnolw7y05yspwp
 title: Guide
 desc: ''
-updated: 1720870164070
+updated: 1720973704885
 created: 1719117274128
 ---
 
@@ -64,7 +64,7 @@ To effectively use flowcharts when making apps with JavaScript, you should under
 12. ~~**Flowcharts for Debugging**~~
     - ~~Identifying bottlenecks and logical errors~~
 
-### ~~Advanced Topics
+### ~~Advanced Topics~~
 13. ~~**Flowcharts for Asynchronous Programming**~~
     - ~~Handling callbacks, promises, and async/await~~
     - ~~Visualizing event loops and asynchronous workflows~~
@@ -73,8 +73,8 @@ To effectively use flowcharts when making apps with JavaScript, you should under
     - ~~Working with teams using shared flowcharts~~
     - ~~Integrating flowcharts into version control systems~~
 
-15. **Case Studies and Real-world Examples**
-    - Analyzing flowcharts from popular JavaScript projects
-    - Learning from industry-standard practices
+15. ~~**Case Studies and Real-world Examples**~~
+    - ~~Analyzing flowcharts from popular JavaScript projects~~
+    - ~~Learning from industry-standard practices~~
 
-By exploring these topics, you'll gain a comprehensive understanding of how to effectively use flowcharts in the context of JavaScript development, from planning and design to debugging and optimization.
+By exploring these topics, you'll gain a comprehensive understanding of how to effectively use flowcharts in the context of JavaScript development, `from planning and design` `to debugging and optimization`.
