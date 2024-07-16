@@ -2,7 +2,7 @@
 id: 7sr4mmsnwkcvyatd1oiu4qc
 title: 2 - Destructuring
 desc: ''
-updated: 1713912021186
+updated: 1721157964704
 created: 1713902201867
 ---
 
@@ -244,3 +244,16 @@ The term intuitive **means** `something` **that is** `easy to` `understand` **or
 ---
 </details>
 <!-- end of 'intuitive' section -->
+
+
+
+<!-- start of 'verbosity' section -->
+<details>
+    <summary>Definition: verbosity</summary>
+
+#
+Verbosity **refers to** `the use of` `more words` `than necessary` `to express` `an idea` `or convey information`. It **often results in** `unnecessary complexity` `or wordiness` `in communication`.
+
+---
+</details>
+<!-- end of 'verbosity' section -->
