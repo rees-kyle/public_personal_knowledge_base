@@ -2,7 +2,7 @@
 id: tc03i50msmf1z3xge5z4cha
 title: Guide
 desc: ''
-updated: 1718948243827
+updated: 1721148127306
 created: 1716944933263
 ---
 
@@ -12,8 +12,8 @@ Learning Stoicism involves understanding its core principles, practices, and the
    - ~~**Origins and History**: Learn about the founding of Stoicism by Zeno of Citium in Athens around 300 BCE, and its development through prominent philosophers such as Cleanthes, Chrysippus, Seneca, Epictetus, and Marcus Aurelius.~~
    - ~~**Basic Concepts**: Understand the fundamental concepts of Stoicism, including the dichotomy of control, the importance of rationality, and the concept of living in accordance with nature.~~
 
-### 2. **Core Principles of Stoicism**
-   - **Virtue as the Highest Good**: Explore the Stoic belief that virtue (wisdom, courage, justice, and temperance) is the only true good.
+### 2. ~~**Core Principles of Stoicism**
+   - ~~**Virtue as the Highest Good**: Explore the Stoic belief that virtue (wisdom, courage, justice, and temperance) is the only true good.~~
    - **The Dichotomy of Control**: Study the distinction between things we can control (our own actions and attitudes) and things we cannot control (external events and other people's actions).
    - **Living in Accordance with Nature**: Understand the Stoic idea that living virtuously means living in harmony with nature and reason.
 
