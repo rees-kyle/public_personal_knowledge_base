@@ -2,7 +2,7 @@
 id: 2r6rnfmvonps1z1gv6k98kt
 title: 3 - Spread and Rest Operators
 desc: ''
-updated: 1713996015529
+updated: 1721259260263
 created: 1713932889782
 ---
 
@@ -61,7 +61,7 @@ An iterable **is an** `object that` **you** `can` `loop over`, **like a** `list`
     <summary>Definition: shallow copy</summary>
 
 #
-**A** `shallow copy of` **an** `object` `creates` **a** `new object` `but` `does not` `create copies of` **any** `objects` `contained within` **the** `original`. `Instead`, it just `copies` ***the** `references to` **those** `inner objects`. This means **if you change one of the inner objects in the original**, **that change will also appear in the shallow copy** because both the original and the copy point to the same inner object.
+**A** `shallow copy of` **an** `object` `creates` **a** `new object` `but` `does not` `create copies of` **any** `objects` `contained within` **the** `original`. `Instead`, it just `copies` **the** `references to` **those** `inner objects`. This means **if you change one of the inner objects in the original**, **that change will also appear in the shallow copy** because both the original and the copy point to the same inner object.
 
 ---
 </details>
