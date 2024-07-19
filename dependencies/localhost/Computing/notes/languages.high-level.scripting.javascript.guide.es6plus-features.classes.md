@@ -2,7 +2,7 @@
 id: kw4as7xx7lbto3hsesfx2wd
 title: 4 - Classes
 desc: ''
-updated: 1714158946701
+updated: 1721382106207
 created: 1714151081532
 ---
 
@@ -117,6 +117,7 @@ class Student extends Person {
   constructor(name, age, grade) {
     super(name, age);  // Call the parent class (Person) constructor to initialize name and age
     this.grade = grade; // Additional property specific to Student: their current grade in school
+  }
 
   // Override the `describe` method to add additional details about the student
   describe() {
