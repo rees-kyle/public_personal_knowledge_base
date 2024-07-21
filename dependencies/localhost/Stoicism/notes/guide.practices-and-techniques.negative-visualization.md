@@ -2,7 +2,7 @@
 id: ojlc3kb91hgw6hr2xeh0odv
 title: 1 - Negative Visualization
 desc: ''
-updated: 1721386091262
+updated: 1721582339307
 created: 1721383151882
 ---
 
@@ -10,9 +10,16 @@ Negative Visualization, or **Premeditatio Malorum** ("the premeditation of evils
 
 
 
-<!-- -->
+<!-- start of 'contemplating' section -->
+<details>
+   <summary>Definition: contemplating</summary>
+
+#
 Contemplating **means** `thinking` `deeply and carefully` `about something`, **often** `for a prolonged period`.
-<!-- -->
+
+---
+</details>
+<!-- end of 'contemplating' section -->
 
 
 
