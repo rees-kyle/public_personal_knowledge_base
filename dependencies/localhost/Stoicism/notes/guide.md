@@ -2,7 +2,7 @@
 id: tc03i50msmf1z3xge5z4cha
 title: Guide
 desc: ''
-updated: 1721386121065
+updated: 1721754239590
 created: 1716944933263
 ---
 
@@ -19,8 +19,8 @@ Learning Stoicism involves understanding its core principles, practices, and the
 
 ### 3. ~~**Stoic Practices and Techniques**
    - ~~**Negative Visualization (Premeditatio Malorum)**: Learn the practice of contemplating potential future misfortunes to prepare mentally and emotionally.~~
-   - **Voluntary Discomfort**: Study the practice of periodically experiencing discomfort to build resilience and appreciate what you have.
-   - **Self-Reflection**: Explore the practice of regular self-examination to assess your progress in virtue and align your actions with Stoic principles.
+   - ~~**Voluntary Discomfort**: Study the practice of periodically experiencing discomfort to build resilience and appreciate what you have.~~
+   - ~~**Self-Reflection**: Explore the practice of regular self-examination to assess your progress in virtue and align your actions with Stoic principles.~~
    - **Mindfulness and Presence**: Understand the importance of staying present and focused on the current moment.
 
 ### 4. **Ethics and Moral Philosophy**
