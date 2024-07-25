@@ -2,7 +2,7 @@
 id: tc03i50msmf1z3xge5z4cha
 title: Guide
 desc: ''
-updated: 1721754239590
+updated: 1721951590406
 created: 1716944933263
 ---
 
@@ -17,14 +17,14 @@ Learning Stoicism involves understanding its core principles, practices, and the
    - ~~**The Dichotomy of Control**: Study the distinction between things we can control (our own actions and attitudes) and things we cannot control (external events and other people's actions).~~
    - ~~**Living in Accordance with Nature**: Understand the Stoic idea that living virtuously means living in harmony with nature and reason.~~
 
-### 3. ~~**Stoic Practices and Techniques**
+### 3. ~~**Stoic Practices and Techniques**~~
    - ~~**Negative Visualization (Premeditatio Malorum)**: Learn the practice of contemplating potential future misfortunes to prepare mentally and emotionally.~~
    - ~~**Voluntary Discomfort**: Study the practice of periodically experiencing discomfort to build resilience and appreciate what you have.~~
    - ~~**Self-Reflection**: Explore the practice of regular self-examination to assess your progress in virtue and align your actions with Stoic principles.~~
-   - **Mindfulness and Presence**: Understand the importance of staying present and focused on the current moment.
+   - ~~**Mindfulness and Presence**: Understand the importance of staying present and focused on the current moment.~~
 
-### 4. **Ethics and Moral Philosophy**
-   - **Stoic Virtues**: Delve deeper into the four cardinal virtues: wisdom, courage, justice, and temperance.
+### 4. ~~**Ethics and Moral Philosophy**
+   - ~~**Stoic Virtues**: Delve deeper into the four cardinal virtues: wisdom, courage, justice, and temperance.~~
    - **Moral Development**: Learn about the Stoic path to becoming a sage and the process of moral development and self-improvement.
    - **Duty and Social Roles**: Explore the Stoic view on fulfilling one's roles and responsibilities in society.
 
