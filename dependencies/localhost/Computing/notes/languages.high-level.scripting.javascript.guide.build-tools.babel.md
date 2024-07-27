@@ -2,7 +2,7 @@
 id: ad89hctd66nh1kdq61rjwts
 title: 2 - Babel
 desc: ''
-updated: 1715873614509
+updated: 1722041262523
 created: 1715592788735
 ---
 
@@ -28,7 +28,7 @@ npm install --save-dev @babel/core @babel/cli @babel/preset-env
 
 ### 2. Configuration
 
-`Create` a `Babel `configuration file` **named** `.babelrc` `in` **the** `root of` **your** `project`:
+`Create` **a** `Babel` `configuration file` **named** `.babelrc` `in` **the** `root of` **your** `project`:
 
 ```json
 {
