@@ -2,7 +2,7 @@
 id: tc03i50msmf1z3xge5z4cha
 title: Guide
 desc: ''
-updated: 1722097375841
+updated: 1722465905420
 created: 1716944933263
 ---
 
@@ -28,9 +28,9 @@ Learning Stoicism involves understanding its core principles, practices, and the
    - ~~**Moral Development**: Learn about the Stoic path to becoming a sage and the process of moral development and self-improvement.~~
    - ~~**Duty and Social Roles**: Explore the Stoic view on fulfilling one's roles and responsibilities in society.~~
 
-### 5. **Stoic Logic and Epistemology**
-   - **The Role of Logic**: Study how Stoics use logic to distinguish between true and false beliefs.
-   - **Theory of Knowledge**: Understand the Stoic approach to knowledge, perception, and the importance of rational thought.
+### 5. ~~**Stoic Logic and Epistemology**~~
+   - ~~**The Role of Logic**: Study how Stoics use logic to distinguish between true and false beliefs.~~
+   - ~~**Theory of Knowledge**: Understand the Stoic approach to knowledge, perception, and the importance of rational thought.~~
 
 ### 6. **Stoicism and Emotions**
    - **Passions and Emotions**: Learn how Stoics categorize emotions and their belief in transforming harmful emotions (pathē) into rational ones (eupatheia).
