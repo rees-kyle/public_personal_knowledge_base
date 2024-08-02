@@ -2,7 +2,7 @@
 id: tc03i50msmf1z3xge5z4cha
 title: Guide
 desc: ''
-updated: 1722465905420
+updated: 1722579902217
 created: 1716944933263
 ---
 
@@ -32,8 +32,8 @@ Learning Stoicism involves understanding its core principles, practices, and the
    - ~~**The Role of Logic**: Study how Stoics use logic to distinguish between true and false beliefs.~~
    - ~~**Theory of Knowledge**: Understand the Stoic approach to knowledge, perception, and the importance of rational thought.~~
 
-### 6. **Stoicism and Emotions**
-   - **Passions and Emotions**: Learn how Stoics categorize emotions and their belief in transforming harmful emotions (pathē) into rational ones (eupatheia).
+### 6. ~~**Stoicism and Emotions**
+   - ~~**Passions and Emotions**: Learn how Stoics categorize emotions and their belief in transforming harmful emotions (pathē) into rational ones (eupatheia).~~
    - **Tranquility and Equanimity**: Study the goal of achieving a tranquil and balanced state of mind through the practice of Stoic principles.
 
 ### 7. **Stoic Writings and Texts**
