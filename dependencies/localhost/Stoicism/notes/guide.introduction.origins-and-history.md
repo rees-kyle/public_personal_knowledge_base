@@ -2,7 +2,7 @@
 id: i2ufwhxgik6ko27lgjug46z
 title: 1 - Origins and History
 desc: ''
-updated: 1718667999667
+updated: 1722759526864
 created: 1716945194242
 ---
 
@@ -84,7 +84,7 @@ Crates of Thebes **was a** `Greek` `philosopher` **and a** `prominent figure in`
    <summary>Definition: virtue</summary>
 
 #
-Virtue **is a** `good quality` `or behavior` **that is** `considered` `morally excellent`, **like** `kindness`, `honesty`, **or** `courage`.
+Virtue **is a** `good` `quality or behavior` **that is** `considered` `morally excellent`, **like** `kindness`, `honesty`, **or** `courage`.
 
 ---
 </details>
