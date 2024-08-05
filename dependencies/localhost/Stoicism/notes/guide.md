@@ -2,7 +2,7 @@
 id: tc03i50msmf1z3xge5z4cha
 title: Guide
 desc: ''
-updated: 1722760870305
+updated: 1722816812304
 created: 1716944933263
 ---
 
@@ -36,8 +36,8 @@ Learning Stoicism involves understanding its core principles, practices, and the
    - ~~**Passions and Emotions**: Learn how Stoics categorize emotions and their belief in transforming harmful emotions (pathē) into rational ones (eupatheia).~~
    - ~~**Tranquility and Equanimity**: Study the goal of achieving a tranquil and balanced state of mind through the practice of Stoic principles.~~
 
-### 7. **Stoic Writings and Texts**
-   - **Primary Sources**: Read key Stoic texts such as Marcus Aurelius’ "Meditations," Seneca’s "Letters to Lucilius," and Epictetus’ "Discourses" and "Enchiridion."
+### 7. ~~**Stoic Writings and Texts**
+   - ~~**Primary Sources**: Read key Stoic texts such as Marcus Aurelius’ "Meditations," Seneca’s "Letters to Lucilius," and Epictetus’ "Discourses" and "Enchiridion."~~
    - **Modern Interpretations**: Explore contemporary works and interpretations of Stoicism by authors like Ryan Holiday, Massimo Pigliucci, and Donald Robertson.
 
 ### 8. **Stoicism in Modern Life**
