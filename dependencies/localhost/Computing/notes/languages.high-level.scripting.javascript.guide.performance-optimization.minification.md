@@ -2,7 +2,7 @@
 id: h5b59zvp1xoqf97k6juk7nc
 title: 1 - Minification
 desc: ''
-updated: 1716383564193
+updated: 1722944478613
 created: 1716381555541
 ---
 
@@ -18,6 +18,21 @@ Several tools can `automate` **the** `minification` **process**. Some popular on
 2. **Terser**: A `modern` JavaScript minifier, which is a `fork of` `UglifyJS` **and provides better** `support for` `ES6+`.
 3. **Google Closure Compiler**: It offers `advanced optimizations` but can be more `complex to configure`.
 4. **Babel Minify**: `Integrated with Babel`, useful if you're already using Babel for transpilation.
+
+
+
+<!-- start of 'transpilation' section -->
+<details>
+    <summary>Definition: transpilation</summary>
+
+#
+Transpilation **is** `the process of` `converting` `code` `written in` `one programming language` `into another` **language** `that has` `a similar level of` `abstraction`. For **example**, **converting TypeScript to JavaScript**. It **helps in** `making code` `compatible` `with different` `systems or environments`.
+
+---
+</details>
+<!-- end of 'transpilation' section -->
+
+
 
 ### Implementing Minification
 
@@ -137,6 +152,21 @@ Here is a step-by-step guide on how to use Terser to minify your JavaScript file
 5. **Other Considerations**:
    - **Source Maps**: `To facilitate` `debugging of` `minified files`, **generate source maps by passing the appropriate options to the minifier**.
    - **Automation**: `Integrate minification into` **your** `CI/CD pipeline` `to ensure` `all code is` `minified before` `deployment`.
+
+
+
+<!-- start of 'source map' section -->
+<details>
+    <summary>Definition: source map</summary>
+
+#
+A source map **is** `a file` `that maps` `minified or compiled` `code` `back to its` `original` `source code`. It `helps` **developers** `debug` `minified code` **by allowing tools to show the original source lines and locations in the browser’s developer tools**, **even though the code has been compressed or transformed**.
+
+---
+</details>
+<!-- end of 'source map' section -->
+
+
 
 ### Conclusion
 
