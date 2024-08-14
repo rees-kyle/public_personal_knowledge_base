@@ -2,7 +2,7 @@
 id: tc03i50msmf1z3xge5z4cha
 title: Guide
 desc: ''
-updated: 1722991286432
+updated: 1723637041496
 created: 1716944933263
 ---
 
@@ -40,9 +40,9 @@ Learning Stoicism involves understanding its core principles, practices, and the
    - ~~**Primary Sources**: Read key Stoic texts such as Marcus Aurelius’ "Meditations," Seneca’s "Letters to Lucilius," and Epictetus’ "Discourses" and "Enchiridion."~~
    - ~~**Modern Interpretations**: Explore contemporary works and interpretations of Stoicism by authors like Ryan Holiday, Massimo Pigliucci, and Donald Robertson.~~
 
-### 8. ~~**Stoicism in Modern Life**
+### 8. ~~**Stoicism in Modern Life**~~
    - ~~**Practical Applications**: Learn how to apply Stoic principles to modern challenges such as stress, anxiety, career, relationships, and personal development.~~
-   - **Stoicism and Therapy**: Explore the relationship between Stoicism and modern therapeutic approaches like Cognitive Behavioral Therapy (CBT).
+   - ~~**Stoicism and Therapy**: Explore the relationship between Stoicism and modern therapeutic approaches like Cognitive Behavioral Therapy (CBT).~~
 
 ### 9. **Criticisms and Challenges**
    - **Critiques of Stoicism**: Study common criticisms of Stoic philosophy and the Stoic responses to these critiques.
