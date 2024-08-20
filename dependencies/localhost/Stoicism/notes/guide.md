@@ -2,7 +2,7 @@
 id: tc03i50msmf1z3xge5z4cha
 title: Guide
 desc: ''
-updated: 1724086754366
+updated: 1724147194015
 created: 1716944933263
 ---
 
@@ -44,9 +44,9 @@ Learning Stoicism involves understanding its core principles, practices, and the
    - ~~**Practical Applications**: Learn how to apply Stoic principles to modern challenges such as stress, anxiety, career, relationships, and personal development.~~
    - ~~**Stoicism and Therapy**: Explore the relationship between Stoicism and modern therapeutic approaches like Cognitive Behavioral Therapy (CBT).~~
 
-### 9. ~~**Criticisms and Challenges**
+### 9. ~~**Criticisms and Challenges**~~
    - ~~**Critiques of Stoicism**: Study common criticisms of Stoic philosophy and the Stoic responses to these critiques.~~
-   - **Balancing Stoicism with Other Philosophies**: Learn how to integrate Stoic principles with other philosophical or spiritual beliefs.
+   - ~~**Balancing Stoicism with Other Philosophies**: Learn how to integrate Stoic principles with other philosophical or spiritual beliefs.~~
 
 ### 10. **Community and Practice**
    - **Stoic Communities**: Find out about modern Stoic communities and online forums where you can discuss and practice Stoicism with others.
