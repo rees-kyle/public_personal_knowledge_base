@@ -1,8 +1,8 @@
 ---
 id: dr15laxhaqvn50d6ihbf1ej
-title: 009 - Critiques of Stoicism
+title: 1 - Critiques of Stoicism
 desc: ''
-updated: 1724086395822
+updated: 1724141322739
 created: 1724081646192
 ---
 
