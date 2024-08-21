@@ -2,7 +2,7 @@
 id: tc03i50msmf1z3xge5z4cha
 title: Guide
 desc: ''
-updated: 1724147194015
+updated: 1724235606259
 created: 1716944933263
 ---
 
@@ -49,7 +49,7 @@ Learning Stoicism involves understanding its core principles, practices, and the
    - ~~**Balancing Stoicism with Other Philosophies**: Learn how to integrate Stoic principles with other philosophical or spiritual beliefs.~~
 
 ### 10. **Community and Practice**
-   - **Stoic Communities**: Find out about modern Stoic communities and online forums where you can discuss and practice Stoicism with others.
+   - ~~**Stoic Communities**: Find out about modern Stoic communities and online forums where you can discuss and practice Stoicism with others.~~
    - **Stoic Week and Events**: Participate in events like Stoic Week and other Stoicism-related activities to deepen your understanding and practice.
 
 By exploring these topics, you can gain a comprehensive understanding of Stoicism and how to apply its principles to enhance your life.
