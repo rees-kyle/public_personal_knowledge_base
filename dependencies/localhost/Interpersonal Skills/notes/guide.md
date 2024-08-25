@@ -2,14 +2,14 @@
 id: w8szmjqfo1r4i1o6s7i9f3n
 title: Guide
 desc: ''
-updated: 1724496381381
+updated: 1724617153685
 created: 1724496310482
 ---
 
 Interpersonal skills are `crucial` `for building and maintaining` `positive relationships`, **both in** `professional and personal` **contexts**. Here are some key topics to consider when learning and developing your interpersonal skills:
 
-### 1. **Communication Skills**
-   - **Active Listening**: Paying full attention to the speaker, showing interest, and providing feedback.
+### 1. ~~**Communication Skills**
+   - ~~**Active Listening**: Paying full attention to the speaker, showing interest, and providing feedback.~~
    - **Verbal Communication**: Choosing words carefully, speaking clearly, and ensuring your message is understood.
    - **Non-Verbal Communication**: Understanding body language, facial expressions, gestures, and eye contact.
    - **Emotional Intelligence**: Recognizing, understanding, and managing your own emotions and those of others.
