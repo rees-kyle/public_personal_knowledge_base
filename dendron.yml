@@ -23,6 +23,10 @@ commands:
 workspace:
     vaults:
         -
+            fsPath: dependencies/localhost/Interpersonal Skills
+            selfContained: true
+            name: Interpersonal Skills
+        -
             fsPath: dependencies/localhost/Flowcharts
             selfContained: true
             name: Flowcharts
@@ -195,3 +199,4 @@ publishing:
             - ChatGPT
             - Stoicism
             - Flowcharts
+            - Interpersonal Skills
