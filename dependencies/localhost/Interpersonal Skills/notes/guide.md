@@ -2,7 +2,7 @@
 id: w8szmjqfo1r4i1o6s7i9f3n
 title: Guide
 desc: ''
-updated: 1724617153685
+updated: 1724761387655
 created: 1724496310482
 ---
 
@@ -10,8 +10,8 @@ Interpersonal skills are `crucial` `for building and maintaining` `positive rela
 
 ### 1. ~~**Communication Skills**
    - ~~**Active Listening**: Paying full attention to the speaker, showing interest, and providing feedback.~~
-   - **Verbal Communication**: Choosing words carefully, speaking clearly, and ensuring your message is understood.
-   - **Non-Verbal Communication**: Understanding body language, facial expressions, gestures, and eye contact.
+   - ~~**Verbal Communication**: Choosing words carefully, speaking clearly, and ensuring your message is understood.~~
+   - ~~**Non-Verbal Communication**: Understanding body language, facial expressions, gestures, and eye contact.~~
    - **Emotional Intelligence**: Recognizing, understanding, and managing your own emotions and those of others.
    - **Public Speaking**: Engaging an audience effectively and presenting ideas confidently.
    - **Written Communication**: Writing clearly, concisely, and persuasively for different contexts (emails, reports, social media).
