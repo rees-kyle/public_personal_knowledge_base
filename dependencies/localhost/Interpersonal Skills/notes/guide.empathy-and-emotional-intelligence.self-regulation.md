@@ -1,8 +1,8 @@
 ---
 id: mvanmfbh1i0ayk1eg6cr067
-title: 3 - Self Regulation
+title: 3 - Self-Regulation
 desc: ''
-updated: 1725381090717
+updated: 1725382080413
 created: 1725380488539
 ---
 
