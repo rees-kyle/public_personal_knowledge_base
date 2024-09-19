@@ -2,7 +2,7 @@
 id: w8szmjqfo1r4i1o6s7i9f3n
 title: Guide
 desc: ''
-updated: 1725494932291
+updated: 1726713021346
 created: 1724496310482
 ---
 
@@ -16,15 +16,15 @@ Interpersonal skills are `crucial` `for building and maintaining` `positive rela
    - ~~**Public Speaking**: Engaging an audience effectively and presenting ideas confidently.~~
    - ~~**Written Communication**: Writing clearly, concisely, and persuasively for different contexts (emails, reports, social media).~~
 
-### 2. ~~**Empathy and Emotional Intelligence**
+### 2. ~~**Empathy and Emotional Intelligence**~~
    - ~~**Empathy**: Understanding and sharing the feelings of others, showing compassion.~~
    - ~~**Self-Awareness**: Recognizing your own emotions and how they affect your behavior.~~
    - ~~**Self-Regulation**: Managing your emotions and impulses in various situations.~~
    - ~~**Motivation**: Being driven to achieve goals, both personally and organizationally.~~
-   - **Social Skills**: Building rapport, managing relationships, and navigating social networks effectively.
+   - ~~**Social Skills**: Building rapport, managing relationships, and navigating social networks effectively.~~
 
-### 3. **Conflict Resolution**
-   - **Negotiation Skills**: Reaching mutually beneficial agreements.
+### 3. ~~**Conflict Resolution**
+   - ~~**Negotiation Skills**: Reaching mutually beneficial agreements.~~
    - **Mediation**: Facilitating discussions to resolve disputes.
    - **Problem-Solving**: Identifying issues and generating solutions collaboratively.
    - **Handling Criticism and Feedback**: Receiving feedback gracefully and providing constructive criticism.
