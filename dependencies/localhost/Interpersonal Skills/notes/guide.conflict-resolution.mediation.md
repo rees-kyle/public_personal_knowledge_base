@@ -2,7 +2,7 @@
 id: 0naukqnjzacg8ov94lln8iz
 title: 2 - Mediation
 desc: ''
-updated: 1726880307583
+updated: 1726884267936
 created: 1726875578422
 ---
 
@@ -19,6 +19,21 @@ Here are a few **key techniques and approaches** in mediation:
 4. **Setting Ground Rules**: `Establishing rules` **for the mediation process** `can create` `a respectful environment` `and ensure` **that** `all parties` `feel safe` `to express themselves`.
 
 5. **Reality Testing**: **Mediators help parties** `assess` `the feasibility of` `their demands` `and consider` `the potential consequences of` `their choices`, `encouraging` `more realistic` `negotiations`.
+
+
+
+<!-- start of 'feasibility' section -->
+<details>
+    <summary>Definition: feasibility</summary>
+
+#
+Feasibility **refers to** `the likelihood or practicality of` `something` `being successfully done` `or achieved`. It `assesses whether` `a plan`, `project`, `or idea` `can be realistically accomplished` `given the available resources`, `time`, `technology`, `and conditions`.
+
+---
+</details>
+<!-- end of 'feasibility' section -->
+
+
 
 6. **Generating Options**: The **mediator** `encourages` `brainstorming of` `potential solutions` `without judgment`, **allowing all parties** `to contribute ideas` `before narrowing down` `the options`.
 
