@@ -2,7 +2,7 @@
 id: w8szmjqfo1r4i1o6s7i9f3n
 title: Guide
 desc: ''
-updated: 1726713021346
+updated: 1726883454879
 created: 1724496310482
 ---
 
@@ -25,7 +25,7 @@ Interpersonal skills are `crucial` `for building and maintaining` `positive rela
 
 ### 3. ~~**Conflict Resolution**
    - ~~**Negotiation Skills**: Reaching mutually beneficial agreements.~~
-   - **Mediation**: Facilitating discussions to resolve disputes.
+   - ~~**Mediation**: Facilitating discussions to resolve disputes.~~
    - **Problem-Solving**: Identifying issues and generating solutions collaboratively.
    - **Handling Criticism and Feedback**: Receiving feedback gracefully and providing constructive criticism.
 
