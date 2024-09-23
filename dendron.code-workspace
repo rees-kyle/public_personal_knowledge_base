@@ -1,6 +1,10 @@
 {
     "folders": [
         {
+            "path": "dependencies/localhost/React/notes",
+            "name": "React"
+        },
+        {
             "path": "dependencies/localhost/Interpersonal Skills/notes",
             "name": "Interpersonal Skills"
         },

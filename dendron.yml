@@ -23,6 +23,10 @@ commands:
 workspace:
     vaults:
         -
+            fsPath: dependencies/localhost/React
+            selfContained: true
+            name: React
+        -
             fsPath: dependencies/localhost/Interpersonal Skills
             selfContained: true
             name: Interpersonal Skills
@@ -200,3 +204,4 @@ publishing:
             - Stoicism
             - Flowcharts
             - Interpersonal Skills
+            - React
