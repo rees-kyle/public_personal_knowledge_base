@@ -2,7 +2,7 @@
 id: 34ywkd8uxqczt9vs4gr61s7
 title: Guide
 desc: ''
-updated: 1727315426655
+updated: 1727515121969
 created: 1727131232465
 ---
 
@@ -15,8 +15,8 @@ Here’s a list of topics to focus on for learning React, assuming you’re alre
    - ~~Components and props~~
    - ~~State management in functional components~~
 
-1. **Component Lifecycle**
-   - Lifecycle methods (for class components)
+1. ~~**Component Lifecycle**
+   - ~~Lifecycle methods (for class components)~~
    - Hooks (useEffect, useLayoutEffect)
 
 1. **Hooks**
