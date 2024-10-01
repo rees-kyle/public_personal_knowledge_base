@@ -2,7 +2,7 @@
 id: 34ywkd8uxqczt9vs4gr61s7
 title: Guide
 desc: ''
-updated: 1727663473528
+updated: 1727750490487
 created: 1727131232465
 ---
 
@@ -21,7 +21,7 @@ Here’s a list of topics to focus on for learning React, assuming you’re alre
 
 1. ~~**Hooks**
    - ~~useState, useEffect~~
-   - Custom hooks
+   - ~~Custom hooks~~
    - useContext for global state management
 
 1. **Routing**
