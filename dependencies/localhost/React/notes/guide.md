@@ -2,7 +2,7 @@
 id: 34ywkd8uxqczt9vs4gr61s7
 title: Guide
 desc: ''
-updated: 1727750490487
+updated: 1729076849323
 created: 1727131232465
 ---
 
@@ -19,10 +19,10 @@ Here’s a list of topics to focus on for learning React, assuming you’re alre
    - ~~Lifecycle methods (for class components)~~
    - ~~Hooks (useEffect, useLayoutEffect)~~
 
-1. ~~**Hooks**
+1. ~~**Hooks**~~
    - ~~useState, useEffect~~
    - ~~Custom hooks~~
-   - useContext for global state management
+   - ~~useContext for global state management~~
 
 1. **Routing**
    - React Router: setting up routes, nested routes, and dynamic routing
