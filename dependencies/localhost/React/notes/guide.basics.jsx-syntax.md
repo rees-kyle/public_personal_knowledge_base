@@ -2,13 +2,15 @@
 id: vh0s5vj95k5pw7o4lopr49w
 title: 1 - JSX Syntax
 desc: ''
-updated: 1727151598886
+updated: 1729162077642
 created: 1727149157434
 ---
 
 ### React Basics: JSX Syntax
 
-JSX (`JavaScript XML`) **is a** `syntax extension` `for JavaScript` **that looks similar to HTML and** `allows` `React components` `to render` `what they should look like`. JSX makes it `easier` `to write and visualize` `the structure of` `the user interface` **within React components**.
+JSX **is a** `syntax extension` `for JavaScript` **that looks similar to HTML and** `allows` `React components` `to render` `what they should look like`. JSX makes it `easier` `to write and visualize` `the structure of` `the user interface` **within React components**.
+
+> JSX: Javascript XML
 
 
 
