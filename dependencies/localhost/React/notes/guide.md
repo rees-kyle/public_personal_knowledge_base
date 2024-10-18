@@ -2,7 +2,7 @@
 id: 34ywkd8uxqczt9vs4gr61s7
 title: Guide
 desc: ''
-updated: 1729167058477
+updated: 1729252390332
 created: 1727131232465
 ---
 
@@ -27,9 +27,9 @@ Here’s a list of topics to focus on for learning React, assuming you’re alre
 1. ~~**Routing**~~
    - ~~React Router: setting up routes, nested routes, and dynamic routing~~
 
-1. ~~**State Management**
+1. ~~**State Management**~~
    - ~~Context API~~
-   - Redux (or alternatives like MobX or Zustand)
+   - ~~Redux~~
 
 1. **Forms in React**
    - Controlled vs uncontrolled components
