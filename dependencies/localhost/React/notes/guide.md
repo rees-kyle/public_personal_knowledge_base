@@ -2,7 +2,7 @@
 id: 34ywkd8uxqczt9vs4gr61s7
 title: Guide
 desc: ''
-updated: 1729864380882
+updated: 1729869727261
 created: 1727131232465
 ---
 
@@ -35,8 +35,8 @@ Here’s a list of topics to focus on for learning React, assuming you’re alre
    - ~~Controlled vs uncontrolled components~~
    - ~~Form libraries (e.g., Formik, React Hook Form)~~
 
-1. **Styling in React**
-   - CSS Modules
+1. ~~**Styling in React**
+   - ~~CSS Modules~~
    - Styled-components
    - Emotion
 
