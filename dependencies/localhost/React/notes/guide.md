@@ -2,7 +2,7 @@
 id: 34ywkd8uxqczt9vs4gr61s7
 title: Guide
 desc: ''
-updated: 1729869727261
+updated: 1729962651036
 created: 1727131232465
 ---
 
@@ -37,7 +37,7 @@ Here’s a list of topics to focus on for learning React, assuming you’re alre
 
 1. ~~**Styling in React**
    - ~~CSS Modules~~
-   - Styled-components
+   - ~~Styled-components~~
    - Emotion
 
 1. **API Interaction**
