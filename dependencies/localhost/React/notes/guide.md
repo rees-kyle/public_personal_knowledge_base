@@ -2,7 +2,7 @@
 id: 34ywkd8uxqczt9vs4gr61s7
 title: Guide
 desc: ''
-updated: 1730214504784
+updated: 1730215972290
 created: 1727131232465
 ---
 
@@ -46,7 +46,7 @@ Here’s a list of topics to focus on for learning React, assuming you’re alre
 
 1. ~~**Performance Optimization**
    - ~~Memoization with React.memo~~
-   - useMemo and useCallback
+   - ~~useMemo and useCallback~~
    - Code splitting
 
 1. **Testing**
