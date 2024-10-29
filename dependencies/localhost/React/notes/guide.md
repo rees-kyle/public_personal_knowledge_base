@@ -2,7 +2,7 @@
 id: 34ywkd8uxqczt9vs4gr61s7
 title: Guide
 desc: ''
-updated: 1730048092566
+updated: 1730214504784
 created: 1727131232465
 ---
 
@@ -40,12 +40,12 @@ Here’s a list of topics to focus on for learning React, assuming you’re alre
    - ~~Styled-components~~
    - ~~Emotion~~
 
-1. ~~**API Interaction**
+1. ~~**API Interaction**~~
    - ~~Fetching data with fetch or Axios~~
-   - ~~Error handling and loading states
+   - ~~Error handling and loading states~~
 
-1. **Performance Optimization**
-   - Memoization with React.memo
+1. ~~**Performance Optimization**
+   - ~~Memoization with React.memo~~
    - useMemo and useCallback
    - Code splitting
 
