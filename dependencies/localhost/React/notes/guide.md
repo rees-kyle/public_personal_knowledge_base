@@ -2,7 +2,7 @@
 id: 34ywkd8uxqczt9vs4gr61s7
 title: Guide
 desc: ''
-updated: 1730507293754
+updated: 1730508774194
 created: 1727131232465
 ---
 
@@ -49,8 +49,8 @@ Here’s a list of topics to focus on for learning React, assuming you’re alre
    - ~~useMemo and useCallback~~
    - ~~Code splitting~~
 
-1. **Testing**
-    - Unit testing with Jest
+1. ~~**Testing**
+    - ~~Unit testing with Jest~~
     - Component testing with React Testing Library
 
 1. **TypeScript with React**
