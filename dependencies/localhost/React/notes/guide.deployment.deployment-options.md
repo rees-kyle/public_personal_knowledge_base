@@ -2,7 +2,7 @@
 id: lh6vuggnw58ntplgkfhrg4e
 title: 1 - Deployment Options
 desc: ''
-updated: 1730762473522
+updated: 1730764447034
 created: 1730761403496
 ---
 
@@ -17,6 +17,21 @@ created: 1730761403496
      - `Push` **your** `project` `to GitHub`, `link` **it** `to Netlify`, `select` **the** `branch`, **and** `set` **the** `build command` (**'npm run build'**) **and** `publish` `directory` (**'build'**).
 
 > CI/CD: `Continuous` `Integration` **and** `Continuous Deployment` (**or** `Continuous Delivery`)
+
+
+
+<!-- start of 'continuous integration and continuous deployment' section -->
+<details>
+  <summary>Definition: continuous integration and continuous deployment (or continuous delivery)</summary>
+
+#
+**CI/CD is a** `process` `in software development` **where 'Continuous Integration (CI)' means** `automatically` `testing and merging` `code changes` `to keep` **the** `codebase` `functional`, **and 'Continuous Deployment/Delivery (CD)' means** `automatically` `releasing` **those** `changes` `to users` (**in deployment**) `or preparing` **them** `for release` (**in delivery**) `as soon as` **they’re** `ready`. This **helps teams** `quickly` **and** `reliably` `deliver updates`.
+
+---
+</details>
+<!-- end of 'continuous integration and continuous deployment' section -->
+
+
 
 ### 2. **Vercel**
    - **Strengths**:
