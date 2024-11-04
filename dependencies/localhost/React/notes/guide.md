@@ -2,7 +2,7 @@
 id: 34ywkd8uxqczt9vs4gr61s7
 title: Guide
 desc: ''
-updated: 1730760424189
+updated: 1730761420553
 created: 1727131232465
 ---
 
@@ -56,7 +56,7 @@ Here’s a list of topics to focus on for learning React, assuming you’re alre
 1. ~~**TypeScript with React**~~
     - ~~Basic TypeScript concepts in React~~
 
-1. **Deployment**
-    - Deployment options (Netlify, Vercel, GitHub Pages)
+1. ~~**Deployment**
+    - ~~Deployment options (Netlify, Vercel, GitHub Pages)
 
 This should give you a solid foundation in React while avoiding redundant topics.
