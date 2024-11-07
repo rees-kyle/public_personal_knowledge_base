@@ -2,7 +2,7 @@
 id: w8szmjqfo1r4i1o6s7i9f3n
 title: Guide
 desc: ''
-updated: 1727340361163
+updated: 1730949244961
 created: 1724496310482
 ---
 
@@ -29,8 +29,8 @@ Interpersonal skills are `crucial` `for building and maintaining` `positive rela
    - ~~**Problem-Solving**: Identifying issues and generating solutions collaboratively.~~
    - ~~**Handling Criticism and Feedback**: Receiving feedback gracefully and providing constructive criticism.~~
 
-### 4. **Teamwork and Collaboration**
-   - **Building Trust**: Developing trust within teams for effective collaboration.
+### 4. ~~**Teamwork and Collaboration**
+   - ~~**Building Trust**: Developing trust within teams for effective collaboration.~~
    - **Facilitating Group Discussions**: Leading and participating in productive meetings.
    - **Delegation**: Assigning tasks appropriately and managing team workload.
    - **Encouraging Participation**: Ensuring all team members feel valued and heard.
