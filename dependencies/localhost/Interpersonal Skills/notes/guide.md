@@ -2,7 +2,7 @@
 id: w8szmjqfo1r4i1o6s7i9f3n
 title: Guide
 desc: ''
-updated: 1731993677855
+updated: 1732084473470
 created: 1724496310482
 ---
 
@@ -33,7 +33,7 @@ Interpersonal skills are `crucial` `for building and maintaining` `positive rela
    - ~~**Building Trust**: Developing trust within teams for effective collaboration.~~
    - ~~**Facilitating Group Discussions**: Leading and participating in productive meetings~~.
    - ~~**Delegation**: Assigning tasks appropriately and managing team workload.~~
-   - **Encouraging Participation**: Ensuring all team members feel valued and heard.
+   - ~~**Encouraging Participation**: Ensuring all team members feel valued and heard.~~
    - **Decision-Making**: Involving team members in the decision-making process.
 
 ### 5. **Networking Skills**
