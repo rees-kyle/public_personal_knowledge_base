@@ -2,7 +2,7 @@
 id: w8szmjqfo1r4i1o6s7i9f3n
 title: Guide
 desc: ''
-updated: 1732179405358
+updated: 1732698753320
 created: 1724496310482
 ---
 
@@ -36,8 +36,8 @@ Interpersonal skills are `crucial` `for building and maintaining` `positive rela
    - ~~**Encouraging Participation**: Ensuring all team members feel valued and heard.~~
    - ~~**Decision-Making**: Involving team members in the decision-making process.~~
 
-### 5. **Networking Skills**
-   - **Building Professional Relationships**: Developing a network of contacts for support and opportunities.
+### 5. ~~**Networking Skills**
+   - ~~**Building Professional Relationships**: Developing a network of contacts for support and opportunities.~~
    - **Leveraging Social Media**: Using platforms like LinkedIn for professional networking.
    - **Mentorship**: Finding mentors and becoming a mentor to others.
    - **Building Rapport**: Creating meaningful connections quickly and effectively.
