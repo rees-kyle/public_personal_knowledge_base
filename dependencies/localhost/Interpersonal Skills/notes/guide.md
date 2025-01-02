@@ -2,7 +2,7 @@
 id: w8szmjqfo1r4i1o6s7i9f3n
 title: Guide
 desc: ''
-updated: 1735782893713
+updated: 1735785585343
 created: 1724496310482
 ---
 
@@ -49,7 +49,7 @@ Interpersonal skills are `crucial` `for building and maintaining` `positive rela
 
 ### 7. ~~**Assertiveness**
    - ~~**Setting Boundaries**: Communicating your needs and limitations respectfully.~~
-   - **Confidence in Communication**: Speaking up for yourself while respecting others.
+   - ~~**Confidence in Communication**: Speaking up for yourself while respecting others.~~
    - **Persuasion**: Convincing others to see your point of view without aggression.
 
 ### 8. **Leadership and Influence**
