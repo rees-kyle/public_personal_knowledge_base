@@ -2,7 +2,7 @@
 id: w8szmjqfo1r4i1o6s7i9f3n
 title: Guide
 desc: ''
-updated: 1735785585343
+updated: 1735875759295
 created: 1724496310482
 ---
 
@@ -47,12 +47,12 @@ Interpersonal skills are `crucial` `for building and maintaining` `positive rela
    - ~~**Adapting Communication Styles**: Adjusting your communication style to different people and situations.~~
    - ~~**Dealing with Change**: Managing personal and professional changes effectively.~~
 
-### 7. ~~**Assertiveness**
+### 7. ~~**Assertiveness**~~
    - ~~**Setting Boundaries**: Communicating your needs and limitations respectfully.~~
    - ~~**Confidence in Communication**: Speaking up for yourself while respecting others.~~
-   - **Persuasion**: Convincing others to see your point of view without aggression.
+   - ~~**Persuasion**: Convincing others to see your point of view without aggression.~~
 
-### 8. **Leadership and Influence**
+### 8. ~~**Leadership and Influence**
    - **Motivating Others**: Inspiring and motivating individuals and teams.
    - **Influence Without Authority**: Persuading others even when not in a position of power.
    - **Mentoring and Coaching**: Guiding others to improve their skills and achieve their goals.
