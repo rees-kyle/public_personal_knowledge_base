@@ -2,7 +2,7 @@
 id: w8szmjqfo1r4i1o6s7i9f3n
 title: Guide
 desc: ''
-updated: 1735958650728
+updated: 1736306557408
 created: 1724496310482
 ---
 
@@ -54,7 +54,7 @@ Interpersonal skills are `crucial` `for building and maintaining` `positive rela
 
 ### 8. ~~**Leadership and Influence**
    - ~~**Motivating Others**: Inspiring and motivating individuals and teams.~~
-   - **Influence Without Authority**: Persuading others even when not in a position of power.
+   - ~~**Influence Without Authority**: Persuading others even when not in a position of power.~~
    - **Mentoring and Coaching**: Guiding others to improve their skills and achieve their goals.
 
 ### 9. **Building and Maintaining Relationships**
