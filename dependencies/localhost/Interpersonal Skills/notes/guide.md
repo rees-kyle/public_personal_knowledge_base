@@ -2,7 +2,7 @@
 id: w8szmjqfo1r4i1o6s7i9f3n
 title: Guide
 desc: ''
-updated: 1736310547189
+updated: 1736392373219
 created: 1724496310482
 ---
 
@@ -57,8 +57,8 @@ Interpersonal skills are `crucial` `for building and maintaining` `positive rela
    - ~~**Influence Without Authority**: Persuading others even when not in a position of power.~~
    - ~~**Mentoring and Coaching**: Guiding others to improve their skills and achieve their goals.~~
 
-### 9. **Building and Maintaining Relationships**
-   - **Relationship Management**: Maintaining professional and personal relationships.
+### 9. ~~**Building and Maintaining Relationships**
+   - ~~**Relationship Management**: Maintaining professional and personal relationships.~~
    - **Trust Building**: Creating and sustaining trust in professional and personal settings.
    - **Positive Attitude**: Maintaining a positive outlook and influencing others positively.
 
