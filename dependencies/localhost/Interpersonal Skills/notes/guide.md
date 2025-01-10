@@ -2,7 +2,7 @@
 id: w8szmjqfo1r4i1o6s7i9f3n
 title: Guide
 desc: ''
-updated: 1736392373219
+updated: 1736481918484
 created: 1724496310482
 ---
 
@@ -59,7 +59,7 @@ Interpersonal skills are `crucial` `for building and maintaining` `positive rela
 
 ### 9. ~~**Building and Maintaining Relationships**
    - ~~**Relationship Management**: Maintaining professional and personal relationships.~~
-   - **Trust Building**: Creating and sustaining trust in professional and personal settings.
+   - ~~**Trust Building**: Creating and sustaining trust in professional and personal settings.~~
    - **Positive Attitude**: Maintaining a positive outlook and influencing others positively.
 
 ### 10. **Customer Service and Client Relations**
