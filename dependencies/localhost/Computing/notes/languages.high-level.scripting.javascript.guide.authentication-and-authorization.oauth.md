@@ -2,7 +2,7 @@
 id: 7k22mb0lpja67c4xflmcc69
 title: 2 - Oauth
 desc: ''
-updated: 1718057239163
+updated: 1736667586893
 created: 1718043374493
 ---
 
@@ -34,7 +34,7 @@ An open standard **is a** `set of` `rules or guidelines` **that** `anyone` `can 
 
 <!-- start of 'client' section -->
 <details>
-    <summary>Definition: client</summary>
+    <summary>Definition: client (computer science)</summary>
 
 #
 A client **is a** `device or program` **that** `requests` `services or resources from` **a** `server in` **a** `network`. For example, **a web browser is a client that requests web pages from web servers**.

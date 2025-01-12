@@ -2,7 +2,7 @@
 id: k3xx5ykkmipnzcrqzlq6002
 title: 015 - Additional Concepts
 desc: ''
-updated: 1705700759666
+updated: 1736665697858
 created: 1705251063807
 ---
 
@@ -71,7 +71,7 @@ Note that `HTML Imports`, once a feature in web components, **have been** `depre
 
 <!-- start of 'deprecated' section -->
 <details>
-   <summary>Defintion: deprecated</summary>
+   <summary>Definition: deprecated</summary>
 
 #
 "Deprecated" **means** `something` **in software is** `outdated` **and** `not recommended` **for use anymore**. Developers are `advised` **to** `use` `newer` **and** `better` `alternatives` `because` **the deprecated** `feature` `may be` `removed` **or** `unsupported` **in the** `future`. 
