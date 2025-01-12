@@ -2,7 +2,7 @@
 id: w8szmjqfo1r4i1o6s7i9f3n
 title: Guide
 desc: ''
-updated: 1736592111311
+updated: 1736671956834
 created: 1724496310482
 ---
 
@@ -62,8 +62,8 @@ Interpersonal skills are `crucial` `for building and maintaining` `positive rela
    - ~~**Trust Building**: Creating and sustaining trust in professional and personal settings.~~
    - ~~**Positive Attitude**: Maintaining a positive outlook and influencing others positively.~~
 
-### 10. **Customer Service and Client Relations**
-   - **Understanding Client Needs**: Listening and responding to client needs effectively.
+### 10. ~~**Customer Service and Client Relations**
+   - ~~**Understanding Client Needs**: Listening and responding to client needs effectively.~~
    - **Managing Expectations**: Setting and managing expectations in professional relationships.
    - **Resolving Client Issues**: Handling complaints and conflicts with clients or customers.
 
