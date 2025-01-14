@@ -2,7 +2,7 @@
 id: w8szmjqfo1r4i1o6s7i9f3n
 title: Guide
 desc: ''
-updated: 1736671956834
+updated: 1736871610805
 created: 1724496310482
 ---
 
@@ -64,7 +64,7 @@ Interpersonal skills are `crucial` `for building and maintaining` `positive rela
 
 ### 10. ~~**Customer Service and Client Relations**
    - ~~**Understanding Client Needs**: Listening and responding to client needs effectively.~~
-   - **Managing Expectations**: Setting and managing expectations in professional relationships.
+   - ~~**Managing Expectations**: Setting and managing expectations in professional relationships.~~
    - **Resolving Client Issues**: Handling complaints and conflicts with clients or customers.
 
 ### 11. **Influence and Persuasion**
