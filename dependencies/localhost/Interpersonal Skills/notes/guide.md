@@ -2,7 +2,7 @@
 id: w8szmjqfo1r4i1o6s7i9f3n
 title: Guide
 desc: ''
-updated: 1736944754306
+updated: 1737404244779
 created: 1724496310482
 ---
 
@@ -67,8 +67,8 @@ Interpersonal skills are `crucial` `for building and maintaining` `positive rela
    - ~~**Managing Expectations**: Setting and managing expectations in professional relationships.~~
    - ~~**Resolving Client Issues**: Handling complaints and conflicts with clients or customers.~~
 
-### 11. **Influence and Persuasion**
-   - **Understanding Persuasion Techniques**: Learning how to persuade and influence others ethically.
+### 11. ~~**Influence and Persuasion**
+   - ~~**Understanding Persuasion Techniques**: Learning how to persuade and influence others ethically.~~
    - **Storytelling**: Using stories to make a point and persuade an audience.
    - **Framing and Reframing**: Presenting ideas in a way that changes perception.
 
