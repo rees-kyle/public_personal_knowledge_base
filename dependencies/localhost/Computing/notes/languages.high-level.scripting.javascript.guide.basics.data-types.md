@@ -2,7 +2,7 @@
 id: ei85jyi7ztr8eyskbohe5vu
 title: 2 - Data Types
 desc: ''
-updated: 1712694611445
+updated: 1737362255951
 created: 1712690993325
 ---
 
@@ -88,10 +88,10 @@ In computing, a procedure **is a** `named sequence` **of** `instructions` **or**
 
 <!-- start of 'manipulation' section -->
 <details>
-    <summary>Definition: manipulation</summary>
+    <summary>Definition: manipulation (in data science)</summary>
 
 #
-Manipulation means changing or handling something to get a desired result.
+Manipulation **means** `changing or handling something` `to get a desired result`.
 
 ---
 </details>
