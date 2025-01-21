@@ -2,7 +2,7 @@
 id: n1ovnj9dwgnym03mzy1e7lr
 title: 1 - Understanding Persuasion Techniques
 desc: ''
-updated: 1737406307542
+updated: 1737493376921
 created: 1737014301477
 ---
 
@@ -565,19 +565,6 @@ Reciprocate **means** `to return a favor` `or respond in kind`.
 
 - **Commitment and Consistency**
    - **Individuals strive for consistency** `in` **their** `actions and decisions`. `When someone` `makes a commitment`, **even a small one**, `they are more likely` `to follow through` **with actions that align with that commitment** `to maintain a positive self-image`.
-
-
-
-<!-- start of 'individuals' section -->
-<details>
-    <summary>Definition: individuals</summary>
-
-#
-Individuals **are** `single persons`.
-
----
-</details>
-<!-- end of 'individuals' section -->
 
 
 

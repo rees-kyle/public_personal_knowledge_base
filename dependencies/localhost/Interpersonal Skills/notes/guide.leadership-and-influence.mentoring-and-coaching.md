@@ -2,7 +2,7 @@
 id: sbmjjymrorb5pp0vv96vd9t
 title: 3 - Mentoring and Coaching
 desc: ''
-updated: 1736310192498
+updated: 1737493800729
 created: 1736306730917
 ---
 
@@ -216,7 +216,7 @@ Imaginative **means** `having` `the ability` `to think of` `new and original ide
     <summary>Definition: visionary</summary>
 
 #
-Visionary **means** `having` `a clear`, `unique`, **and often** `forward-thinking` `idea or plan for` `the future`.
+Visionary **means** `having` `a clear`, `unique`, **and often** `forward-thinking` `idea or plan` `for the future`.
 
 ---
 </details>
