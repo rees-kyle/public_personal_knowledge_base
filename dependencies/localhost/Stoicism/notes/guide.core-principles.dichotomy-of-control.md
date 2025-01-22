@@ -2,7 +2,7 @@
 id: 462wj8nst4iwayjnd70rx2j
 title: 2 - Dichotomy of Control
 desc: ''
-updated: 1721236010393
+updated: 1737543933546
 created: 1721232370775
 ---
 
@@ -66,7 +66,7 @@ A tenet **is a** `principle or belief` **that is** `accepted as` `true`, **espec
     <summary>Definition: influence</summary>
 
 #
-**The** `power` `to affect or change` `someone or something`.
+`The power` `to affect or change` `someone or something`.
 
 ---
 </details>
