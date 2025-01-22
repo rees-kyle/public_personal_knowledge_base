@@ -2,7 +2,7 @@
 id: w8szmjqfo1r4i1o6s7i9f3n
 title: Guide
 desc: ''
-updated: 1737538778525
+updated: 1737559151845
 created: 1724496310482
 ---
 
@@ -67,26 +67,16 @@ Interpersonal skills are `crucial` `for building and maintaining` `positive rela
    - ~~**Managing Expectations**: Setting and managing expectations in professional relationships.~~
    - ~~**Resolving Client Issues**: Handling complaints and conflicts with clients or customers.~~
 
-### 11. ~~**Influence and Persuasion**
+### 11. ~~**Influence and Persuasion**~~
    - ~~**Understanding Persuasion Techniques**: Learning how to persuade and influence others ethically.~~
    - ~~**Storytelling**: Using stories to make a point and persuade an audience.~~
-   - **Framing and Reframing**: Presenting ideas in a way that changes perception.
+   - ~~**Framing and Reframing**: Presenting ideas in a way that changes perception.~~
 
-### 12. **Personal Development**
-   - **Self-Improvement**: Continuously developing your own skills and knowledge.
-   - **Stress Management**: Handling stress and maintaining composure in challenging situations.
-   - **Mindfulness and Self-Reflection**: Practicing mindfulness to improve focus and self-awareness.
-
-### 13. **Time Management and Organizational Skills**
-   - **Prioritization**: Identifying and focusing on the most important tasks.
-   - **Goal Setting**: Setting and achieving both short-term and long-term goals.
-   - **Delegation and Accountability**: Assigning tasks appropriately and taking responsibility for outcomes.
-
-### 14. **Feedback and Coaching**
+### 12. **Feedback and Coaching**
    - **Providing Constructive Feedback**: Giving feedback that is specific, actionable, and respectful.
    - **Receiving Feedback Positively**: Accepting and learning from criticism.
 
-### 15. **Diversity and Inclusion**
+### 13. **Diversity and Inclusion**
    - **Respect for Diversity**: Understanding and respecting differences in race, gender, age, and other factors.
    - **Inclusive Communication**: Communicating in a way that includes everyone and avoids bias.
 
