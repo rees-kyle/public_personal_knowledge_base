@@ -2,7 +2,7 @@
 id: ashsaim3ppktcsbm4112wod
 title: 012 - CSS Frameworks
 desc: ''
-updated: 1712169492654
+updated: 1737654007870
 created: 1712152373708
 ---
 
@@ -40,7 +40,7 @@ Modular **refers to the** `quality` **of** `being` `composed` **of** `separate`,
 
 <!-- start of 'composed' section -->
 <details>
-    <summary>Definition: composed</summary>
+    <summary>Definition: composed (in software engineering)</summary>
 
 #
 Composed **means to** `put together` **or** `combine` `different` `elements` **to** `create` **a** `whole`. **In** the context of **web development or modular design**, it **refers to** `assembling` `separate parts` **or** `components` **to** `form` **a** `complete` `user interface` **or** `system`.

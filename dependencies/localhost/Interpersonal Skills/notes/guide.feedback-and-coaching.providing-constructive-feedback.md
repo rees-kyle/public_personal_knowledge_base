@@ -2,7 +2,7 @@
 id: 2a6zr6iefm38mfyctroa8zx
 title: 1 - Providing Constructive Feedback
 desc: ''
-updated: 1737634214594
+updated: 1737655664260
 created: 1737559785252
 ---
 
@@ -327,19 +327,6 @@ Needs **means** `requires` `or is necessary`.
 ---
 </details>
 <!-- end of 'needs' section -->
-
-
-
-<!-- start of 'improvement' section -->
-<details>
-  <summary>Definition: improvement</summary>
-
-#
-Improvement **means** `making` `something` `better`.
-
----
-</details>
-<!-- end of 'improvement' section -->
 
 
 
@@ -919,7 +906,7 @@ Well-structured **means** `organized in` `a clear and effective way`.
   <summary>Definition: you</summary>
 
 #
-You **refers to** `the person` `being spoken to`.  
+"You" **is** `a pronoun` **used** `to refer to` `the person or people` `being addressed`. 
 
 ---
 </details>
@@ -1717,19 +1704,6 @@ Conclusion **refers to** `the final part` `or summary` `of something`.
 ---
 </details>
 <!-- end of 'conclusion' section -->
-
-
-
-<!-- start of 'providing' section -->
-<details>
-  <summary>Definition: providing</summary>
-
-#
-Providing **means** `giving or supplying` `something`.  
-
----
-</details>
-<!-- end of 'providing' section -->
 
 
 
