@@ -2,7 +2,7 @@
 id: w8szmjqfo1r4i1o6s7i9f3n
 title: Guide
 desc: ''
-updated: 1737636738036
+updated: 1737736580939
 created: 1724496310482
 ---
 
@@ -72,20 +72,20 @@ Interpersonal skills are `crucial` `for building and maintaining` `positive rela
    - ~~**Storytelling**: Using stories to make a point and persuade an audience.~~
    - ~~**Framing and Reframing**: Presenting ideas in a way that changes perception.~~
 
-### 12. ~~**Feedback and Coaching**
+### 12. ~~**Feedback and Coaching**~~
    - ~~**Providing Constructive Feedback**: Giving feedback that is specific, actionable, and respectful.~~
-   - ~~**Receiving Feedback Positively**: Accepting and learning from criticism.
+   - ~~**Receiving Feedback Positively**: Accepting and learning from criticism.~~
 
-### 13. **Diversity and Inclusion**
-   - **Respect for Diversity**: Understanding and respecting differences in race, gender, age, and other factors.
+### 13. ~~**Diversity and Inclusion**
+   - ~~**Respect for Diversity**: Understanding and respecting differences in race, gender, age, and other factors.~~
    - **Inclusive Communication**: Communicating in a way that includes everyone and avoids bias.
 
 ### How to Get Started
 
-1. **Self-Assessment**: Start by assessing your current strengths and areas for improvement in interpersonal skills.
-2. **Learning Resources**: Use books, online courses, and workshops to develop specific skills.
-3. **Practice**: Regularly practice these skills in everyday interactions, both personally and professionally.
-4. **Seek Feedback**: Ask for feedback from peers, mentors, and supervisors to identify areas for improvement.
-5. **Reflect**: Reflect on your interactions and consider what you did well and what you could improve.
+1. **Self-Assessment**: `Start by assessing` **your** `current strengths` `and areas for improvement` in interpersonal skills.
+2. **Learning Resources**: Use `books`, `online courses`, **and** `workshops` `to develop` `specific skills`.
+3. **Practice**: `Regularly` practice these skills `in everyday interactions`, **both** `personally and professionally`.
+4. **Seek Feedback**: Ask for feedback `from peers`, `mentors`, `and supervisors` `to identify` `areas for improvement`.
+5. **Reflect**: Reflect `on your interactions` `and consider` `what you did well` `and what you could improve`.
 
-By focusing on these topics, you can build a strong foundation in interpersonal skills that will enhance your personal and professional relationships.
+By focusing on these topics, you **can** `build` `a strong foundation in` `interpersonal skills` **that will** `enhance` **your** `personal and professional` `relationships`.
