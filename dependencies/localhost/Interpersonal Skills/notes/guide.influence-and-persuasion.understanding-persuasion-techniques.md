@@ -2,7 +2,7 @@
 id: n1ovnj9dwgnym03mzy1e7lr
 title: 1 - Understanding Persuasion Techniques
 desc: ''
-updated: 1737493376921
+updated: 1737734470411
 created: 1737014301477
 ---
 
@@ -1066,7 +1066,7 @@ Influenced **means** `affected or changed` `by something`.
 
 <!-- start of 'like' section -->
 <details>
-    <summary>Definition: like</summary>
+    <summary>Definition: like (in psychology)</summary>
 
 #
 Like **means** `to have a preference for` `or enjoy` `something`.

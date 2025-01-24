@@ -2,7 +2,7 @@
 id: 2a6zr6iefm38mfyctroa8zx
 title: 1 - Providing Constructive Feedback
 desc: ''
-updated: 1737655664260
+updated: 1737733680945
 created: 1737559785252
 ---
 
@@ -515,19 +515,6 @@ Motivates **means** `to inspire or stimulate` `action`.
 ---
 </details>
 <!-- end of 'motivates' section -->
-
-
-
-<!-- start of 'encourages' section -->
-<details>
-  <summary>Definition: encourages</summary>
-
-#
-Encourages **means** `to give` `support or confidence`.  
-
----
-</details>
-<!-- end of 'encourages' section -->
 
 
 
