@@ -2,7 +2,7 @@
 id: w8szmjqfo1r4i1o6s7i9f3n
 title: Guide
 desc: ''
-updated: 1737736580939
+updated: 1737842951717
 created: 1724496310482
 ---
 
@@ -76,9 +76,9 @@ Interpersonal skills are `crucial` `for building and maintaining` `positive rela
    - ~~**Providing Constructive Feedback**: Giving feedback that is specific, actionable, and respectful.~~
    - ~~**Receiving Feedback Positively**: Accepting and learning from criticism.~~
 
-### 13. ~~**Diversity and Inclusion**
+### 13. ~~**Diversity and Inclusion**~~
    - ~~**Respect for Diversity**: Understanding and respecting differences in race, gender, age, and other factors.~~
-   - **Inclusive Communication**: Communicating in a way that includes everyone and avoids bias.
+   - ~~**Inclusive Communication**: Communicating in a way that includes everyone and avoids bias.~~
 
 ### How to Get Started
 
