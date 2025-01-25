@@ -2,7 +2,7 @@
 id: 2a6zr6iefm38mfyctroa8zx
 title: 1 - Providing Constructive Feedback
 desc: ''
-updated: 1737733680945
+updated: 1737838057088
 created: 1737559785252
 ---
 
@@ -1313,7 +1313,7 @@ Give **means** `to present or provide` `something` `to someone`.
   <summary>Definition: as</summary>
 
 #
-"As" **is** `a conjunction` **used** `to show the relationship` `between` `two actions or events`.  
+"As" **is** `a conjunction` **used** `to show the relationship` `between` `two actions or events`. Example: "I listened to music as I worked." It Shows that the two actions happened at the same time.
 
 ---
 </details>

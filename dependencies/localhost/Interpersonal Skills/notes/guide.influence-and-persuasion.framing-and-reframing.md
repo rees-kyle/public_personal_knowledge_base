@@ -2,7 +2,7 @@
 id: e68z7vxvi4zbiwx7wuh3v20
 title: 3 - Framing and Reframing
 desc: ''
-updated: 1737558889229
+updated: 1737837962632
 created: 1737538900222
 ---
 
@@ -259,7 +259,7 @@ Option **is** `a choice or alternative` `available` `in a situation`.
   <summary>Definition: as</summary>
 
 #
-As **is used** `to indicate` `a comparison or similarity`.  
+As **is used** `to indicate` `a comparison or similarity`. Example: "She is as tall as her brother." It shows a comparison between two things.
 
 ---
 </details>
@@ -1109,19 +1109,6 @@ Responses **are** `reactions or replies to` `a stimulus or situation`.
 
 
 - `Helps in` `conflict resolution` `by altering viewpoints`.
-
-
-
-<!-- start of 'helps' section -->
-<details>
-  <summary>Definition: helps</summary>
-
-#
-Helps **means** `to assist` `or make something easier`.
-
----
-</details>
-<!-- end of 'helps' section -->
 
 
 
