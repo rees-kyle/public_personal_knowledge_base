@@ -2,7 +2,7 @@
 id: 01b6no6m0vu9dmezvbiuqwd
 title: 3 - State Management in Functional Components
 desc: ''
-updated: 1727314890032
+updated: 1738598741420
 created: 1727313319389
 ---
 
@@ -92,7 +92,7 @@ function UserSettings() {
 }
 ```
 
-**Here**, **'setSettings' updates only the 'theme' property**, **while keeping the 'notifications' property unchanged by spreading 'settings'**
+**Here**, **'setSettings' updates only the 'theme' property**, **while keeping the 'notifications' property unchanged by spreading 'settings'**.
 
 ### **Why State Management is Important:**
 - It allows you `to create` `dynamic and interactive` `user interfaces`.
