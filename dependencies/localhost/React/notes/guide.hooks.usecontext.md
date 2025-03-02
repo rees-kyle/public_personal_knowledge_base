@@ -2,7 +2,7 @@
 id: 3boy6z339ffqngws8xontma
 title: 3 - useContext
 desc: ''
-updated: 1729076725154
+updated: 1740591404508
 created: 1729075424150
 ---
 
@@ -32,17 +32,17 @@ In React, 'useContext' **is a powerful** `Hook` `for managing` `global state`, *
 
     // Define the GlobalStateProvider component to wrap around parts of your app
     const GlobalStateProvider = ({ children }) => {
-    // useState manages the global state, starting with 'user' set to null
-    const [state, setState] = useState({
-        user: null, // Example state (could be user data, theme settings, etc.)
-    });
+        // useState manages the global state, starting with 'user' set to null
+        const [state, setState] = useState({
+            user: null, // Example state (could be user data, theme settings, etc.)
+        });
 
-    return (
+        return (
         // Provide the global state (state, setState) to any child component that needs it
         <GlobalStateContext.Provider value={{ state, setState }}>
-        {children} {/* Render any child components inside the provider */}
+            {children} {/* Render any child components inside the provider */}
         </GlobalStateContext.Provider>
-    );
+        );
     };
 
     // Export the provider and the context for use in other components
