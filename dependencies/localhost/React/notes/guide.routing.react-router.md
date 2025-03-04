@@ -2,7 +2,7 @@
 id: cjb496fv00la8awcfqh8ave
 title: 1 - React Router
 desc: ''
-updated: 1729165159596
+updated: 1741055374493
 created: 1729162327379
 ---
 
@@ -67,28 +67,32 @@ export default Dashboard; // Export the Dashboard component as the default expor
 
 #### App.js:
 ```jsx
-import Dashboard from "./components/Dashboard"; // Import the Dashboard component
-import Profile from "./components/Profile"; // Import the Profile component
-import Settings from "./components/Settings"; // Import the Settings component
+import React from "react";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Home from "./components/Home";
+import About from "./components/About";
+import Dashboard from "./components/Dashboard";
+import Profile from "./components/Profile";
+import Settings from "./components/Settings";
 
 function App() {
   return (
     <Router> {/* Wrap the application with the Router component to enable routing */}
       <Routes> {/* Define all routes within the Routes component */}
-        <Route path="/" element={<Home />} /> {/* Route for the Home component at the root path "/" */}
-        <Route path="/about" element={<About />} /> {/* Route for the About component at "/about" */}
-        
+        <Route path="/" element={<Home />} />
+        <Route path="/about" element={<About />} />
+
         {/* Nested routes under the Dashboard */}
-        <Route path="/dashboard" element={<Dashboard />}> {/* Dashboard route at "/dashboard" */}
-          <Route path="profile" element={<Profile />} /> {/* Nested route for Profile inside Dashboard at "/dashboard/profile" */}
-          <Route path="settings" element={<Settings />} /> {/* Nested route for Settings inside Dashboard at "/dashboard/settings" */}
+        <Route path="/dashboard" element={<Dashboard />}>
+          <Route path="profile" element={<Profile />} />
+          <Route path="settings" element={<Settings />} />
         </Route>
       </Routes>
     </Router>
   );
 }
 
-export default App; // Export the App component as the default export
+export default App;
 ```
 - `Outlet` **is** `used in` **the** `parent route` '**Dashboard.js**' `to render` `child routes` ('**Profile.js**, '**Settings.js**').
 - The `child routes` **are** `nested inside` '**/dashboard**'` with their respective paths.
