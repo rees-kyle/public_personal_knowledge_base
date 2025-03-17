@@ -2,7 +2,7 @@
 id: cbbu9ipou2sgya25uptm52p
 title: 1 - Controlled Vs Uncontrolled Components
 desc: ''
-updated: 1729793299629
+updated: 1741836189879
 created: 1729252673517
 ---
 
@@ -17,11 +17,11 @@ In React, `forms` **can be** `managed` `using` **either** `controlled` `or` `unc
   - **You** `handle` `changes to` **the** `input field` `by updating` **the** `state` `through` **an** `event handler`.
 
 - **Example**:
-    ```jsx
-    import React, { useState } from 'react';
+```jsx
+import React, { useState } from 'react';
 
-    // Define the ControlledForm component
-    function ControlledForm() {
+// Define the ControlledForm component
+function ControlledForm() {
     // Declare a state variable 'inputValue' to hold the input field value
     const [inputValue, setInputValue] = useState('');
 
@@ -39,18 +39,18 @@ In React, `forms` **can be** `managed` `using` **either** `controlled` `or` `unc
     // Render the form
     return (
         <form onSubmit={handleSubmit}> {/* Attach handleSubmit to form's onSubmit event */}
-        <input 
-            type="text" 
-            value={inputValue} // Bind input value to the state variable 'inputValue'
-            onChange={handleChange} // Attach handleChange to input's onChange event
-        />
-        <button type="submit">Submit</button> {/* Button to submit the form */}
+            <input 
+                type="text" 
+                value={inputValue} // Bind input value to the state variable 'inputValue'
+                onChange={handleChange} // Attach handleChange to input's onChange event
+            />
+            <button type="submit">Submit</button> {/* Button to submit the form */}
         </form>
     );
-    }
+}
 
-    export default ControlledForm; // Export the component for use in other files
-    ```
+export default ControlledForm; // Export the component for use in other files
+```
 
 - **Advantages**:
   - `Easier to` `manage and validate` `form data`.
