@@ -2,7 +2,7 @@
 id: wqrll1dxsk3be3tuml27spr
 title: 3 - Emotion
 desc: ''
-updated: 1729966077069
+updated: 1743605955922
 created: 1729963268332
 ---
 
@@ -84,6 +84,7 @@ export default App; // Exporting the App component for use in other parts of the
 `Emotion supports` `themes` **that can be** `passed through` **React’s** `ThemeProvider`:
 ```javascript
 import { ThemeProvider } from '@emotion/react';  // Importing ThemeProvider from Emotion to manage themes
+import styled from '@emotion/styled'; // Import styled from Emotion
 
 // Defining a theme object with primary and secondary colors
 const theme = {
