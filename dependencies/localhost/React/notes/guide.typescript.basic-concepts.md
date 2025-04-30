@@ -2,7 +2,7 @@
 id: h961wlny7a3m7q9a8xmdmsb
 title: 1 - Basic Concepts
 desc: ''
-updated: 1730760359329
+updated: 1745453174505
 created: 1730573136996
 ---
 
@@ -64,8 +64,10 @@ const MyComponent = ({ message }: MyComponentProps) => {
     // Define the Button component, typing its props with ButtonProps
     const Button: React.FC<ButtonProps> = ({ label, onClick }) => {
     // Renders a button element with an onClick event and label
-    return <button onClick={onClick}>{label}</button>;
+    return <button type="button" onClick={onClick}>{label}</button>;
     };
+
+    export default Button;
      ```
 
 ### 4. **Using 'useState' with Types**
