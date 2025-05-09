@@ -1,6 +1,10 @@
 {
     "folders": [
         {
+            "path": "dependencies/localhost/React Native/notes",
+            "name": "React Native"
+        },
+        {
             "path": "dependencies/localhost/React/notes",
             "name": "React"
         },

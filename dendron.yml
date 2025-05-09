@@ -23,6 +23,10 @@ commands:
 workspace:
     vaults:
         -
+            fsPath: dependencies/localhost/React Native
+            selfContained: true
+            name: React Native
+        -
             fsPath: dependencies/localhost/React
             selfContained: true
             name: React
@@ -205,3 +209,4 @@ publishing:
             - Flowcharts
             - Interpersonal Skills
             - React
+            - React Native
