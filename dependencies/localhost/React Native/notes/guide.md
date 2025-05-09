@@ -2,7 +2,7 @@
 id: exddiilte6tc5mz0qhgvl8r
 title: Guide
 desc: ''
-updated: 1746759738106
+updated: 1746760698426
 created: 1746749576185
 ---
 
@@ -12,7 +12,7 @@ Since you already know **HTML, CSS, JS, and React**, you can **skip** the fundam
 
 1. ~~**Setup & Environment**
     - ~~Installing React Native CLI or using Expo~~
-    - Differences between Expo and React Native CLI
+    - ~~Differences between Expo and React Native CLI~~
     - Running apps on Android and iOS simulators/emulators
 
 #### Core Components 
