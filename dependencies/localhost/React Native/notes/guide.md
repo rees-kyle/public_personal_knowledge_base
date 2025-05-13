@@ -2,7 +2,7 @@
 id: exddiilte6tc5mz0qhgvl8r
 title: Guide
 desc: ''
-updated: 1746841412037
+updated: 1747113931522
 created: 1746749576185
 ---
 
@@ -15,11 +15,11 @@ Since you already know **HTML, CSS, JS, and React**, you can **skip** the fundam
     - ~~Differences between Expo and React Native CLI~~
     - ~~Running apps on Android and iOS simulators/emulators~~
 
-1.  **Core Components**
-    - View, Text, TextInput
-    - ScrollView, FlatList, SectionList
-    - Button, Pressable, TouchableOpacity
-    - Image
+1.  ~~**Core Components**~~
+    - ~~View, Text, TextInput~~
+    - ~~ScrollView, FlatList, SectionList~~
+    - ~~Button, Pressable, TouchableOpacity~~
+    - ~~Image~~
 
 1. **Styling in React Native**
     - Flexbox (similar to CSS but slightly different defaults)
