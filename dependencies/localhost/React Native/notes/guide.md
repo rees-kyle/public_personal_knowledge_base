@@ -2,7 +2,7 @@
 id: exddiilte6tc5mz0qhgvl8r
 title: Guide
 desc: ''
-updated: 1747113931522
+updated: 1747200866442
 created: 1746749576185
 ---
 
@@ -21,11 +21,11 @@ Since you already know **HTML, CSS, JS, and React**, you can **skip** the fundam
     - ~~Button, Pressable, TouchableOpacity~~
     - ~~Image~~
 
-1. **Styling in React Native**
-    - Flexbox (similar to CSS but slightly different defaults)
-    - Stylesheet.create vs inline styles
-    - No CSS files — all styling is JavaScript objects
-    - Platform-specific styling (iOS vs Android)
+1. ~~**Styling in React Native**~~
+    - ~~Flexbox (similar to CSS but slightly different defaults)~~
+    - ~~Stylesheet.create vs inline styles~~
+    - ~~No CSS files — all styling is JavaScript objects~~
+    - ~~Platform-specific styling (iOS vs Android)~~
 
 1. **React Navigation library**
     - Stack Navigator
