@@ -2,7 +2,7 @@
 id: exddiilte6tc5mz0qhgvl8r
 title: Guide
 desc: ''
-updated: 1747200866442
+updated: 1747612719473
 created: 1746749576185
 ---
 
@@ -27,11 +27,11 @@ Since you already know **HTML, CSS, JS, and React**, you can **skip** the fundam
     - ~~No CSS files — all styling is JavaScript objects~~
     - ~~Platform-specific styling (iOS vs Android)~~
 
-1. **React Navigation library**
-    - Stack Navigator
-    - Tab Navigator
-    - Drawer Navigator
-    - Passing params between screens
+1. ~~**React Navigation library**~~
+    - ~~Stack Navigator~~
+    - ~~Tab Navigator~~
+    - ~~Drawer Navigator~~
+    - ~~Passing params between screens~~
 
 1. **Platform APIs & Native Features**
     - Permissions and the 'PermissionsAndroid' API
