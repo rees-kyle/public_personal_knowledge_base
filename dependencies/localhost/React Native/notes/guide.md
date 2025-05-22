@@ -2,7 +2,7 @@
 id: exddiilte6tc5mz0qhgvl8r
 title: Guide
 desc: ''
-updated: 1747612719473
+updated: 1747886103006
 created: 1746749576185
 ---
 
@@ -33,10 +33,10 @@ Since you already know **HTML, CSS, JS, and React**, you can **skip** the fundam
     - ~~Drawer Navigator~~
     - ~~Passing params between screens~~
 
-1. **Platform APIs & Native Features**
-    - Permissions and the 'PermissionsAndroid' API
-    - Linking to other apps or URLs
-    - Using 'Platform' module (e.g., 'Platform.OS')
+1. ~~**Platform APIs & Native Features**~~
+    - ~~Permissions and the 'PermissionsAndroid' API~~
+    - ~~Linking to other apps or URLs~~
+    - ~~Using 'Platform' module (e.g., 'Platform.OS')~~
 
 1. **Native Modules and Third-party Libraries**
     - Using camera, GPS, device storage, etc.
