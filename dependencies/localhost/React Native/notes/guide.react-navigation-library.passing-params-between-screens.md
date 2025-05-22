@@ -1,8 +1,8 @@
 ---
 id: y422jaie61hhmb9w3o8biyj
-title: Passing Params between Screens
+title: 3 - Passing Params between Screens
 desc: ''
-updated: 1747613037889
+updated: 1747884448493
 created: 1747612596147
 ---
 
