@@ -2,7 +2,7 @@
 id: exddiilte6tc5mz0qhgvl8r
 title: Guide
 desc: ''
-updated: 1747886103006
+updated: 1748321074066
 created: 1746749576185
 ---
 
@@ -38,10 +38,10 @@ Since you already know **HTML, CSS, JS, and React**, you can **skip** the fundam
     - ~~Linking to other apps or URLs~~
     - ~~Using 'Platform' module (e.g., 'Platform.OS')~~
 
-1. **Native Modules and Third-party Libraries**
-    - Using camera, GPS, device storage, etc.
-    - Installing native dependencies via 'npm'/'yarn' and linking
-    - Expo APIs for sensors, media, notifications (if using Expo)
+1. ~~**Native Modules and Third-party Libraries**~~
+    - ~~Using camera, GPS, device storage, etc.~~
+    - ~~Installing native dependencies via 'npm'/'yarn' and linking~~
+    - ~~Expo APIs for sensors, media, notifications (if using Expo)~~
 
 1. **State & Context**
     - Reuse React knowledge (hooks, context, Redux if applicable)
