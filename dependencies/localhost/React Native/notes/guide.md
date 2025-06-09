@@ -2,7 +2,7 @@
 id: exddiilte6tc5mz0qhgvl8r
 title: Guide
 desc: ''
-updated: 1748321074066
+updated: 1749483248260
 created: 1746749576185
 ---
 
@@ -43,10 +43,10 @@ Since you already know **HTML, CSS, JS, and React**, you can **skip** the fundam
     - ~~Installing native dependencies via 'npm'/'yarn' and linking~~
     - ~~Expo APIs for sensors, media, notifications (if using Expo)~~
 
-1. **State & Context**
-    - Reuse React knowledge (hooks, context, Redux if applicable)
-    - AsyncStorage (for local key-value data)
-    - Secure storage options (Expo SecureStore, react-native-keychain)
+1. ~~**State & Context**~~
+    - ~~Reuse React knowledge (hooks, context, Redux if applicable)~~
+    - ~~AsyncStorage (for local key-value data)~~
+    - ~~Secure storage options (Expo SecureStore, react-native-keychain)~~
 
 1. **Networking**
     - 'fetch' or Axios for HTTP requests (same as React)
