@@ -2,7 +2,7 @@
 id: exddiilte6tc5mz0qhgvl8r
 title: Guide
 desc: ''
-updated: 1749483248260
+updated: 1749504372026
 created: 1746749576185
 ---
 
@@ -48,8 +48,8 @@ Since you already know **HTML, CSS, JS, and React**, you can **skip** the fundam
     - ~~AsyncStorage (for local key-value data)~~
     - ~~Secure storage options (Expo SecureStore, react-native-keychain)~~
 
-1. **Networking**
-    - 'fetch' or Axios for HTTP requests (same as React)
+1. ~~**Networking**
+    - ~~'fetch' or Axios for HTTP requests (same as React)~~
     - Handling offline mode (e.g., NetInfo API)
 
 1. **Animations**
