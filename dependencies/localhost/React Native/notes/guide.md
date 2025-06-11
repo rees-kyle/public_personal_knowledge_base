@@ -2,7 +2,7 @@
 id: exddiilte6tc5mz0qhgvl8r
 title: Guide
 desc: ''
-updated: 1749505513458
+updated: 1749661267389
 created: 1746749576185
 ---
 
@@ -52,10 +52,10 @@ Since you already know **HTML, CSS, JS, and React**, you can **skip** the fundam
     - ~~'fetch' or Axios for HTTP requests (same as React)~~
     - ~~Handling offline mode (e.g., NetInfo API)~~
 
-1. **Animations**
-    - LayoutAnimation
-    - Animated API (declarative)
-    - Reanimated (optional, advanced)
+1. ~~**Animations**~~
+    - ~~LayoutAnimation~~
+    - ~~Animated API (declarative)~~
+    - ~~Reanimated (optional, advanced)~~
 
 1. **Debugging & Testing**
     - Debugging with Flipper and React Native Debugger
