@@ -2,7 +2,7 @@
 id: exddiilte6tc5mz0qhgvl8r
 title: Guide
 desc: ''
-updated: 1749661267389
+updated: 1749741598761
 created: 1746749576185
 ---
 
@@ -57,10 +57,10 @@ Since you already know **HTML, CSS, JS, and React**, you can **skip** the fundam
     - ~~Animated API (declarative)~~
     - ~~Reanimated (optional, advanced)~~
 
-1. **Debugging & Testing**
-    - Debugging with Flipper and React Native Debugger
-    - Logging via Metro Bundler
-    - Testing using Jest, Detox, React Native Testing Library
+1. ~~**Debugging & Testing**~~
+    - ~~Debugging with Flipper and React Native Debugger~~
+    - ~~Logging via Metro Bundler~~
+    - ~~Testing using Jest, Detox, React Native Testing Library~~
 
 1. **Building & Deployment**
     - Building APK/IPA (Android/iOS binaries)
