@@ -2,7 +2,7 @@
 id: exddiilte6tc5mz0qhgvl8r
 title: Guide
 desc: ''
-updated: 1749862777696
+updated: 1750093504514
 created: 1746749576185
 ---
 
@@ -64,5 +64,5 @@ Since you already know **HTML, CSS, JS, and React**, you can **skip** the fundam
 
 1. ~~**Building & Deployment**
     - ~~Building APK/IPA (Android/iOS binaries)~~
-    - Code signing
+    - ~~Code signing~~
     - Publishing to Play Store / App Store
