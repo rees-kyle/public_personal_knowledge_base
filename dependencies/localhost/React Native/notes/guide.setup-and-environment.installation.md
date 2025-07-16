@@ -2,7 +2,7 @@
 id: 4qqeyk01s9382xg1krvw76n
 title: 1 - Installation
 desc: ''
-updated: 1746759570937
+updated: 1752676294603
 created: 1746751801737
 ---
 
@@ -32,7 +32,7 @@ cd MyApp
 npm start
 ```
 
-* `Opens` `Metro Bundler in` **the** `browser`.**
+* `Opens` `Metro Bundler in` **the** `browser`.
 * **Use** `Expo Go app` **on** your **phone** `to scan QR` `and run` **the** `app`.
 
 #### **2. React Native CLI (More Customizable, Native Code Access)**
