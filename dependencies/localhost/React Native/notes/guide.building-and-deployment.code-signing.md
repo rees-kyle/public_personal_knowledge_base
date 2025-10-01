@@ -2,7 +2,7 @@
 id: 0esc8tys8trj51xobrboxsj
 title: 2 - Code Signing
 desc: ''
-updated: 1750092584234
+updated: 1759242992051
 created: 1750090804900
 ---
 
@@ -10,7 +10,7 @@ Code signing is **the** `process of` `digitally signing` **your** `app's code or
 
 ### Why Code Signing is Important:
 
-* `Verifies` the `authenticity of` the `app`S
+* `Verifies` the `authenticity of` the `app`
 * `Ensures` `integrity` (**code hasn’t been modified after signing**)
 * `Required by` `Google Play Store` **and** `Apple App Store`
 * `Enables` `secure communication` **and** `user trust`
