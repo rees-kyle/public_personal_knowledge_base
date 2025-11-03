@@ -1,6 +1,10 @@
 {
     "folders": [
         {
+            "path": "dependencies/localhost/Mobile UI Design/notes",
+            "name": "Mobile UI Design"
+        },
+        {
             "path": "dependencies/localhost/React Native/notes",
             "name": "React Native"
         },

@@ -23,6 +23,10 @@ commands:
 workspace:
     vaults:
         -
+            fsPath: dependencies/localhost/Mobile UI Design
+            selfContained: true
+            name: Mobile UI Design
+        -
             fsPath: dependencies/localhost/React Native
             selfContained: true
             name: React Native
@@ -210,3 +214,4 @@ publishing:
             - Interpersonal Skills
             - React
             - React Native
+            - Mobile UI Design
