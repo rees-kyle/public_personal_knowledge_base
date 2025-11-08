@@ -2,7 +2,7 @@
 id: q1codqn5tngvl6j5booxtga
 title: Guide
 desc: ''
-updated: 1762215425648
+updated: 1762567376456
 created: 1762134735650
 ---
 
@@ -12,7 +12,7 @@ Since you already have a solid foundation in **HTML, CSS, JS, React, and React N
 
 ### **1. Android UI Principles & Guidelines**
 
-* ~~Material Design fundamentals (color, typography, shapes, motion)
+* ~~Material Design fundamentals (color, typography, shapes, motion)~~
 * Android-specific design guidelines (Android Developers’ Material Design guidelines)
 * Understanding density-independent pixels (dp) and scalable pixels (sp)
 * Adaptive layouts for different screen sizes and resolutions

@@ -2,7 +2,7 @@
 id: g870g7waa6tl0x8o0eentws
 title: 1 - Material Design Fundamentals
 desc: ''
-updated: 1762220173396
+updated: 1762468663247
 created: 1762200823432
 ---
 
@@ -441,19 +441,19 @@ In `Material 3`, the `default typeface is` `Roboto or Noto`, **but** `custom fon
 
 ### 1.5 Shape, Elevation, and Depth
 
-Material Design uses **depth** as a metaphor for structure.
-Each UI element exists on a different layer in a three-dimensional “space,” and its **elevation** determines its shadow and importance.
+**Material Design uses** `depth` **as a metaphor** `for structure`.
+`Each UI element` **exists on** `a different layer` in a three-dimensional “space,” and `its elevation` `determines` **its** `shadow and importance`.
 
 #### Elevation (measured in dp)
 
-* A **surface** (like the background) has 0 dp elevation.
-* A **card** might have 1–4 dp.
-* A **floating action button (FAB)** might have 6 dp or more.
-* A **dialog** or **modal sheet** appears at a much higher elevation, such as 24 dp.
+* A `surface` (like the **background**) has `0 dp` (**density-independent pixel**) `elevation`.
+* A `card` might have `1–4 dp`.
+* A `floating action button` (**FAB**) might have `6 dp or more`.
+* A `dialog or modal sheet` appears at a **much higher elevation**, **such as** `24 dp`.
 
-This consistent use of elevation helps users instinctively understand which elements are interactive or currently in focus.
+**This consistent use of elevation helps users instinctively understand which elements are interactive or currently in focus**.
 
-**Shape** complements elevation — it defines the character of components (rounded corners, cut edges, etc.). Material 3 uses a **corner radius system** (small, medium, large) to create visual coherence across elements.
+`Shape` `complements elevation` — it defines the character of components (**rounded corners, cut edges, etc.**). **Material 3 uses a** `corner radius system` (**small, medium, large**) to create visual coherence across elements.
 
 ---
 
@@ -461,13 +461,13 @@ This consistent use of elevation helps users instinctively understand which elem
 
 Motion in Android UI design has a purpose: to maintain continuity, indicate hierarchy, and provide feedback.
 
-It follows a few key principles:
+It follows a few **key principles**:
 
-* **Ease-in-out curves** create natural acceleration and deceleration.
-* **Shared element transitions** visually connect elements between screens.
-* **Transformations** (expanding, fading, translating) communicate the relationship between actions.
+* `Ease-in-out curves` create natural acceleration and deceleration.
+* `Shared element transitions` visually connect elements between screens.
+* `Transformations` (**expanding, fading, translating**) communicate the relationship between actions.
 
-Animations are short and subtle — typically under 300ms — and they never occur without reason. Their goal is to *explain*, not to *distract*.
+`Animations` are short and subtle — typically `under 300ms` — and they never occur without reason. Their **goal is to** `explain`, `not` **to** `distract`.
 
 For example, when a floating action button morphs into a form sheet, the animation clarifies that these two UI states are related.
 
@@ -475,31 +475,27 @@ For example, when a floating action button morphs into a form sheet, the animati
 
 ### 1.7 Accessibility and Inclusivity
 
-Android design emphasizes inclusivity through built-in accessibility considerations:
+Android design emphasizes inclusivity through **built-in accessibility considerations**:
 
-* **Contrast ratios** must meet at least 4.5:1 for readability.
-* **Touch targets** must be at least 48 dp × 48 dp for easy interaction.
-* **Typography scales** use *sp* (scale-independent pixels) to respect user font-size preferences.
-* **Color contrast and motion settings** adjust automatically for accessibility features (e.g., high contrast mode, reduced motion).
+* `Contrast ratios` must meet at least `4.5:1` **for readability**.
+* `Touch targets` must be at least `48 dp × 48 dp` **for easy interaction**.
+* `Typography scales` **use `sp` (scale-independent pixels)** **to respect user font-size preferences**.
+* `Color contrast and motion settings` adjust `automatic`ally for accessibility features (e.g., **high contrast mode, reduced motion**).
 
-This ensures that the UI remains usable for everyone, regardless of visual or motor limitations.
+This **ensures that the UI remains usable for everyone, regardless of visual or motor limitations**.
 
 ---
 
 ### 1.8 Summary
 
-At its core, Android UI design — through Material Design — is about clarity, coherence, and meaning.
-Every aspect of the system serves these goals:
+At its core, Android UI design — through Material Design — is about `clarity, coherence, and meaning`.
+Every aspect of the system serves these **goals**:
 
 | Concept               | Purpose                                  |
 | --------------------- | ---------------------------------------- |
-| **Material metaphor** | Establishes depth and realism            |
-| **Color roles**       | Ensure harmony and contrast              |
-| **Typography scale**  | Creates structure and readability        |
-| **Elevation**         | Communicates hierarchy and interactivity |
-| **Motion**            | Explains change and guides focus         |
-| **Accessibility**     | Guarantees inclusivity and comfort       |
-
----
-
-Would you like me to continue with **Lesson 2 — Layout and Spacing Systems (dp, sp, grid systems, and responsive structure)** next, keeping the same purely theoretical style?
+| `Material metaphor` | Establishes `depth` **and** `realism`            |
+| `Color roles`       | Ensure `harmony` **and** `contrast`              |
+| `Typography scale`  | Creates `structure` **and** `readability`        |
+| `Elevation`         | Communicates `hierarchy` **and** `interactivity` |
+| `Motion`            | Explains `change` **and** guides `focus`         |
+| `Accessibility`     | Guarantees `inclusivity` **and** `comfort`       |
