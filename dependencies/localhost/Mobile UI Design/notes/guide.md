@@ -2,7 +2,7 @@
 id: q1codqn5tngvl6j5booxtga
 title: Guide
 desc: ''
-updated: 1762570556810
+updated: 1762657215593
 created: 1762134735650
 ---
 
@@ -14,7 +14,7 @@ Since you already have a solid foundation in **HTML, CSS, JS, React, and React N
 
 * ~~Material Design fundamentals (color, typography, shapes, motion)~~
 * ~~Android-specific design guidelines (Android Developers’ Material Design guidelines)~~
-* Understanding density-independent pixels (dp) and scalable pixels (sp)
+* ~~Understanding density-independent pixels (dp) and scalable pixels (sp)~~
 * Adaptive layouts for different screen sizes and resolutions
 * Accessibility design (contrast, touch targets, screen readers)
 
