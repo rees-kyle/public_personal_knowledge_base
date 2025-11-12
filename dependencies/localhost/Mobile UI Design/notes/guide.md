@@ -2,7 +2,7 @@
 id: q1codqn5tngvl6j5booxtga
 title: Guide
 desc: ''
-updated: 1762837740701
+updated: 1762957982705
 created: 1762134735650
 ---
 
@@ -20,9 +20,9 @@ Since you already have a solid foundation in **HTML, CSS, JS, React, and React N
 
 ---
 
-### **2. Mobile UX Patterns**
+### ~~**2. Mobile UX Patterns**
 
-* Navigation patterns: bottom navigation, side drawer, tabs, gestures
+* ~~Navigation patterns: bottom navigation, side drawer, tabs, gestures~~
 * Forms and input handling on mobile
 * Onboarding flows
 * Notifications and feedback mechanisms
@@ -76,5 +76,3 @@ Since you already have a solid foundation in **HTML, CSS, JS, React, and React N
 ---
 
 💡 **Tip:** Since you already know React Native, you can combine Android UI design principles with React Native components and libraries like **React Native Paper** or **NativeBase**, which implement Material Design, so you’ll be designing practically while learning theory.
-
----
