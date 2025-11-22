@@ -2,7 +2,7 @@
 id: q1codqn5tngvl6j5booxtga
 title: Guide
 desc: ''
-updated: 1763035932032
+updated: 1763831562030
 created: 1762134735650
 ---
 
@@ -24,7 +24,7 @@ Since you already have a solid foundation in **HTML, CSS, JS, React, and React N
 
 * ~~Navigation patterns: bottom navigation, side drawer, tabs, gestures~~
 * ~~Forms and input handling on mobile~~
-* Onboarding flows
+* ~~Onboarding flows~~
 * Notifications and feedback mechanisms
 * Contextual actions and modal usage
 
