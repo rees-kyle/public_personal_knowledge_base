@@ -2,7 +2,7 @@
 id: q1codqn5tngvl6j5booxtga
 title: Guide
 desc: ''
-updated: 1766709074960
+updated: 1766712693728
 created: 1762134735650
 ---
 
@@ -20,13 +20,13 @@ Since you already have a solid foundation in **HTML, CSS, JS, React, and React N
 
 ---
 
-### ~~**2. Mobile UX Patterns**
+### ~~**2. Mobile UX Patterns**~~
 
 * ~~Navigation patterns: bottom navigation, side drawer, tabs, gestures~~
 * ~~Forms and input handling on mobile~~
 * ~~Onboarding flows~~
 * ~~Notifications and feedback mechanisms~~
-* Contextual actions and modal usage
+* ~~Contextual actions and modal usage~~
 
 ---
 
