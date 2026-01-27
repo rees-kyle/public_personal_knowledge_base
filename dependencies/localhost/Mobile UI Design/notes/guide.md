@@ -2,7 +2,7 @@
 id: q1codqn5tngvl6j5booxtga
 title: Guide
 desc: ''
-updated: 1769258637913
+updated: 1769532936993
 created: 1762134735650
 ---
 
@@ -34,8 +34,8 @@ Since you already have a solid foundation in **HTML, CSS, JS, React, and React N
 
 * ~~Common UI components: Buttons, Cards, Chips, Dialogs, Snackbar, AppBar~~
 * ~~RecyclerView / ListView design patterns~~
-* ConstraintLayout and its design advantages
-* Scrollable layouts & handling long content
+* ~~ConstraintLayout and its design advantages~~
+* ~~Scrollable layouts & handling long content~~
 * Animations and transitions (motion design)
 
 ---
