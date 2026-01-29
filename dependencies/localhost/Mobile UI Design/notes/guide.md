@@ -2,7 +2,7 @@
 id: q1codqn5tngvl6j5booxtga
 title: Guide
 desc: ''
-updated: 1769532936993
+updated: 1769709338275
 created: 1762134735650
 ---
 
@@ -30,13 +30,13 @@ Since you already have a solid foundation in **HTML, CSS, JS, React, and React N
 
 ---
 
-### ~~**3. Layouts and Components (Android Focus)**
+### ~~**3. Layouts and Components (Android Focus)**~~
 
 * ~~Common UI components: Buttons, Cards, Chips, Dialogs, Snackbar, AppBar~~
 * ~~RecyclerView / ListView design patterns~~
 * ~~ConstraintLayout and its design advantages~~
 * ~~Scrollable layouts & handling long content~~
-* Animations and transitions (motion design)
+* ~~Animations and transitions (motion design)~~
 
 ---
 
