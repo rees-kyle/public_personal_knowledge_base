@@ -2,7 +2,7 @@
 id: q1codqn5tngvl6j5booxtga
 title: Guide
 desc: ''
-updated: 1769876619164
+updated: 1769973166056
 created: 1762134735650
 ---
 
@@ -44,7 +44,7 @@ Since you already have a solid foundation in **HTML, CSS, JS, React, and React N
 
 * ~~Low-fidelity vs. high-fidelity wireframes~~
 * ~~Tools for UI/UX prototyping: Figma, Adobe XD, Sketch~~
-* Creating interactive prototypes for testing
+* ~~Creating interactive prototypes for testing~~
 * Rapid iteration of design ideas
 
 ---
