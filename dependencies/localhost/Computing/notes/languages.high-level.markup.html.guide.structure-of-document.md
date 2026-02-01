@@ -2,7 +2,7 @@
 id: j2m8o7jqco8b2x6pgcfzpqc
 title: 003 - Structure of Document
 desc: ''
-updated: 1715172014165
+updated: 1769967739376
 created: 1702320621409
 ---
 
@@ -56,7 +56,7 @@ Refers to `data` **that provides** `information` **about** `other data`.
 
 ---
 </details>
-<!-- end of 'example' section -->
+<!-- end of 'metadata' section -->
 
 
 
