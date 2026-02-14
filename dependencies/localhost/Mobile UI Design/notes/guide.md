@@ -2,7 +2,7 @@
 id: q1codqn5tngvl6j5booxtga
 title: Guide
 desc: ''
-updated: 1770498156458
+updated: 1770943495841
 created: 1762134735650
 ---
 
@@ -52,8 +52,8 @@ Since you already have a solid foundation in **HTML, CSS, JS, React, and React N
 ### ~~**5. Advanced Design Concepts**
 
 * ~~Micro-interactions (animations, gestures)~~
-* Dark mode and theme management
-* Responsive/adaptive design for multiple devices
+* ~~Dark mode and theme management~~
+* ~~Responsive/adaptive design for multiple devices
 * Designing for performance (lightweight components, efficient rendering)
 
 ---
