@@ -2,7 +2,7 @@
 id: g8nwqorg18s3u69wyht3kvz
 title: 3 - Responsive/Adaptive Design for Multiple Devices
 desc: ''
-updated: 1771066499693
+updated: 1771678677561
 created: 1770943534774
 ---
 
@@ -89,67 +89,113 @@ Adaptive layouts rely on:
 
 ### 5. Content Density
 
-Larger screens allow:
+`Larger screens` **allow**:
 
-* Increased margins and spacing
-* More visible contextual information
-* Simultaneous display of list + detail views
+* `Increased` `margins` **and** `spacing`
+* `More visible` `contextual information`
+* `Simultaneous display` **of** `list + detail` **views**
 
-However, more space should not mean clutter—clarity remains priority.
+
+
+<!-- start of 'simultaneous' section -->
+<details>
+   <summary>Definition: simultaneous</summary>
+
+#
+Simultaneous **describes** `events that happen` `at the same time`.
+
+---
+</details>
+<!-- end of 'simultaneous' section -->
+
+
+
+####
+However, `more space` **should not mean clutter**—`clarity` **remains** `priority`.
 
 ---
 
 ### 6. Orientation and Multi-Window
 
-Design must also adapt to:
+Design must also `adapt to`:
 
-* Portrait vs landscape orientation
-* Split-screen multitasking
-* Foldable posture changes
+* `Portrait` **vs** `landscape` **orientation**
+* `Split-screen` **multitasking**
+* `Foldable posture` **changes**
 
-Layouts should reorganize smoothly without losing context.
+**Layouts should** `reorganize smoothly` `without losing context`.
 
 ---
 
 ### 7. Navigation Adaptation
 
-Navigation patterns scale with screen size:
+Navigation patterns `scale with` `screen size`:
 
 | Screen Type | Recommended Navigation |
 | ----------- | ---------------------- |
-| Phone       | Bottom navigation      |
-| Foldable    | Navigation rail        |
-| Tablet      | Persistent side drawer |
+| **Phone**       | `Bottom nav`igation      |
+| **Foldable**    | `Nav`igation `rail`        |
+| **Tablet**      | **Persistent** `side drawer` |
 
-Navigation should remain discoverable and stable.
+####
+**Navigation should remain discoverable and stable**.
 
 ---
 
 ### 8. Accessibility Across Devices
 
-Responsive design must preserve:
+Responsive design must **preserve**:
 
-* Touch target size (≥48dp)
-* Readable typography (sp scaling)
-* Logical reading order
+* `Touch target size` (`≥48dp`)
+* **Readable typography** (`sp scaling`)
+* `Logical` `reading order`
 
-Layout expansion should not reduce usability.
+**Layout expansion should not reduce usability**.
 
 ---
 
 ### 9. Key Takeaways
 
+####
 | Concept              | Purpose             |
 | -------------------- | ------------------- |
-| Adaptive structure   | Matches device size |
-| Size classes         | Simplify decisions  |
-| Flexible constraints | Maintain proportion |
-| Navigation scaling   | Improve usability   |
-| Content reflow       | Preserve clarity    |
+| **Adaptive structure**   | Matches `device size` |
+| **Size classes**         | `Simplify` `decisions`  |
+| **Flexible constraints** | Maintain `proportion` |
+| **Navigation scaling**   | Improve `usability`   |
+| **Content reflow**       | `Preserve` `clarity`    |
+
+
+
+####
+<!-- start of 'constraints' section -->
+<details>
+   <summary>Definition: constraints</summary>
+
+#
+Constraints **are** `limits or rules that restrict` `how something can` `behave`, `be arranged`, `or be done`.
+
+---
+</details>
+<!-- end of 'constraints' section -->
+
+
+
+<!-- start of 'content reflow' section -->
+<details>
+   <summary>Definition: content reflow</summary>
+
+#
+Content reflow **is** `the rearrangement of content` `to fit a different space or layout` **while** `keeping it clear and usable`.
+
+---
+</details>
+<!-- end of 'content reflow' section -->
+
+
 
 ---
 
 ### Core Idea
 
-> Responsive and adaptive design ensures that an app feels **native to every screen**,
-> not stretched or constrained by it.
+`Responsive and adaptive design` ensures that an app `feels native` `to every screen`, **not stretched or constrained by it**.
