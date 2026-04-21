@@ -2,7 +2,7 @@
 id: q1codqn5tngvl6j5booxtga
 title: Guide
 desc: ''
-updated: 1770943495841
+updated: 1776730319042
 created: 1762134735650
 ---
 
@@ -49,16 +49,16 @@ Since you already have a solid foundation in **HTML, CSS, JS, React, and React N
 
 ---
 
-### ~~**5. Advanced Design Concepts**
+### ~~**5. Advanced Design Concepts**~~
 
 * ~~Micro-interactions (animations, gestures)~~
 * ~~Dark mode and theme management~~
-* ~~Responsive/adaptive design for multiple devices
-* Designing for performance (lightweight components, efficient rendering)
+* ~~Responsive/adaptive design for multiple devices~~
+* ~~Designing for performance (lightweight components, efficient rendering)~~
 
 ---
 
-### **6. Design Handoff & Collaboration**
+### **6. ~~Design Handoff & Collaboration**
 
 * Exporting assets for Android (SVG, PNG, 9-patch images)
 * Spec documentation for developers
