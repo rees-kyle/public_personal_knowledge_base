@@ -2,7 +2,7 @@
 id: q1codqn5tngvl6j5booxtga
 title: Guide
 desc: ''
-updated: 1776730319042
+updated: 1777177346638
 created: 1762134735650
 ---
 
@@ -60,8 +60,8 @@ Since you already have a solid foundation in **HTML, CSS, JS, React, and React N
 
 ### **6. ~~Design Handoff & Collaboration**
 
-* Exporting assets for Android (SVG, PNG, 9-patch images)
-* Spec documentation for developers
+* ~~Exporting assets for Android (SVG, PNG, 9-patch images)~~
+* ~~Spec documentation for developers
 * Versioning design files and maintaining consistency (Design Systems)
 * Integrating design with React Native components
 
