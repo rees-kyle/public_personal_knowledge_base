@@ -2,7 +2,7 @@
 id: q1codqn5tngvl6j5booxtga
 title: Guide
 desc: ''
-updated: 1778050708662
+updated: 1778132778833
 created: 1762134735650
 ---
 
@@ -71,7 +71,7 @@ Since you already have a solid foundation in **HTML, CSS, JS, React, and React N
 
 * ~~Applying Material Design in React Native~~
 * ~~User research & testing (A/B testing, user flows)~~
-* Motion design tools (Lottie for React Native animations)
+* ~~Motion design tools (Lottie for React Native animations)~~
 * Iconography and typography design for mobile
 
 ---
